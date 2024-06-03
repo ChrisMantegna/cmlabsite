@@ -19,5 +19,5 @@ html_dependencies:
 -   [ ] Complete mussel biomarker activity and morphometric analysis
 -   [ ] Draft the results section of the biomarker manuscript
 -   [ ] Complete draft lesson plans of the intertidal content for IG
--   [ ] Send out YI speaker and skill builder solicitations
--   [ ] Confirm sampling days and weekly schedule for YI
+-   [x] Send out YI speaker and skill builder solicitations
+-   [x] Confirm sampling days and weekly schedule for YI
