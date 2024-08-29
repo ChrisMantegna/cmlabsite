@@ -39,7 +39,7 @@
     "href": "notebook.html",
     "title": "Lab Notebook",
     "section": "",
-    "text": "I think I got this right, maybe"
+    "text": "&lt;h4&gt;&lt;b&gt;Post Title 1&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Short description of post 1...&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Post Title 2&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Short description of post 2...&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Post Title 3&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Short description of post 3...&lt;/p&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "projects.html#ecology---methods-for-biodiversity-monitoring",

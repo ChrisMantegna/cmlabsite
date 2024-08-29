@@ -1,6 +1,5 @@
 ---
 title: "Lab Notebook"
-author: "Chris Mantegna"
 format: html
 layout: default
 toc: true
@@ -15,13 +14,37 @@ listing:
     - reading-time
 ---
 
-<div class="top-section">
-# Recent Updates
+<div class="card-grid">
 
-I think I got this right, maybe
+<div class="card">
+  <a href="post1.qmd">
+    <img src="path_to_image1.jpg" alt="Post 1" style="width:100%">
+    <div class="container">
+      <h4><b>Post Title 1</b></h4>
+      <p>Short description of post 1...</p>
+    </div>
+  </a>
+</div>
 
-![](/images/bloodStar.png)
+<div class="card">
+  <a href="post2.qmd">
+    <img src="path_to_image2.jpg" alt="Post 2" style="width:100%">
+    <div class="container">
+      <h4><b>Post Title 2</b></h4>
+      <p>Short description of post 2...</p>
+    </div>
+  </a>
+</div>
 
+<div class="card">
+  <a href="post3.qmd">
+    <img src="path_to_image3.jpg" alt="Post 3" style="width:100%">
+    <div class="container">
+      <h4><b>Post Title 3</b></h4>
+      <p>Short description of post 3...</p>
+    </div>
+  </a>
+</div>
 
 </div>
 
