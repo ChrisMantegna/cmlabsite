@@ -1,16 +1,32 @@
 ---
-title: "Research Notebook"
+title: "Lab Notebook"
+author: "Chris Mantegna"
+format: html
+layout: default
+toc: true
 listing:
   contents: notebook
   sort: "date desc"
-  type: table
-  categories: true
-  sort-ui: false
-  filter-ui: false
-  fields: [image, date, title, author, categories, reading-time]
-  feed: true
-page-layout: full
-title-block-banner: true
+  fields: 
+    - date
+    - title
+    - author
+    - categories
+    - reading-time
 ---
 
-I'm trying to change the layout 
+<div class="top-section">
+# Recent Updates
+
+I think I got this right, maybe
+
+![](/images/bloodStar.png)
+
+
+</div>
+
+<div class="bottom-list">
+## Daily Entries
+
+<!-- The listing feature will automatically generate the list of posts -->
+</div>

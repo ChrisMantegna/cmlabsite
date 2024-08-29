@@ -37,9 +37,9 @@
   {
     "objectID": "notebook.html",
     "href": "notebook.html",
-    "title": "Research Notebook",
+    "title": "Lab Notebook",
     "section": "",
-    "text": "I’m trying to change the layout - if this works, that means this is the guiding doc for my layout\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\nCategories\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nMay 1, 2024\n\n\nMay 2024 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n3 min\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nMay 2024 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n1 min\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nApril 2024 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n1 min\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nMarch 2024 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n5 min\n\n\n\n\n\n\n\nFeb 29, 2024\n\n\nMarch 2024 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n1 min\n\n\n\n\n\n\n\nFeb 1, 2024\n\n\nFebruary 2024 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n12 min\n\n\n\n\n\n\n\nJan 31, 2024\n\n\nFebruary 2024 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n1 min\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nJanuary 2024 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n10 min\n\n\n\n\n\n\n\nDec 31, 2023\n\n\nJanuary 2024 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n2 min\n\n\n\n\n\n\n\nDec 1, 2023\n\n\nDecember 2023 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n6 min\n\n\n\n\n\n\n\nNov 29, 2023\n\n\nDecember 2023 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n2 min\n\n\n\n\n\n\n\nNov 1, 2023\n\n\nNovember 2023 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n6 min\n\n\n\n\n\n\n\nOct 31, 2023\n\n\nNovember 2023 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n3 min\n\n\n\n\n\n\n\nOct 1, 2023\n\n\nOctober 2023 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n7 min\n\n\n\n\n\n\n\nSep 30, 2023\n\n\nOctober 2023 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n1 min\n\n\n\n\n\n\n\nSep 1, 2023\n\n\nSeptember 2023 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n4 min\n\n\n\n\n\n\n\nAug 31, 2023\n\n\nSeptember 2023 Goals\n\n\nChris Mantegna\n\n\nmonthly goals,daily entries\n\n\n1 min\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nAugust 2023 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n12 min\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nJuly 2023 Daily Notebook Post Log\n\n\nChris Mantegna\n\n\nmonthly goals,daily log\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
+    "text": "I think I got this right, maybe"
   },
   {
     "objectID": "projects.html#ecology---methods-for-biodiversity-monitoring",
@@ -2133,5 +2133,12 @@
     "title": "Month 2024 Goals",
     "section": "",
     "text": "Goal 1: First one and progress bar\n::: progress ::: {.progress-bar role=“progressbar” style=“width: 10%;” aria-valuenow=“75” aria-valuemin=“0” aria-valuemax=“100”} 10% ::: :::\nGoal 2: Second one and progress bar\n::: progress ::: {.progress-bar role=“progressbar” style=“width: 15%;” aria-valuenow=“50” aria-valuemin=“0” aria-valuemax=“100”} 15% ::: :::\nGoal 3: Third one and progress bar\n\n\n0%\n\n\n\n\n\n\nGoal 1: goal\n::: progress ::: {.progress-bar role=“progressbar” style=“width: 100%;” aria-valuenow=“100” aria-valuemin=“0” aria-valuemax=“100”} 100% ::: :::\nGoal 2: goal\n::: progress ::: {.progress-bar role=“progressbar” style=“width: 100%;” aria-valuenow=“100” aria-valuemin=“0” aria-valuemax=“100”} 100% ::: :::\nGoal 3: goal\n::: progress ::: {.progress-bar role=“progressbar” style=“width: 10%;” aria-valuenow=“10” aria-valuemin=“0” aria-valuemax=“100”} 10% ::: :::\n\n\n\n\nWhat worked, what didn’t, where can I improve\n\n\n\nI planned my bench time and put it on my calendar.\nI set a meeting date for the committee meeting to meet a goal of bypass in Winter Quarter.\n\n\n\n\n\nI didn’t follow- up on data availability or process fast enough.\n\nI didn’t spend my time waiting for data to clarify the workflow for eDNA bioinformatics pipeline.\n\n\n\n\n\nSpend time at the beginning of each week not just mapping out ‘outside’ obligations but tasks that are involved in my own work.\nBlock dedicated time for my work, not just work impacting others. Do this by breaking down to the task- level of the project and then adding individual tasks to my calendar.\nSchedule ‘bench’ time for coding and computer- based work."
+  },
+  {
+    "objectID": "notebook.html#daily-entries",
+    "href": "notebook.html#daily-entries",
+    "title": "Lab Notebook",
+    "section": "Daily Entries",
+    "text": "Daily Entries"
   }
 ]
