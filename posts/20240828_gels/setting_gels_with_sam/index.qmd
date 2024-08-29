@@ -1,0 +1,16 @@
+---
+title: Settin' Up Gels with Sam - A Tutorial
+author: CM
+date: August 28, 2024
+---
+# Goal
+Today's goal was to learn how to run a gel solo. I'm not sure I've done it unaccompanied since undergrad, and honestly... I'm certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we'll see.
+
+# Purpose
+I'm going to run a gel to assess the integrity of gDNA extracted from my WDFW mussel samples. The first set of extractions were QC'd at the sequencer and there's some serious degrading. To rule out human error, I have the gill tissue and the mantle tissue from my original 24 samples. I'm going to extract DNA from the gill and mantle of 5 of the samples that had the lowest QC scores and then run a gel to see if the DNA is degraded. 🤞🏽
+
+#Process
+## Sample Prep
+## Gel Prep
+## Tips to Remember
+## Proper Protocol
