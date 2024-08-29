@@ -19,7 +19,7 @@ listing:
 
 <div class="card">
 
-<a href="posts/post1.qmd"> <img src="path_to_image1.jpg" alt="Post 1" style="width:100%"/>
+<a href="posts/20240828/geltutorial/index.qmd"> <img src="path_to_image1.jpg" alt="Post 1" style="width:100%"/>
 
 ::: container
 ```         
@@ -33,7 +33,7 @@ listing:
 
 <div class="card">
 
-<a href="posts/post2.qmd"> <img src="path_to_image2.jpg" alt="Post 2" style="width:100%"/>
+<a href="posts/20240829/extractions_gels/index.qmd.qmd"> <img src="path_to_image2.jpg" alt="Post 2" style="width:100%"/>
 
 ::: container
 ```         
