@@ -1,0 +1,14 @@
+---
+title: Testing The Setup
+author: CM
+date: August 27, 2024
+---
+
+## Goal
+To get this new notebook setup up and running. 
+
+## Purpose
+Trying to simplify so that I can use the notebook as the tool it is designed to be
+
+## Process
+Wipe out all of the bells an whistles and get the basics right. Get consistent and then grow.
