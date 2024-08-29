@@ -1,0 +1,13 @@
+---
+title: "August 78, 2024"
+author: "CM"
+date: "2023-08-27"
+categories: [ "daily log"]
+format:
+  html:
+    toc: true
+---
+
+Final SICB edits on the group's abstracts\
+Completed my proposal for BIMS Week\
+Worked out IG budget and final expenses

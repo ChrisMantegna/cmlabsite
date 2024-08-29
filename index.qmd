@@ -1,35 +1,66 @@
 ---
-title: "Chris Mantegna  Graduate Student     SAFS  ||   University of Washington"
-image: MantegnaChrisPhoto.JPG
-about:
-  template: trestles
-  image-shape: round
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/SaffireSeahorse
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/cmantegna
-    - icon: github
-      text: Github
-      href: https://github.com/ChrisMantegna
+title: "Progress makes a PhD...My work in the Roberts Lab, University of Washington"
+author: "C. Mantegna"
+format: html
+layout: default
+toc: true
+listing:
+  contents: notebook  # Only lab notebook entries here
+  sort: "date desc"
+  fields: 
+    - date
+    - title
+    - author
+    - categories
+    - reading-time
 ---
 
-## won't you celebrate with me
+<div class="card-grid">
 
-by [Lucille Clifton](https://www.poetryfoundation.org/poets/lucille-clifton)
+<div class="card">
 
-won't you celebrate with me\
-what i have shaped into a kind of life? i had no model.\
-born in babylon\
-both nonwhite and\
-woman what did i see to be except myself?\
-i made it up\
-here on this bridge between\
-starshine and clay,\
-my one hand holding tight\
-my other hand; come celebrate\
-with me that everyday\
-something has tried to kill me\
-and has failed.
+<a href="posts/post1.qmd"> <img src="path_to_image1.jpg" alt="Post 1" style="width:100%"/>
+
+::: container
+```         
+  <h4><b>Post Title 1</b></h4>
+  <p>Short description of post 1...</p>
+</div>
+```
+
+</a>
+:::
+
+<div class="card">
+
+<a href="posts/post2.qmd"> <img src="path_to_image2.jpg" alt="Post 2" style="width:100%"/>
+
+::: container
+```         
+  <h4><b>Post Title 2</b></h4>
+  <p>Short description of post 2...</p>
+</div>
+```
+
+</a>
+:::
+
+::: card
+<a href="posts/post3.qmd"> <img src="path_to_image3.jpg" alt="Post 3" style="width:100%"/>
+
+::: container
+```         
+  <h4><b>Post Title 3</b></h4>
+  <p>Short description of post 3...</p>
+</div>
+```
+
+</a>
+:::
+:::
+
+::: bottom-list
+## Daily Entries
+
+<!-- The listing feature will automatically generate the list of posts -->
+:::

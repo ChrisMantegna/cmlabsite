@@ -6,16 +6,9 @@ website:
   title: "Chris' Lab Notebook"
   navbar:
     right:
-      - href: about.qmd
-        text: About
-      - href: blog.qmd
-        text: Blog
-      - href: projects.qmd
-        text: Projects
-      - href: mentorship.qmd
-        text: Mentorship & Outreach
+      - icon: journal-text
       - href: notebook.qmd
-        text: Notebook
+      - text: Notebook
       - icon: github
         href: https://github.com/ChrisMantegna
       - icon: twitter
@@ -24,6 +17,7 @@ format:
   html:
     theme: pulse
     css: styles.css
+    toc: true
 
 editor: visual
 

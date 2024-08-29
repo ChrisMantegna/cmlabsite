@@ -1,4 +1,7 @@
-/* css styles */
+.author-label {
+  display: none;
+}
+
 
 .card-grid {
   display: grid;

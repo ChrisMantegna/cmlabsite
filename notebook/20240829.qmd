@@ -1,0 +1,11 @@
+---
+title: "August 29, 2024"
+author: "CM"
+date: "2023-08-29"
+categories: [ "daily log"]
+format:
+  html:
+    toc: true
+---
+
+TESTING the template

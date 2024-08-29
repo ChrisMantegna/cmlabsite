@@ -1,0 +1,16 @@
+---
+title: "August 28, 2024"
+author: "CM"
+date: "2023-08-28"
+categories: [ "daily log"]
+format:
+  html:
+    toc: true
+---
+
+Moving forward slowly with mussel biomarker visualizations\
+Cleaned up IG tasks, reminders and sent out the Friday meeting agenda\
+Submitted my SICB abstract and verified the Yellow crew was solid- there are 7 abstracts submitted including mine
+
+
+
