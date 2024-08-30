@@ -2168,5 +2168,82 @@
     "title": "Progress makes a PhD…",
     "section": "Daily Entries",
     "text": "Daily Entries"
+  },
+  {
+    "objectID": "posts/20240827/IGwrapup/index.html",
+    "href": "posts/20240827/IGwrapup/index.html",
+    "title": "Testing The Setup",
+    "section": "",
+    "text": "To get this new notebook setup up and running."
+  },
+  {
+    "objectID": "posts/20240827/IGwrapup/index.html#goal",
+    "href": "posts/20240827/IGwrapup/index.html#goal",
+    "title": "Testing The Setup",
+    "section": "",
+    "text": "To get this new notebook setup up and running."
+  },
+  {
+    "objectID": "posts/20240827/IGwrapup/index.html#purpose",
+    "href": "posts/20240827/IGwrapup/index.html#purpose",
+    "title": "Testing The Setup",
+    "section": "Purpose",
+    "text": "Purpose\nTrying to simplify so that I can use the notebook as the tool it is designed to be"
+  },
+  {
+    "objectID": "posts/20240827/IGwrapup/index.html#process",
+    "href": "posts/20240827/IGwrapup/index.html#process",
+    "title": "Testing The Setup",
+    "section": "Process",
+    "text": "Process\nWipe out all of the bells an whistles and get the basics right. Get consistent and then grow."
+  },
+  {
+    "objectID": "posts/20240828/geltutorial/index.html",
+    "href": "posts/20240828/geltutorial/index.html",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "",
+    "text": "Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see."
+  },
+  {
+    "objectID": "posts/20240828/geltutorial/index.html#goal",
+    "href": "posts/20240828/geltutorial/index.html#goal",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "",
+    "text": "Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see."
+  },
+  {
+    "objectID": "posts/20240828/geltutorial/index.html#purpose",
+    "href": "posts/20240828/geltutorial/index.html#purpose",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Purpose",
+    "text": "Purpose\nI’m going to run a gel to assess the integrity of gDNA extracted from my WDFW mussel samples. The first set of extractions were QC’d at the sequencer and there’s some serious degrading. To rule out human error, I have the gill tissue and the mantle tissue from my original 24 samples. I’m going to extract DNA from the gill and mantle of 5 of the samples that had the lowest QC scores and then run a gel to see if the DNA is degraded. 🤞🏽"
+  },
+  {
+    "objectID": "posts/20240828/geltutorial/index.html#process",
+    "href": "posts/20240828/geltutorial/index.html#process",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Process",
+    "text": "Process\n\nSample Prep\n\n\nGel Prep\n\n\nTips to Remember\n\n\nProper Protocol"
+  },
+  {
+    "objectID": "posts/20240829/extractions_gels/index.html",
+    "href": "posts/20240829/extractions_gels/index.html",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "",
+    "text": "Knock out my extractions, quantify the DNA concentrations and then run that gel!"
+  },
+  {
+    "objectID": "posts/20240829/extractions_gels/index.html#goal",
+    "href": "posts/20240829/extractions_gels/index.html#goal",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "",
+    "text": "Knock out my extractions, quantify the DNA concentrations and then run that gel!"
+  },
+  {
+    "objectID": "posts/20240829/extractions_gels/index.html#purpose",
+    "href": "posts/20240829/extractions_gels/index.html#purpose",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "Purpose",
+    "text": "Purpose\n##Process"
   }
 ]
