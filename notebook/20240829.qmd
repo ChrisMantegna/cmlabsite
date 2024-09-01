@@ -8,4 +8,6 @@ format:
     toc: true
 ---
 
-TESTING the template
+Went over the gel protocol and process with Sam.\
+Extracted gill and mantle tissue from the samples with the lowest three DIN scores from the Psomagen QC report using the Omega kit. Extraction count was so low based on the limiting factor of available chloroform-isoamyl; replacement due to arrive on 8-30-24.\
+Checked concentrations of the 6 total extractions on the Quibit.
