@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Progress makes a PhD…My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "&lt;h4&gt;&lt;b&gt;Post Title 1&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Short description of post 1...&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Post Title 2&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Short description of post 2...&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Post Title 3&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Short description of post 3...&lt;/p&gt;\n&lt;/div&gt;"
+    "text": "&lt;h4&gt;&lt;b&gt; Settin' Up Gels with Sam &lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt; Re-learning Gels &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Extractions & Concentrations&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;These mussels are making me work for it!&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Lab Notebook Setup&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Updating my lab notebook so that it is usable and manageable.&lt;/p&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "about.html",
@@ -2146,7 +2146,7 @@
     "href": "notebook/20240829.html",
     "title": "August 29, 2024",
     "section": "",
-    "text": "TESTING the template"
+    "text": "Went over the gel protocol and process with Sam.\nExtracted gill and mantle tissue from the samples with the lowest three DIN scores from the Psomagen QC report using the Omega kit. Extraction count was so low based on the limiting factor of available chloroform-isoamyl; replacement due to arrive on 8-30-24.\nChecked concentrations of the 6 total extractions on the Quibit."
   },
   {
     "objectID": "notebook/20240828.html",
@@ -2245,5 +2245,124 @@
     "title": "Extractions, Concentrations, No Degredation…Oh, My!",
     "section": "Purpose",
     "text": "Purpose\n##Process"
+  },
+  {
+    "objectID": "notebook/20240830.html",
+    "href": "notebook/20240830.html",
+    "title": "August 30, 2024",
+    "section": "",
+    "text": "Completed editing and submitted my application for the Caroline Gibson Scholarship.\nPulled together notes and the results of the pre and post-knowledge surveys for the IG meeting.\nLed the IG debrief meeting.\nSetup and ran gel on the samples from yesterday and posted gel image and concentrations to GitHub Issue #1948."
+  },
+  {
+    "objectID": "posts/post20240828.html",
+    "href": "posts/post20240828.html",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "",
+    "text": "Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see."
+  },
+  {
+    "objectID": "posts/post20240828.html#goal",
+    "href": "posts/post20240828.html#goal",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "",
+    "text": "Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see."
+  },
+  {
+    "objectID": "posts/post20240828.html#project",
+    "href": "posts/post20240828.html#project",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Project",
+    "text": "Project"
+  },
+  {
+    "objectID": "posts/post20240828.html#purpose",
+    "href": "posts/post20240828.html#purpose",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Purpose",
+    "text": "Purpose\nI’m going to run a gel to assess the integrity of gDNA extracted from my WDFW mussel samples. The first set of extractions were QC’d at the sequencer and there’s some serious degrading. To rule out human error, I have the gill tissue and the mantle tissue from my original 24 samples. I’m going to extract DNA from the gill and mantle of 5 of the samples that had the lowest QC scores and then run a gel to see if the DNA is degraded. 🤞🏽"
+  },
+  {
+    "objectID": "posts/post20240828.html#process",
+    "href": "posts/post20240828.html#process",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Process",
+    "text": "Process\n\nSample Prep\n\n\nGel Prep\n\n\nTips to Remember\n\n\nProper Protocol"
+  },
+  {
+    "objectID": "posts/post20240830.html",
+    "href": "posts/post20240830.html",
+    "title": "Testing The Setup",
+    "section": "",
+    "text": "To get this new notebook setup up and running with a few call-out blog entries that are longer documentations of the work than the daily posts"
+  },
+  {
+    "objectID": "posts/post20240830.html#goal",
+    "href": "posts/post20240830.html#goal",
+    "title": "Testing The Setup",
+    "section": "",
+    "text": "To get this new notebook setup up and running with a few call-out blog entries that are longer documentations of the work than the daily posts"
+  },
+  {
+    "objectID": "posts/post20240830.html#project",
+    "href": "posts/post20240830.html#project",
+    "title": "Testing The Setup",
+    "section": "Project",
+    "text": "Project\nWDFW Mussel Epigenetics"
+  },
+  {
+    "objectID": "posts/post20240830.html#purpose",
+    "href": "posts/post20240830.html#purpose",
+    "title": "Testing The Setup",
+    "section": "Purpose",
+    "text": "Purpose\nTrying to simplify the entry process so that I can capture decisions, data, anything that influenced the outcomes of a project"
+  },
+  {
+    "objectID": "posts/post20240830.html#process",
+    "href": "posts/post20240830.html#process",
+    "title": "Testing The Setup",
+    "section": "Process",
+    "text": "Process\nWipe out all of the bells an whistles and get the basics right. Get consistent."
+  },
+  {
+    "objectID": "posts/post20240829.html",
+    "href": "posts/post20240829.html",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "",
+    "text": "Knock out my extractions, quantify the DNA concentrations and then ran out of time to run the gel today."
+  },
+  {
+    "objectID": "posts/post20240829.html#goal",
+    "href": "posts/post20240829.html#goal",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "",
+    "text": "Knock out my extractions, quantify the DNA concentrations and then ran out of time to run the gel today."
+  },
+  {
+    "objectID": "posts/post20240829.html#project",
+    "href": "posts/post20240829.html#project",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "Project",
+    "text": "Project"
+  },
+  {
+    "objectID": "posts/post20240829.html#purpose",
+    "href": "posts/post20240829.html#purpose",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "Purpose",
+    "text": "Purpose\n##Process"
+  },
+  {
+    "objectID": "notebook/20240831.html",
+    "href": "notebook/20240831.html",
+    "title": "August 31, 2024",
+    "section": "",
+    "text": "Working on updating my lab notebook format and posts."
+  },
+  {
+    "objectID": "notebook/20240901.html",
+    "href": "notebook/20240901.html",
+    "title": "September 01, 2024",
+    "section": "",
+    "text": "Set September goals and fixed ‘blog-style’ notebook posts to reflect work in the last week.\nUpdated gel protocol to remove project specific numbers and generalize steps."
   }
 ]

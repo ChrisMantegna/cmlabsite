@@ -19,12 +19,12 @@ listing:
 
 <div class="card">
 
-<a href="posts/20240828/geltutorial/index.qmd"> <img src="path_to_image1.jpg" alt="Post 1" style="width:100%"/>
+<a href="posts/post20240828.qmd"> <img src="images/mussel.png" alt="Post 1" style="width:100%"/>
 
 ::: container
 ```         
-  <h4><b>Post Title 1</b></h4>
-  <p>Short description of post 1...</p>
+  <h4><b> Settin' Up Gels with Sam </b></h4>
+  <p> Re-learning Gels </p>
 </div>
 ```
 
@@ -33,12 +33,12 @@ listing:
 
 <div class="card">
 
-<a href="posts/20240829/extractions_gels/index.qmd"> <img src="path_to_image2.jpg" alt="Post 2" style="width:100%"/>
+<a href="posts/post20240829.qmd"> <img src="images/mussel.png" alt="Post 2" style="width:100%"/>
 
 ::: container
 ```         
-  <h4><b>Post Title 2</b></h4>
-  <p>Short description of post 2...</p>
+  <h4><b>Extractions & Concentrations</b></h4>
+  <p>These mussels are making me work for it!</p>
 </div>
 ```
 
@@ -46,12 +46,12 @@ listing:
 :::
 
 ::: card
-<a href="posts/20240827/IGwrapup/index.qmd"> <img src="path_to_image3.jpg" alt="Post 3" style="width:100%"/>
+<a href="posts/post20240830.qmd"> <img src="images/mussel.png" alt="Post 3" style="width:100%"/>
 
 ::: container
 ```         
-  <h4><b>Post Title 3</b></h4>
-  <p>Short description of post 3...</p>
+  <h4><b>Lab Notebook Setup</b></h4>
+  <p>Updating my lab notebook so that it is usable and manageable.</p>
 </div>
 ```
 
