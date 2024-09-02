@@ -2,6 +2,7 @@
 title: Extractions, Concentrations, No Degredation...Oh, My!
 author: CM
 date: August 29, 2024
+categories: [ "daily log", "project progress", "mussel epigenetics", "benchwork"]
 ---
 
 ## Goal
