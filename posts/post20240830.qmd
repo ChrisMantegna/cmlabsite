@@ -2,13 +2,14 @@
 title: Testing The Setup
 author: CM
 date: August 30, 2024
+categories: [ "daily log", "lab notebook", "writing"]
 ---
 
 ## Goal
 To get this new notebook setup up and running with a few call-out blog entries that are longer documentations of the work than the daily posts
 
 ## Project
-WDFW Mussel Epigenetics
+Lab Notebook Cleanup
 
 ## Purpose
 Trying to simplify the entry process so that I can capture decisions, data, anything that influenced the outcomes of a project
