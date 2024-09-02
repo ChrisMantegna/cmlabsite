@@ -49,4 +49,4 @@ I pulled up a few gel protocols and wrote out a few questions in case I was real
 5. Air is the enemy - don't jam the tip of the pipette into the wells or expel all of your sample beyond the first stop. 
 
 ### Proper Protocol
-I know that was willy-nilly, so here's a real version of how to run a gel.
+I know that was willy-nilly, so here's a [real version ](https://github.com/ChrisMantegna/WDFWmussels_epigenetics/blob/main/protocols/agarose_gel.qmd) of how to run a gel.
