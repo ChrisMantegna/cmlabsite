@@ -4,6 +4,10 @@ author: "C. Mantegna"
 format: html
 layout: default
 toc: true
+sidebar:
+  right:
+    - toc
+    - categories
 listing:
   contents: notebook  # Only lab notebook entries here
   sort: "date desc"
@@ -40,11 +44,11 @@ listing:
   </div>
 
   <div class="card" style="flex: 1;">
-    <a href="posts/post20240830.qmd"> 
+    <a href="posts/post20240901.qmd"> 
       <img src="images/mussel.png" alt="Post 3" style="width:100%"/>
       <div>
-        <h4><b>Lab Notebook Setup</b></h4>
-        <p>Updating my lab notebook</p>
+        <h4><b>September Goals</b></h4>
+        <p>Intentional plan for progress</p>
       </div>
     </a>
   </div>
