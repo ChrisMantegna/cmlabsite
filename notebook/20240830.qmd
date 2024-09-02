@@ -1,0 +1,14 @@
+---
+title: "August 30, 2024"
+author: "CM"
+date: "2023-08-30"
+categories: [ "daily log"]
+format:
+  html:
+    toc: true
+---
+
+Completed editing and submitted my application for the Caroline Gibson Scholarship.\
+Pulled together notes and the results of the pre and post-knowledge surveys for the IG meeting.\
+Led the IG debrief meeting.\
+Setup and ran gel on the samples from yesterday and posted gel image and concentrations to [GitHub Issue #1948](https://github.com/RobertsLab/resources/issues/1948). 
