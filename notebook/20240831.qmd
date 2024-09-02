@@ -1,0 +1,11 @@
+---
+title: "August  31, 2024"
+author: "CM"
+date: "2023-08-31"
+categories: [ "daily log"]
+format:
+  html:
+    toc: true
+---
+
+Working on updating my lab notebook format and posts.
