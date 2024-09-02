@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Progress makes a PhD…My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n      \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n      \n      \n        \n        Updating my lab notebook"
+    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n      \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n      \n      \n        \n        Intentional plan for progress"
   },
   {
     "objectID": "about.html",
@@ -2370,7 +2370,7 @@
     "href": "index.html#updates",
     "title": "Progress makes a PhD…My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n      \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n      \n      \n        \n        Updating my lab notebook"
+    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n      \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n      \n      \n        \n        Intentional plan for progress"
   },
   {
     "objectID": "index.html#categories",
@@ -2378,5 +2378,19 @@
     "title": "Progress makes a PhD…My work in the Roberts Lab, University of Washington",
     "section": "Categories",
     "text": "Categories\n::: {.sidebar-right}\n\nGeneral\n\nDaily Log\nMonthly Goals\nProject Progress\n\n\n\nProject\n\nIG Workshop\nInnovation Grant\nLab Notebook\nMussel Biomarkers\nMussel Epigenetics\nSICB\nWhale Museum Modeling\nYellow Island eDNA\nYellow Island ecology\n\n\n\nTask\n\nAnalysis\nBench\nCoding\nData collection\nLiterature\nMentoring\nWriting :::"
+  },
+  {
+    "objectID": "posts/post20240901.html",
+    "href": "posts/post20240901.html",
+    "title": "September Goals",
+    "section": "",
+    "text": "My main goals for September are in 2 main projects, the mussel biomarker project and the Yellow Island 2023 eDNA project. My third goal is in preparation for the 2025 SICB Conference in Atlanta.\n\n\n[ ] Draft figures and revise Methods 9/5 [ ] Update Results and draft Introduction 9/13 [ ] Revise existing sections and draft Discussion 9/20 [ ] Continue to edit until draft and figures are cohesive, send to WDFW collaborators 9/30\n\n\n\n[ ] Refamiliarize myself with the workflow and where I left off 9/16 [ ] Merge Fastq files as ASVs 9/16 [ ] Work through Phyloseq pipeline 9/24 [ ] Prepare agenda for meeting with Camille 9/24\n\n\n\n[ ] Check coding scheduler to build fall schedule 9/10 [ ] Verify student’s academic timeline’s and back schedule check-ins and working time 9/25 [ ] Schedule test- run at lab meeting for presentations and posters 9/30 [ ] Build the initial framework for my own presentation 9/30"
+  },
+  {
+    "objectID": "posts/post20240901.html#goals",
+    "href": "posts/post20240901.html#goals",
+    "title": "September Goals",
+    "section": "",
+    "text": "My main goals for September are in 2 main projects, the mussel biomarker project and the Yellow Island 2023 eDNA project. My third goal is in preparation for the 2025 SICB Conference in Atlanta.\n\n\n[ ] Draft figures and revise Methods 9/5 [ ] Update Results and draft Introduction 9/13 [ ] Revise existing sections and draft Discussion 9/20 [ ] Continue to edit until draft and figures are cohesive, send to WDFW collaborators 9/30\n\n\n\n[ ] Refamiliarize myself with the workflow and where I left off 9/16 [ ] Merge Fastq files as ASVs 9/16 [ ] Work through Phyloseq pipeline 9/24 [ ] Prepare agenda for meeting with Camille 9/24\n\n\n\n[ ] Check coding scheduler to build fall schedule 9/10 [ ] Verify student’s academic timeline’s and back schedule check-ins and working time 9/25 [ ] Schedule test- run at lab meeting for presentations and posters 9/30 [ ] Build the initial framework for my own presentation 9/30"
   }
 ]
