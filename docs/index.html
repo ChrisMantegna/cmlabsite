@@ -147,7 +147,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#daily-entries" id="toc-daily-entries" class="nav-link active" data-scroll-target="#daily-entries">Daily Entries</a></li>
+  <li><a href="#project-progress" id="toc-project-progress" class="nav-link active" data-scroll-target="#project-progress">Project Progress</a>
+  <ul class="collapse">
+  <li><a href="#daily-entries" id="toc-daily-entries" class="nav-link" data-scroll-target="#daily-entries">Daily Entries</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -177,34 +180,40 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="project-progress" class="level1">
+<h1>Project Progress</h1>
 <div class="card-grid" style="display: flex; gap: 1rem; flex-wrap: wrap;">
-<div class="card" style="flex: 1;">
-<pre><code>&lt;a href="posts/post20240828.qmd"&gt; 
-  &lt;img src="images/mussel.png" alt="Post 1" style="width:100%"/&gt;
-  &lt;div&gt;
-    &lt;h4&gt;&lt;b&gt;Settin' Up Gels with Sam&lt;/b&gt;&lt;/h4&gt;
-    &lt;p&gt;Re-learning Gels&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/a&gt;</code></pre>
-</div>
-<div class="card" style="flex: 1;">
-<pre><code>&lt;a href="posts/post20240829.qmd"&gt; 
-  &lt;img src="images/mussel.png" alt="Post 2" style="width:100%"/&gt;
-  &lt;div&gt;
-    &lt;h4&gt;&lt;b&gt;Extractions &amp; Concentrations&lt;/b&gt;&lt;/h4&gt;
-    &lt;p&gt;These mussels are making me work for it!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/a&gt;</code></pre>
-</div>
-<div class="card" style="flex: 1;">
-<pre><code>&lt;a href="posts/post20240830.qmd"&gt; 
-  &lt;img src="images/mussel.png" alt="Post 3" style="width:100%"/&gt;
-  &lt;div&gt;
-    &lt;h4&gt;&lt;b&gt;Lab Notebook Setup&lt;/b&gt;&lt;/h4&gt;
-    &lt;p&gt;Updating my lab notebook so that it is usable and manageable.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/a&gt;</code></pre>
-</div>
+
+  <div class="card" style="flex: 1;">
+    <a href="./posts/post20240828.html"> 
+      <img src="images/mussel.png" alt="Post 1" style="width:100%">
+      <div>
+        <h4 class="anchored"><b>Settin' Up Gels with Sam</b></h4>
+        <p>Re-learning Gels</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="card" style="flex: 1;">
+    <a href="./posts/post20240829.html"> 
+      <img src="images/mussel.png" alt="Post 2" style="width:100%">
+      <div>
+        <h4 class="anchored"><b>Extractions &amp; Concentrations</b></h4>
+        <p>These mussels are making me work for it!</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="card" style="flex: 1;">
+    <a href="./posts/post20240830.html"> 
+      <img src="images/mussel.png" alt="Post 3" style="width:100%">
+      <div>
+        <h4 class="anchored"><b>Lab Notebook Setup</b></h4>
+        <p>Updating my lab notebook so that it is usable and manageable.</p>
+      </div>
+    </a>
+  </div>
+
 </div>
 <section id="daily-entries" class="level2">
 <h2 class="anchored" data-anchor-id="daily-entries">Daily Entries</h2>
@@ -212,6 +221,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+</section>
 </section>
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
