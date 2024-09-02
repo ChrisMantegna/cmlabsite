@@ -15,7 +15,7 @@ listing:
     - reading-time
 ---
 
-# Project Progress
+## Updates
 ```{=html}
 <div class="card-grid" style="display: flex; gap: 1rem; flex-wrap: wrap;">
 
@@ -44,7 +44,7 @@ listing:
       <img src="images/mussel.png" alt="Post 3" style="width:100%"/>
       <div>
         <h4><b>Lab Notebook Setup</b></h4>
-        <p>Updating my lab notebook so that it is usable and manageable.</p>
+        <p>Updating my lab notebook</p>
       </div>
     </a>
   </div>
