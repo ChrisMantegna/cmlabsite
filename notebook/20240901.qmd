@@ -1,0 +1,11 @@
+---
+title: "September  01, 2024"
+author: "CM"
+date: "2023-09-01"
+categories: [ "daily log"]
+format:
+  html:
+    toc: true
+---
+Set September goals and fixed ‘blog-style’ notebook posts to reflect work in the last week.\
+Updated gel protocol to remove project specific numbers and generalize steps.
