@@ -1,0 +1,28 @@
+---
+title: September Goals
+author: CM
+date: September 1, 2024
+categories: [ "daily log", “monthly goals”]
+---
+
+## Goals
+
+My main goals for September are in 2 main projects, the mussel biomarker project and the Yellow Island 2023 eDNA project. My third goal is in preparation for the 2025 SICB Conference in Atlanta.
+
+### Goal 1: Biomarker Manuscript
+[ ] Draft figures and revise Methods 9/5
+[ ] Update Results and draft Introduction 9/13
+[ ] Revise existing sections and draft Discussion 9/20
+[ ] Continue to edit until draft and figures are cohesive, send to WDFW collaborators 9/30
+
+### Goal 2: eDNA Analysis
+[ ] Refamiliarize myself with the workflow and where I left off 9/16
+[ ] Merge Fastq files as ASVs 9/16
+[ ] Work through Phyloseq pipeline 9/24
+[ ] Prepare agenda for meeting with Camille 9/24
+
+### Goal 3: SICB Preparation
+[ ] Check coding scheduler to build fall schedule 9/10
+[ ] Verify student’s academic timeline’s and back schedule check-ins and working time 9/25
+[ ] Schedule test- run at lab meeting for presentations and posters 9/30
+[ ] Build the initial framework for my own presentation 9/30
