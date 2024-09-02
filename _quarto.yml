@@ -6,9 +6,8 @@ website:
   title: "Chris' Lab Notebook"
   navbar:
     right:
-      - icon: journal-text
+      - icon: journal-richtext
       - href: notebook.qmd
-      - text: Notebook
       - icon: github
         href: https://github.com/ChrisMantegna
       - icon: twitter
