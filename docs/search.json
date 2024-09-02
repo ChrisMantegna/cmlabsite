@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Progress makes a PhD…My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "&lt;h4&gt;&lt;b&gt; Settin' Up Gels with Sam &lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt; Re-learning Gels &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Extractions & Concentrations&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;These mussels are making me work for it!&lt;/p&gt;\n&lt;/div&gt;\n\n\n\n \n\n  &lt;h4&gt;&lt;b&gt;Lab Notebook Setup&lt;/b&gt;&lt;/h4&gt;\n  &lt;p&gt;Updating my lab notebook so that it is usable and manageable.&lt;/p&gt;\n&lt;/div&gt;"
+    "text": "&lt;a href=\"posts/post20240828.qmd\"&gt; \n  &lt;img src=\"images/mussel.png\" alt=\"Post 1\" style=\"width:100%\"/&gt;\n  &lt;div&gt;\n    &lt;h4&gt;&lt;b&gt;Settin' Up Gels with Sam&lt;/b&gt;&lt;/h4&gt;\n    &lt;p&gt;Re-learning Gels&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"posts/post20240829.qmd\"&gt; \n  &lt;img src=\"images/mussel.png\" alt=\"Post 2\" style=\"width:100%\"/&gt;\n  &lt;div&gt;\n    &lt;h4&gt;&lt;b&gt;Extractions & Concentrations&lt;/b&gt;&lt;/h4&gt;\n    &lt;p&gt;These mussels are making me work for it!&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"posts/post20240830.qmd\"&gt; \n  &lt;img src=\"images/mussel.png\" alt=\"Post 3\" style=\"width:100%\"/&gt;\n  &lt;div&gt;\n    &lt;h4&gt;&lt;b&gt;Lab Notebook Setup&lt;/b&gt;&lt;/h4&gt;\n    &lt;p&gt;Updating my lab notebook so that it is usable and manageable.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/a&gt;"
   },
   {
     "objectID": "about.html",
@@ -2165,7 +2165,7 @@
   {
     "objectID": "index.html#daily-entries",
     "href": "index.html#daily-entries",
-    "title": "Progress makes a PhD…",
+    "title": "Progress makes a PhD…My work in the Roberts Lab, University of Washington",
     "section": "Daily Entries",
     "text": "Daily Entries"
   },

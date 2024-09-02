@@ -15,52 +15,40 @@ listing:
     - reading-time
 ---
 
-<div class="card-grid">
+<div class="card-grid" style="display: flex; gap: 1rem; flex-wrap: wrap;">
 
-<div class="card">
+  <div class="card" style="flex: 1;">
+    <a href="posts/post20240828.qmd"> 
+      <img src="images/mussel.png" alt="Post 1" style="width:100%"/>
+      <div>
+        <h4><b>Settin' Up Gels with Sam</b></h4>
+        <p>Re-learning Gels</p>
+      </div>
+    </a>
+  </div>
 
-<a href="posts/post20240828.qmd"> <img src="images/mussel.png" alt="Post 1" style="width:100%"/>
+  <div class="card" style="flex: 1;">
+    <a href="posts/post20240829.qmd"> 
+      <img src="images/mussel.png" alt="Post 2" style="width:100%"/>
+      <div>
+        <h4><b>Extractions & Concentrations</b></h4>
+        <p>These mussels are making me work for it!</p>
+      </div>
+    </a>
+  </div>
 
-::: container
-```         
-  <h4><b> Settin' Up Gels with Sam </b></h4>
-  <p> Re-learning Gels </p>
+  <div class="card" style="flex: 1;">
+    <a href="posts/post20240830.qmd"> 
+      <img src="images/mussel.png" alt="Post 3" style="width:100%"/>
+      <div>
+        <h4><b>Lab Notebook Setup</b></h4>
+        <p>Updating my lab notebook so that it is usable and manageable.</p>
+      </div>
+    </a>
+  </div>
+
 </div>
-```
 
-</a>
-:::
-
-<div class="card">
-
-<a href="posts/post20240829.qmd"> <img src="images/mussel.png" alt="Post 2" style="width:100%"/>
-
-::: container
-```         
-  <h4><b>Extractions & Concentrations</b></h4>
-  <p>These mussels are making me work for it!</p>
-</div>
-```
-
-</a>
-:::
-
-::: card
-<a href="posts/post20240830.qmd"> <img src="images/mussel.png" alt="Post 3" style="width:100%"/>
-
-::: container
-```         
-  <h4><b>Lab Notebook Setup</b></h4>
-  <p>Updating my lab notebook so that it is usable and manageable.</p>
-</div>
-```
-
-</a>
-:::
-:::
-
-::: bottom-list
 ## Daily Entries
 
 <!-- The listing feature will automatically generate the list of posts -->
-:::
