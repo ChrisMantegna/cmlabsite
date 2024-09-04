@@ -2146,21 +2146,21 @@
     "href": "notebook/20240829.html",
     "title": "August 29, 2024",
     "section": "",
-    "text": "Went over the gel protocol and process with Sam.\nExtracted gill and mantle tissue from the samples with the lowest three DIN scores from the Psomagen QC report using the Omega kit. Extraction count was so low based on the limiting factor of available chloroform-isoamyl; replacement due to arrive on 8-30-24.\nChecked concentrations of the 6 total extractions on the Quibit."
+    "text": "Went over the gel protocol and process with Sam.\n\nExtracted gill and mantle tissue from the samples with the lowest three DIN scores from the Psomagen QC report using the Omega kit. Extraction count was so low based on the limiting factor of available chloroform-isoamyl; replacement due to arrive on 8-30-24.\n\nChecked concentrations of the 6 total extractions on the Quibit."
   },
   {
     "objectID": "notebook/20240828.html",
     "href": "notebook/20240828.html",
     "title": "August 28, 2024",
     "section": "",
-    "text": "Moving forward slowly with mussel biomarker visualizations\nCleaned up IG tasks, reminders and sent out the Friday meeting agenda\nSubmitted my SICB abstract and verified the Yellow crew was solid- there are 7 abstracts submitted including mine"
+    "text": "Moving forward slowly with mussel biomarker visualizations\n\nCleaned up IG tasks, reminders and sent out the Friday meeting agenda\n\nSubmitted my SICB abstract and verified the Yellow crew was solid- there are 7 abstracts submitted including mine"
   },
   {
     "objectID": "notebook/20240827.html",
     "href": "notebook/20240827.html",
     "title": "August 27, 2024",
     "section": "",
-    "text": "Final SICB edits on the group’s abstracts\nCompleted my proposal for BIMS Week\nWorked out IG budget and final expenses"
+    "text": "Final SICB edits on the group’s abstracts\n\nCompleted my proposal for BIMS Week\n\nWorked out IG budget and final expenses"
   },
   {
     "objectID": "index.html#daily-entries",
@@ -2251,7 +2251,7 @@
     "href": "notebook/20240830.html",
     "title": "August 30, 2024",
     "section": "",
-    "text": "Completed editing and submitted my application for the Caroline Gibson Scholarship.\nPulled together notes and the results of the pre and post-knowledge surveys for the IG meeting.\nLed the IG debrief meeting.\nSetup and ran gel on the samples from yesterday and posted gel image and concentrations to GitHub Issue #1948."
+    "text": "Completed editing and submitted my application for the Caroline Gibson Scholarship.\n\nPulled together notes and the results of the pre and post-knowledge surveys for the IG meeting.\n\nLed the IG debrief meeting.\n\nSetup and ran gel on the samples from yesterday and posted gel image and concentrations to GitHub Issue #1948."
   },
   {
     "objectID": "posts/post20240828.html",
@@ -2363,7 +2363,7 @@
     "href": "notebook/20240901.html",
     "title": "September 01, 2024",
     "section": "",
-    "text": "Set September goals and fixed ‘blog-style’ notebook posts to reflect work in the last week.\nUpdated gel protocol to remove project specific numbers and generalize steps."
+    "text": "Set September goals and fixed ‘blog-style’ notebook posts to reflect work in the last week.\n\nUpdated gel protocol to remove project specific numbers and generalize steps."
   },
   {
     "objectID": "index.html#updates",
@@ -2399,5 +2399,19 @@
     "title": "Extractions, Concentrations, No Degredation…Oh, My!",
     "section": "Process",
     "text": "Process\n\nUsing the Omega kit protocol, I prepared all reagents and measured out the remaining volume of chloroform- isoamyl before determining how many samples could be processed. There was enough for 6 total samples, so I chose the 3 lowest DIN score samples and pulled their gill and mantle tissue packets.\n\nThe kit requires tissue samples between 30 and 50 mg. I dissected out tissue from the larger sample, recorded the dissected weight and returned the samples to the -80 freezer.\n\nI followed the kit protocol, noting any places where the outcome differed from the intended outcome.\nAll extracted DNA was then run through the Qubit for concentration values.\n\nEach of the samples was put in a 10x dilution (1uL of sample + 9uL of DEIC water) before testing.\n\nSolution and standards were prepared according to the Qubit instructions for HS DNA testing, and the samples were tested after the samples were accepted.\n\nAll samples except for one had ample DNA for assessment.\n\nEverything was recorded and samples were placed in the -20 until gel run tomorrow."
+  },
+  {
+    "objectID": "notebook/20240903.html",
+    "href": "notebook/20240903.html",
+    "title": "September 03, 2024",
+    "section": "",
+    "text": "I updated GitHub Issue #1948 with the gel from yesterday and am awaiting input on how to proceed with the epigenetics project.\n\nI am still working on biomarker figures to present to Alison and Steven before we meet on Friday. I derailed myself a bit by taking the correlation results to the individual biomarkers and trying to see if a regression would give us a clearer picture of what is driving the biomarker response. So far, regressions don’t provide any supporting or new information that is useful."
+  },
+  {
+    "objectID": "notebook/20240902.html",
+    "href": "notebook/20240902.html",
+    "title": "September 02, 2024",
+    "section": "",
+    "text": "First, I completed DNA extractions on the remaining 22 mussel mantle tissue samples based on the gel results from 8/30/24. The first run of extractions only completed 18 of the 22 samples because samples 106, 107, 269 and 272 didn’t make it past step 6 in the protocol. Each of the samples required an additional 45 minutes of incubation in the Proteinase K Solution to get to almost complete solubility, but didn’t yield the ‘upper aqueous phase’, the separation of working material and contaminants and inhibitors, in subsequent steps. Once I finished the remaining extractions, I went back and started those four from the beginning. The instructions state that 30 mg is the ideal tissue quantity for extraction, but give a range up to 50 mg of tissue. This didn’t prove a problem for any of the other samples which fell between 30 - 50 mg, but only 30 mg of tissue was dissected out for extraction from each of these samples and that worked in completing the process.\n\nNext I checked concentration on all 22 samples using the Quibit HS DNA assay. All sample concentrations were above 50 ng/uL so I recorded the concentrations and moved into running a gel.\n\nFinally, I ran a 1% agarose gel to do a preliminary check for DNA integrity. That ran for 1.5 hours at 110v. I will upload the gel images to GH tomorrow to get feedback on moving forward with the samples."
   }
 ]

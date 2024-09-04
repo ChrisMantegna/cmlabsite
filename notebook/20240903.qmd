@@ -1,0 +1,13 @@
+---
+title: "September  03, 2024"
+author: "CM"
+date: "2023-09-03"
+categories: [ "daily log", "project progress", "mussel epigenetics", "mussel biomarkers", "bench", "analysis"]
+format:
+  html:
+    toc: true
+---
+
+-   I updated [GitHub Issue #1948](https://github.com/RobertsLab/resources/issues/1948) with the gel from yesterday and am awaiting input on how to proceed with the epigenetics project.\
+-   I am still working on biomarker figures to present to Alison and Steven before we meet on Friday. I derailed myself a bit by taking the correlation results to the individual biomarkers and trying to see if a regression would give us a clearer picture of what is driving the biomarker response. So far, regressions don't provide any supporting or new information that is useful.\
+

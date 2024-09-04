@@ -8,4 +8,4 @@ format:
     toc: true
 ---
 
-Working on updating my lab notebook format and posts.
+-   Working on updating my lab notebook format and posts.

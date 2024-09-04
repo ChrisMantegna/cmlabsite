@@ -8,6 +8,6 @@ format:
     toc: true
 ---
 
-Final SICB edits on the group's abstracts\
-Completed my proposal for BIMS Week\
-Worked out IG budget and final expenses
+* Final SICB edits on the group's abstracts\
+* Completed my proposal for BIMS Week\
+* Worked out IG budget and final expenses
