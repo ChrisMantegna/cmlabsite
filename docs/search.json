@@ -2413,5 +2413,12 @@
     "title": "September 02, 2024",
     "section": "",
     "text": "First, I completed DNA extractions on the remaining 22 mussel mantle tissue samples based on the gel results from 8/30/24. The first run of extractions only completed 18 of the 22 samples because samples 106, 107, 269 and 272 didn’t make it past step 6 in the protocol. Each of the samples required an additional 45 minutes of incubation in the Proteinase K Solution to get to almost complete solubility, but didn’t yield the ‘upper aqueous phase’, the separation of working material and contaminants and inhibitors, in subsequent steps. Once I finished the remaining extractions, I went back and started those four from the beginning. The instructions state that 30 mg is the ideal tissue quantity for extraction, but give a range up to 50 mg of tissue. This didn’t prove a problem for any of the other samples which fell between 30 - 50 mg, but only 30 mg of tissue was dissected out for extraction from each of these samples and that worked in completing the process.\n\nNext I checked concentration on all 22 samples using the Quibit HS DNA assay. All sample concentrations were above 50 ng/uL so I recorded the concentrations and moved into running a gel.\n\nFinally, I ran a 1% agarose gel to do a preliminary check for DNA integrity. That ran for 1.5 hours at 110v. I will upload the gel images to GH tomorrow to get feedback on moving forward with the samples."
+  },
+  {
+    "objectID": "notebook/20240904.html",
+    "href": "notebook/20240904.html",
+    "title": "September 04, 2024",
+    "section": "",
+    "text": "I met with Matt and talked through deliverables from Yellow for TNC and what we think the next iteration of the Yellow Island Program can be. We’ve set some follow-ups and some work to complete before we meet again on October 1.\nI put together my reimbursement from the IG program and submitted it via TREQ.\nMet with Steven to go over the gill and mussel tissue extraction results. We’re going to ship the mussel tissue to Psomagen and wait for their QC report before deciding which samples to process. Before then, we’ll revisit which sites are in the high and low PAH category.\nI am continuing work on the biomarker visualizations."
   }
 ]
