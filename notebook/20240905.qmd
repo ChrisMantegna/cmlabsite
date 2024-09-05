@@ -1,0 +1,14 @@
+---
+title: "September  05, 2024"
+author: "CM"
+date: "2023-09-05"
+categories: [ "daily log","project progress", "mussel biomarkers", "mussel epigenetics", "analysis", "coding"]
+format:
+  html:
+    toc: true
+---
+
+* I got my mussel mantle tissue DNA shipped out to Psomagen and sent them an updated order form. 
+* I worked on biomarker visualizations.
+
+
