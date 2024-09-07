@@ -2420,5 +2420,19 @@
     "title": "September 04, 2024",
     "section": "",
     "text": "I met with Matt and talked through deliverables from Yellow for TNC and what we think the next iteration of the Yellow Island Program can be. We’ve set some follow-ups and some work to complete before we meet again on October 1.\nI put together my reimbursement from the IG program and submitted it via TREQ.\nMet with Steven to go over the gill and mussel tissue extraction results. We’re going to ship the mussel tissue to Psomagen and wait for their QC report before deciding which samples to process. Before then, we’ll revisit which sites are in the high and low PAH category.\nI am continuing work on the biomarker visualizations."
+  },
+  {
+    "objectID": "notebook/20240906.html",
+    "href": "notebook/20240906.html",
+    "title": "September 06, 2024",
+    "section": "",
+    "text": "All biomarkers, all day. Since my internet was out for the first half of the day, I spent some time reviewing the papers I downloaded from yesterday and earlier in the week. I then went through my code for the correlations and regressions. After plotting a gazillion regressions, I went back and looked at the correlations and I’m glad I did. I mistakenly noted the the Pearson correlation was for non-parametric data and the Spearman wasn’t - it is the opposite - Spearman is the non-parametric test. So I went back and ran the correlations on everything and it turns out that the biomarkers are significantly negatively correlated. Not to mention, there were several classes of contaminant that were now aligning with the regressions re: significance. I am so relieved! Tomorrow I will get back to putting the plots together - I have the base for what I want to illustrate, I just have to export to svg and fix chemical names and put some things together."
+  },
+  {
+    "objectID": "notebook/20240905.html",
+    "href": "notebook/20240905.html",
+    "title": "September 05, 2024",
+    "section": "",
+    "text": "Mussel mantle tissue DNA shipped out to Psomagen and sent them an updated order form.\nWorking on biomarker visualizations led me to return to the regressions. Given the high co-linearity of the analytes a multiple regression model won’t be a truthful representation of the impact of the individual analytes- there is something to be said about the categories of significant analytes, there is something up with the correlations. I have more literature to go through before I can really articulate what I’m thinking.\nSpent some time reviewing methods in biomarker papers about fish and bivalves."
   }
 ]
