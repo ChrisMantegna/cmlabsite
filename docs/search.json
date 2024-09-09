@@ -2434,5 +2434,12 @@
     "title": "September 05, 2024",
     "section": "",
     "text": "Mussel mantle tissue DNA shipped out to Psomagen and sent them an updated order form.\nWorking on biomarker visualizations led me to return to the regressions. Given the high co-linearity of the analytes a multiple regression model won’t be a truthful representation of the impact of the individual analytes- there is something to be said about the categories of significant analytes, there is something up with the correlations. I have more literature to go through before I can really articulate what I’m thinking.\nSpent some time reviewing methods in biomarker papers about fish and bivalves."
+  },
+  {
+    "objectID": "notebook/2024090708.html",
+    "href": "notebook/2024090708.html",
+    "title": "September 07 - 08, 2024",
+    "section": "",
+    "text": "September 7. Saturday. No work done.\n\nSeptember 8. Sunday. I verified my biomarker work from Friday, finished the base plots for what will create the manuscript plots, and put them together in a powerpoint and sent them over to Alison to take a look at. Most notably, the email contained an explanation of the change in results as we have solid correlations based on the correct correlation method."
   }
 ]
