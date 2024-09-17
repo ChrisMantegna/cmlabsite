@@ -1,0 +1,11 @@
+---
+title: "September  09 - 16, 2024"
+author: "CM"
+date: "2023-09-09"
+categories: [ "daily log", "lab notebook" ]
+format:
+  html:
+    toc: true
+---
+
+-   September 9 - 16. No work done so I could galavant through Pacific Rim National Park for a week. :)
