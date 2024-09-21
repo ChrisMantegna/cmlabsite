@@ -8,4 +8,4 @@ format:
     toc: true
 ---
 
--   September 9 - 16. No work done so I could galavant through Pacific Rim National Park for a week. :)
+-   September 9 - 16. No work done so I could gallivant through Pacific Rim National Park for a week. :)

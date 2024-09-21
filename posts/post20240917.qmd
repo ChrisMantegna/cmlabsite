@@ -1,0 +1,33 @@
+---
+title: September Goal Mid-Month Check-In
+author: CM
+date: September 17, 2024
+categories: [ "daily log", "monthly goals", "project progress"]
+---
+
+## September Goals - Progress to date
+
+### Goal 1: Biomarker Manuscript
+
+\[X\] Draft figures and revise Methods 9/5\
+\[ \] Update Results and draft Introduction ~9/13~ NEW Deadline: 9/26\
+\[ \] Revise existing sections and draft Discussion ~9/20~ NEW Deadline9/30\
+\[ NA\] Continue to edit until draft and figures are cohesive, send to WDFW collaborators ~9/30~ NEW Deadline: 10/15\
+
+### Goal 2: eDNA Analysis
+
+\[X\] Refamiliarize myself with the workflow and where I left off 9/16\
+\[ \] Merge Fastq files and ASVs ~9/16~ NEW Deadline: 9/22\
+\[ \] Work through Phyloseq pipeline 9/24\
+\[ \] Prepare agenda for meeting with Camille 9/23\
+
+### Goal 3: SICB Preparation - ON HOLD 9/17/24
+
+\[X\] Check coding scheduler to build fall schedule 9/10\
+\[ \] Verify student's academic timeline's and back schedule check-ins and working time 9/25\
+\[ \] Schedule test- run at lab meeting for presentations and posters 9/30\
+\[ \] Build the initial framework for my own presentation 9/30\
+
+## Goal Progress Reflection
+
+Looking back at my goals for the month, I am seeing that I haven't figured out how to scale workload for success. I didn't account for my time away and the sheer volume of individual tasks required to complete each of these steps. As I move forward through the end of the month, I'm adjusting my expectations to focus on the biomarker paper and eDNA analysis. SICB preparation can be shifted into October as we won't have abstract notice until that month anyway.

@@ -1,0 +1,13 @@
+---
+title: "September  18, 2024"
+author: "CM"
+date: "2023-09-18"
+categories: [ "daily log", "lab notebook", "degree progress", "experiential learning",  "ig workshop", "planning", "writing"]
+format:
+  html:
+    toc: true
+---
+
+- Started creating the template for my Master’s and PhD proposal. I spent some time framing the questions I’m answering and how they’ll work together. I am struggling to identify the larger overarching question(s), but the individual questions are there. 
+- Prepared for my meeting with Kolisa to talk about using my graduate work as a platform for future experiential learning initiatives.
+- Reviewed BIMS contract for the BIMS Week Workshop, touched based with Symone to discuss how adding this to the Birch Museum Education Night differed from the standard workshop formula, what we could add that is directly from the students, and how we can creatively incorporate the collaborators.

@@ -1,0 +1,13 @@
+---
+title: "September  17, 2024"
+author: "CM"
+date: "2023-09-17"
+categories: [ "daily log", "lab notebook", "RUA", "sicb", "yellow island eDNA", "analysis", "mentoring"]
+format:
+  html:
+    toc: true
+---
+
+-   Attended RUA meetings and began building workflow and familiarity with platforms and tasks for my upcoming SAship for the 24 - 25 AY.
+-   Refreshed my familiarity with the eDNA bioinformatics pipeline to get rolling on some base analysis for my 9/24 meeting with Camille.
+-   Touched base with Ben to review his REU paper progress and how to meet the October deadline.
