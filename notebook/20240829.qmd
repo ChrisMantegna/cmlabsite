@@ -1,13 +1,13 @@
 ---
 title: "August 29, 2024"
 author: "CM"
-date: "2023-08-29"
+date: "2024-08-29"
 categories: [ "daily log", "project progress", "mussel epigenetics", "benchwork"]
 format:
   html:
     toc: true
 ---
 
-* Went over the gel protocol and process with Sam.\
-* Extracted gill and mantle tissue from the samples with the lowest three DIN scores from the Psomagen QC report using the Omega kit. Extraction count was so low based on the limiting factor of available chloroform-isoamyl; replacement due to arrive on 8-30-24.\
-* Checked concentrations of the 6 total extractions on the Quibit.
+-   Went over the gel protocol and process with Sam.\
+-   Extracted gill and mantle tissue from the samples with the lowest three DIN scores from the Psomagen QC report using the Omega kit. Extraction count was so low based on the limiting factor of available chloroform-isoamyl; replacement due to arrive on 8-30-24.\
+-   Checked concentrations of the 6 total extractions on the Quibit.

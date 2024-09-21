@@ -1,12 +1,12 @@
 ---
 title: "September  19, 2024"
 author: "CM"
-date: "2023-09-19"
+date: "2024-09-19"
 categories: [ "daily log", "lab notebook", "degree progress", "sa-rua", "experiential learning", "rua", "writing"]
 format:
   html:
     toc: true
 ---
 
-- Met with Kolisa to discuss experiential learning and plan for a follow-up meeting as I plan out how to develop and deliver the IG content.
-- Met with previous RUA coordinator to go over accesses, workflows and tasks related to the role.
+-   Met with Kolisa to discuss experiential learning and plan for a follow-up meeting as I plan out how to develop and deliver the IG content.
+-   Met with previous RUA coordinator to go over accesses, workflows and tasks related to the role.

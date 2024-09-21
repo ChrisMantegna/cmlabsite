@@ -1,15 +1,14 @@
 ---
 title: "September  04, 2024"
 author: "CM"
-date: "2023-09-04"
+date: "2024-09-04"
 categories: [ "daily log","project progress", "innovation grant", "mussel biomarkers", "mussel epigenetics", "yellow island ecology", "analysis", "coding"]
 format:
   html:
     toc: true
 ---
 
-* I met with Matt and talked through deliverables from Yellow for TNC and what we think the next iteration of the Yellow Island Program can be. We’ve set some  follow-ups and some work to complete before we meet again on October 1.
-* I put together my reimbursement from the IG program and submitted it via TREQ.
-* Met with Steven to go over the gill and mussel tissue extraction results. We’re going to ship the mussel tissue to Psomagen and wait for their QC report before deciding which samples to process. Before then, we’ll revisit which sites are in the high and low PAH category.
-* I am continuing work on the biomarker visualizations.
-
+-   I met with Matt and talked through deliverables from Yellow for TNC and what we think the next iteration of the Yellow Island Program can be. We've set some follow-ups and some work to complete before we meet again on October 1.
+-   I put together my reimbursement from the IG program and submitted it via TREQ.
+-   Met with Steven to go over the gill and mussel tissue extraction results. We're going to ship the mussel tissue to Psomagen and wait for their QC report before deciding which samples to process. Before then, we'll revisit which sites are in the high and low PAH category.
+-   I am continuing work on the biomarker visualizations.

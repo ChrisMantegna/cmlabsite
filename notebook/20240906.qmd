@@ -1,11 +1,11 @@
 ---
 title: "September  06, 2024"
 author: "CM"
-date: "2023-09-06"
+date: "2024-09-06"
 categories: [ "daily log","project progress", "mussel biomarkers", "analysis", "coding"]
 format:
   html:
     toc: true
 ---
 
-* All biomarkers, all day. Since my internet was out for the first half of the day, I spent some time reviewing the papers I downloaded from yesterday and earlier in the week. I then went through my code for the correlations and regressions. After plotting a gazillion regressions, I went back and looked at the correlations and I'm glad I did. I mistakenly noted the the Pearson correlation was for non-parametric data and the Spearman wasn't - it is the opposite - Spearman is the non-parametric test. So I went back and ran the correlations on everything and it turns out that the biomarkers are significantly negatively correlated. Not to mention, there were several classes of contaminant that were now aligning with the regressions re: significance. I am so relieved! Tomorrow I will get back to putting the plots together - I have the base for what I want to illustrate, I just have to export to svg and fix chemical names and put some things together.
+-   All biomarkers, all day. Since my internet was out for the first half of the day, I spent some time reviewing the papers I downloaded from yesterday and earlier in the week. I then went through my code for the correlations and regressions. After plotting a gazillion regressions, I went back and looked at the correlations and I'm glad I did. I mistakenly noted the the Pearson correlation was for non-parametric data and the Spearman wasn't - it is the opposite - Spearman is the non-parametric test. So I went back and ran the correlations on everything and it turns out that the biomarkers are significantly negatively correlated. Not to mention, there were several classes of contaminant that were now aligning with the regressions re: significance. I am so relieved! Tomorrow I will get back to putting the plots together - I have the base for what I want to illustrate, I just have to export to svg and fix chemical names and put some things together.

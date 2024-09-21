@@ -1,14 +1,13 @@
 ---
 title: "September  05, 2024"
 author: "CM"
-date: "2023-09-05"
+date: "2024-09-05"
 categories: [ "daily log","project progress", "mussel biomarkers", "mussel epigenetics", "analysis", "coding"]
 format:
   html:
     toc: true
 ---
 
-* Mussel mantle tissue DNA shipped out to Psomagen and sent them an updated order form. 
-* Working on biomarker visualizations led me to return to the regressions. Given the high co-linearity of the analytes a multiple regression model won't be a truthful representation of the impact of the individual analytes- there is something to be said about the categories of significant analytes, there is something up with the correlations. I have more literature to go through before I can really articulate what I'm thinking.
-* Spent some time reviewing methods in biomarker papers about fish and bivalves. 
-
+-   Mussel mantle tissue DNA shipped out to Psomagen and sent them an updated order form.
+-   Working on biomarker visualizations led me to return to the regressions. Given the high co-linearity of the analytes a multiple regression model won't be a truthful representation of the impact of the individual analytes- there is something to be said about the categories of significant analytes, there is something up with the correlations. I have more literature to go through before I can really articulate what I'm thinking.
+-   Spent some time reviewing methods in biomarker papers about fish and bivalves.

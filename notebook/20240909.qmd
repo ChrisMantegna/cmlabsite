@@ -1,7 +1,7 @@
 ---
 title: "September  09 - 16, 2024"
 author: "CM"
-date: "2023-09-09"
+date: "2024-09-09"
 categories: [ "daily log", "lab notebook" ]
 format:
   html:

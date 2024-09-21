@@ -1,7 +1,7 @@
 ---
 title: "September  21, 2024"
 author: "CM"
-date: "2023-09-21"
+date: "2024-09-21"
 categories: [ "daily log", "lab notebook", "innovation grant", "mussel biomarkers", "mussel epigenetics"]
 format:
   html:

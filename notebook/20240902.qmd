@@ -1,7 +1,7 @@
 ---
 title: "September  02, 2024"
 author: "CM"
-date: "2023-09-02"
+date: "2024-09-02"
 categories: [ "daily log","project progress", "mussel epigenetics", "bench"]
 format:
   html:
