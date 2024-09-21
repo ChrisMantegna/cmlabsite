@@ -46,7 +46,7 @@ listing:
 
   <div class="card" style="flex: 1;">
     <a href="posts/post20240917.qmd"> 
-      <img src="images/mussel.png" alt="Post 3" style="width:100%"/>
+      <img src="images/chiton.png" alt="Post 3" style="width:100%"/>
       <div>
         <h4><b>September Goal Mid-Month Check-In</b></h4>
         <p>Intentional plan for progress</p>
