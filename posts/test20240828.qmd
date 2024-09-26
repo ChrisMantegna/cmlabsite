@@ -1,0 +1,59 @@
+---
+title: Settin' Up Gels with Sam - A Tutorial
+author: CM
+date: August 28, 2024
+categories: [ "daily log", "project progress", "mussel epigenetics", "benchwork"]
+---
+
+## Goal
+
+Today's goal was to learn how to run a gel solo. I'm not sure I've done it unaccompanied since undergrad, and honestly... I'm certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we'll see.
+
+## Project
+
+WDFW Mussel Epigenetics
+
+## Purpose
+
+I'm going to run a gel to assess the integrity of gDNA extracted from my WDFW mussel samples. The first set of extractions were QC'd at the sequencer and there's some serious degrading. To rule out human error, I have the gill tissue and the mantle tissue from my original 24 samples. I'm going to extract DNA from the gill and mantle of the samples that had the lowest QC scores and then run a gel to see if the DNA is degraded. 🤞🏽
+
+## Process
+
+I pulled up a few gel protocols and wrote out a few questions in case I was really confused, but Sam went through everything easier than I thought it would be. We started with locating equipment, chemicals, and then started through the process from sample prep through gel imaging.
+
+### Sample Prep
+
+1.  Our dye is a 6x dye, so for simple math our smallest sample volume is 6 uL.
+
+-   1 uL dye
+-   1 uL sample
+-   4 uL DI water
+
+### Gel Prep
+
+1.  A 0.8 - 1.0% agarose gel is standard for DNA. Let easy math win by making a 1% gel. Pick the correct tray size for your work and determine the volume with water. The percentage in the gel is signaling the agarose powder, so it should be 1% of your total volume. Put your volume of TAE buffer and the weight of your agarose into a flask at least double the volume needed - don't swirl to mix.
+2.  Microwave your mixture for 2-3 minutes, checking every 15 - 20 seconds. When your mixture bubbles, take it out of the microwave, swirl it facing away from you, and continue to heat and swirl until the mixture is clear.
+3.  After you've removed the mixture from the microwave, add 1 uL of ethidium bromide for every 10 mL of mixture.
+4.  Once the mixture has cooled enough to handle without the heat gloves, carefully pour your gel and let it set until it is cloudy (approximately 30 minutes).
+5.  After the gel is set, place your tray in the case and cover the gel and fill the wells with TAE buffer. There should be a layer of buffer over the gel. Take the well combs out and ensure buffer enters the wells.
+6.  Add 5 uL of ethidium bromide to the 'red' well and mix with the buffer.
+
+### Load, Run, View
+
+1.  Load 5 uL of the ladder.
+2.  Load the complete volume of each sample into their own wells.
+3.  Connect your electrodes, put the lid on, set the power to 100v.
+4.  Check you gel after 1 - 1.5 hours using the UV imager.
+5.  If your samples haven't moved down the gel, carefully place your gel back on the tray and run until you are satisfied.
+
+### Tips to Remember
+
+1.  Know your sample concentrations before starting. DNA below 50 ng/ul will not work.
+2.  To know the volume of your gel, set up your tray and fill it with water to ensure thickness and comb position are what you need. Note the volume and make your gel.
+3.  You can prep both the gel and the samples the day prior as long as you seal and refrigerate everything.
+4.  'Run to the red'. Put your gel tray in the box with the well combs on the opposite of your red lead.
+5.  Air is the enemy - don't jam the tip of the pipette into the wells or expel all of your sample beyond the first stop.
+
+### Proper Protocol
+
+I know that was willy-nilly, so here's a [real version](https://github.com/ChrisMantegna/WDFWmussels_epigenetics/blob/main/protocols/Gel%20Protocol.pdf) of how to run a gel.
