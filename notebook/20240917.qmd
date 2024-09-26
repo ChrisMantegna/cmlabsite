@@ -8,6 +8,8 @@ format:
     toc: true
 ---
 
--   Attended RUA meetings and began building workflow and familiarity with platforms and tasks for my upcoming SAship for the 24 - 25 AY.
--   Refreshed my familiarity with the eDNA bioinformatics pipeline to get rolling on some base analysis for my 9/24 meeting with Camille.
+-   Attended RUA meetings and began building workflow and familiarity with platforms and tasks for my upcoming SAship for the 24 - 25 AY.\
+
+-   Refreshed my familiarity with the eDNA bioinformatics pipeline to get rolling on some base analysis for my 9/24 meeting with Camille.\
+
 -   Touched base with Ben to review his REU paper progress and how to meet the October deadline.

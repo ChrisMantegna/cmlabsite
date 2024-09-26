@@ -2468,7 +2468,7 @@
     "href": "notebook/20240917.html",
     "title": "September 17, 2024",
     "section": "",
-    "text": "Attended RUA meetings and began building workflow and familiarity with platforms and tasks for my upcoming SAship for the 24 - 25 AY.\nRefreshed my familiarity with the eDNA bioinformatics pipeline to get rolling on some base analysis for my 9/24 meeting with Camille.\nTouched base with Ben to review his REU paper progress and how to meet the October deadline."
+    "text": "Attended RUA meetings and began building workflow and familiarity with platforms and tasks for my upcoming SAship for the 24 - 25 AY.\n\nRefreshed my familiarity with the eDNA bioinformatics pipeline to get rolling on some base analysis for my 9/24 meeting with Camille.\n\nTouched base with Ben to review his REU paper progress and how to meet the October deadline."
   },
   {
     "objectID": "notebook/20240918.html",
@@ -2805,5 +2805,40 @@
     "title": "Expanded Notebook Posts",
     "section": "",
     "text": "dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
+  },
+  {
+    "objectID": "notebook/20240925.html",
+    "href": "notebook/20240925.html",
+    "title": "September 25, 2024",
+    "section": "",
+    "text": "I attended the Ocean Nexus eDNA seminar via Zoom. The panel of presenters each discussed their areas of expertise and how they should be integrated into a comprehensive and inclusive plan for the use of eDNA technology to support the US government initiative on adding eDNA to the national aquatic strategy. Policy, social sciences and molecular science were represented in this conversation.\n\nRestarted my weekly writing accountability sessions. For our hour today, I worked on updating my CV and sketching out how to use my GitHub landing page as a personal website since I transitioned my quarto site to a lab notebook solely.\n\nI met with Julia for our weekly RUA meeting. We covered revamping the program to streamline access, communication and purpose of the exchange for grad students and postdocs. We set some benchmarks for next steps both internal and external. Jane and I also met to get up to speed for the current applicants and move along the 3 most recent applicants.\n\nI spent some time working on my lab notebook. I updated my daily entries, played around with format and added a page for my expanded lab posts to land once I rotate them off of the top of my daily entries page. For some reason my icons are not rendering. I thought I went through the proper workflow to add the bootstrap icons, and my twitter and github icons render, but none other."
+  },
+  {
+    "objectID": "notebook/20240923.html",
+    "href": "notebook/20240923.html",
+    "title": "September 23, 2024",
+    "section": "",
+    "text": "Working on the phyloseq pipeline based on the asv, tronko taxonomy tables, and metadata for the 18s primer today. The asv headache returned for a victory lap as I attempted to read in the rds files needed to make the table and found that R didn’t like that. I tinkered with that for far too long, so I remade the asv… I can confidently say that this part of the pipeline is crystal clear to me. I need to ask how to maintain files and the outputs of the larger projects so I don’t have to rerun this process each time I want to do work - it’s not feasible to run the entire pipeline and then the subsequent phyloseq pipeline based off of the file types in the first one - all in the same session.\nAttended a BWEEMS workshop called Next Level Tips for Winning Grants and Fellowships with ASU Professor Kiki Jenkins. We went over where to source grants and fellowships, how to prepare application pieces so that you stand out, and how to tailor your application package to align with the purpose and urgency of the funder.\nReviewed RUA processes and prepared my questions for Jane and Brandon about the status of the 7 current applicants and where I can support the process and what platforms I need to learn."
+  },
+  {
+    "objectID": "notebook/20240921.html",
+    "href": "notebook/20240921.html",
+    "title": "September 21, 2024",
+    "section": "",
+    "text": "Saturday\nUpdated my lab notebook.\nSpent the morning setting my schedule/ workflow for fall quarter. I know I need to block my time on my calendar to help me task switch and prevent ‘project bleed’ from one project into the time for another. I also pre-scheduled breaks and built out some workflows that will help me to identify where I need task support and where I need to decrease or increase the amount of time I have blocked for tasks.\nSpent the afternoon working on eDNA analysis workflow."
+  },
+  {
+    "objectID": "notebook/20240922.html",
+    "href": "notebook/20240922.html",
+    "title": "September 22, 2024",
+    "section": "",
+    "text": "Sunday\neDNA analysis pipeline work. I am taking some of the final steps of the dada2 pipeline to format my ASV files into usable tables and then beginning the Phyloseq work.\n\n\nRoadblock city.\n\nI cannot seem to manipulate the asv tables from CALeDNA into a format that is working with me. Viewing the file in a text document isn’t helpful, so I converted it to a csv based on the file type and reviewed it outside of R. The columns were all the unique sample names, and the first full row was either the forward or reverse reads as indicated by the file name, followed by the sequence in the second column and counts in the table below each column - these columns were named after individual samples as well. This should have been easy enough to transform into a long-form table that had three columns: sample id, sequence and abundance. Somehow every time I transformed and attempted to label my reads as forward or reverse, the merge would remove that column and or fill it with “Null”, so I attempted a long-transform of the data to then add read type back was also unsuccessful. I was wasting time trying to figure out what was going wrong with either the table transform, merge type - eventual join type…\n\nI just decided to go back and build the asv tables from the sequences. I followed the dada2 pipeline through asv build and saved it with considerably less headaches."
+  },
+  {
+    "objectID": "notebook/20240924.html",
+    "href": "notebook/20240924.html",
+    "title": "September 24, 2024",
+    "section": "",
+    "text": "AG meeting. I met with Alison today to review biomarker manuscript progress, update a timeline for the work that gets a polished manuscript in the hands of our WDFW collaborators and chat about navigating outside-agency collaborator relationships.\nCG meeting. Camille and I met to realign our 2023 Yellow eDNA project goals, identify data files and any questions we had for CALeDNA and review the outputs of my dada2 work. After meeting with Alison I put together a shared list of tasks to complete for the manuscript draft including descriptions and deadlines. I also emailed the WDFW collaborators to remind them that we haven’t forgotten about them.\nCaroline Gibson from Salish Sea Sciences reached out and asked if I could give a presentation to 2 cohorts of area high school students about what I do and my path to grad school. I confirmed time on October 2nd for the first group and October 10th for the second.\nSet myself up in the RUA coordinator shared office, completed WordPress training, attended the academic team meeting, cleared the email inbox and prepared for my 9.25 meeting with Julia about my progress and next steps."
   }
 ]

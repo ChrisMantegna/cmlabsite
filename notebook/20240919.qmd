@@ -8,5 +8,6 @@ format:
     toc: true
 ---
 
--   Met with Kolisa to discuss experiential learning and plan for a follow-up meeting as I plan out how to develop and deliver the IG content.
+-   Met with Kolisa to discuss experiential learning and plan for a follow-up meeting as I plan out how to develop and deliver the IG content.\
+
 -   Met with previous RUA coordinator to go over accesses, workflows and tasks related to the role.

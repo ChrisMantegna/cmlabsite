@@ -1,0 +1,17 @@
+---
+title: "September  25, 2024"
+author: "CM"
+date: "2024-09-25"
+categories: [ "daily log", "lab notebook", "rua", "seminar", "writing"]
+format:
+  html:
+    toc: true
+---
+
+- I attended the Ocean Nexus eDNA seminar via Zoom. The panel of presenters each discussed their areas of expertise and how they should be integrated into a comprehensive and inclusive plan for the use of eDNA technology to support the US government initiative on adding eDNA to the national aquatic strategy. Policy, social sciences and molecular science were represented in this conversation.\
+
+- Restarted my weekly writing accountability sessions. For our hour today, I worked on updating my CV and sketching out how to use my GitHub landing page as a personal website since I transitioned my quarto site to a lab notebook solely.\
+
+- I met with Julia for our weekly RUA meeting. We covered revamping the program to streamline access, communication and purpose of the exchange for grad students and postdocs. We set some benchmarks for next steps both internal and external. Jane and I also met to get up to speed for the current applicants and move along the 3 most recent applicants.\
+
+- I spent some time working on my lab notebook. I updated my daily entries, played around with format and added a page for my expanded lab posts to land once I rotate them off of the top of my daily entries page. For some reason my icons are not rendering. I thought I went through the proper workflow to add the bootstrap icons, and my twitter and github icons render, but none other. 

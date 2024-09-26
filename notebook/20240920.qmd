@@ -8,5 +8,6 @@ format:
     toc: true
 ---
 
--   Attended Science Hour to touch base with Steven about IG grant stuff and confirm next steps for the mussel epigenetics work.
+-   Attended Science Hour to touch base with Steven about IG grant stuff and confirm next steps for the mussel epigenetics work.\
+
 -   Confirmed via email to Psomagen that the mantle tissue samples will move forward with sequencing and the initial set of samples can be discarded.

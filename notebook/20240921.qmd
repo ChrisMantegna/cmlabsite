@@ -2,8 +2,15 @@
 title: "September  21, 2024"
 author: "CM"
 date: "2024-09-21"
-categories: [ "daily log", "lab notebook", "innovation grant", "mussel biomarkers", "mussel epigenetics"]
+categories: [ "daily log", "lab notebook", "yellow island edna", "analysis", "planning"]
 format:
   html:
     toc: true
 ---
+
+-   Saturday
+-   Updated my lab notebook.\
+
+-   Spent the morning setting my schedule/ workflow for fall quarter. I know I need to block my time on my calendar to help me task switch and prevent 'project bleed' from one project into the time for another. I also pre-scheduled breaks and built out some workflows that will help me to identify where I need task support and where I need to decrease or increase the amount of time I have blocked for tasks.\
+
+-   Spent the afternoon working on eDNA analysis workflow.
