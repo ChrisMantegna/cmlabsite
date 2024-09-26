@@ -1,5 +1,7 @@
 ---
-title: "Progress makes a PhD...\ My work in the Roberts Lab, University of Washington"
+title: |
+  Progress makes a PhD...
+  My work in the Roberts Lab, University of Washington
 format: html
 layout: default
 toc: true
