@@ -1,6 +1,5 @@
 ---
-title: "Progress makes a PhD...My work in the Roberts Lab, University of Washington"
-author: "C. Mantegna"
+title: "Progress makes a PhD...\n My work in the Roberts Lab, University of Washington"
 format: html
 layout: default
 toc: true
