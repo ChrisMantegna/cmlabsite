@@ -62,5 +62,13 @@
       "/posts/welcome/index.html",
       "/posts/post-with-code/index.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/test20240830.html",
+      "/posts/test20240829.html",
+      "/posts/test20240828.html"
+    ]
   }
 ]

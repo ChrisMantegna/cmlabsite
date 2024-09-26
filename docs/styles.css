@@ -2,4 +2,39 @@
   display: none;
 }
 
+/* Define the card layout */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 1.5rem; /* Space between the cards */
+  justify-content: center; /* Center the cards on the page */
+}
+
+.cards-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Style the individual cards */
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Adjust card width */
+  max-width: 300px; /* Limit the width of the card */
+}
+
+/* Optional: Customize the card content */
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-title {
+  font-weight: bold;
+  margin-top: 1rem;
+}
 

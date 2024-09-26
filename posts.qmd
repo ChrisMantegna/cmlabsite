@@ -1,0 +1,38 @@
+---
+title: "Expanded Notebook Posts"
+author: "CM"
+toc: true
+sidebar:
+  right:
+    - toc
+    - categories
+format:
+  html:
+    css: styles.css
+listing:
+    contents: posts
+    sort: "date desc"
+    fields:
+    - date
+    - title
+    - author
+    - categories
+    - reading-time 
+---
+
+## August
+```{list}
+
+  dir: posts
+  filter: date
+  date-format: "MMMM yyyy" # Group by month
+  type: grid
+  columns: 3
+  fields: 
+    - image
+    - title
+    - date
+    - categories
+    - reading-time
+  image: true
+  link: true

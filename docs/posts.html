@@ -7,9 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="CM">
-<meta name="dcterms.date" content="2024-08-28">
 
-<title>Chris’ Lab Notebook - Settin’ Up Gels with Sam - A Tutorial</title>
+<title>Chris’ Lab Notebook - Expanded Notebook Posts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,22 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -61,9 +62,40 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../styles.css">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -73,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Chris’ Lab Notebook</span>
     </a>
   </div>
@@ -83,10 +115,12 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="../notebook.qmd" rel="" target="">
- <span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link active" href="./posts.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Expanded Notebook Posts</span></a>
   </li>  
+  <li class="dropdown-header">
+ <span class="menu-text">Posts</span></li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/ChrisMantegna" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
@@ -105,41 +139,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Settin’ Up Gels with Sam - A Tutorial</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">daily log</div>
-                <div class="quarto-category">project progress</div>
-                <div class="quarto-category">mussel epigenetics</div>
-                <div class="quarto-category">benchwork</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>CM </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">August 28, 2024</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -147,92 +147,168 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#goal" id="toc-goal" class="nav-link active" data-scroll-target="#goal">Goal</a></li>
-  <li><a href="#project" id="toc-project" class="nav-link" data-scroll-target="#project">Project</a></li>
-  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose">Purpose</a></li>
-  <li><a href="#process" id="toc-process" class="nav-link" data-scroll-target="#process">Process</a>
-  <ul class="collapse">
-  <li><a href="#sample-prep" id="toc-sample-prep" class="nav-link" data-scroll-target="#sample-prep">Sample Prep</a></li>
-  <li><a href="#gel-prep" id="toc-gel-prep" class="nav-link" data-scroll-target="#gel-prep">Gel Prep</a></li>
-  <li><a href="#load-run-view" id="toc-load-run-view" class="nav-link" data-scroll-target="#load-run-view">Load, Run, View</a></li>
-  <li><a href="#tips-to-remember" id="toc-tips-to-remember" class="nav-link" data-scroll-target="#tips-to-remember">Tips to Remember</a></li>
-  <li><a href="#proper-protocol" id="toc-proper-protocol" class="nav-link" data-scroll-target="#proper-protocol">Proper Protocol</a></li>
-  </ul></li>
+  <li><a href="#august" id="toc-august" class="nav-link active" data-scroll-target="#august">August</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Expanded Notebook Posts</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="goal" class="level2">
-<h2 class="anchored" data-anchor-id="goal">Goal</h2>
-<p>Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see.</p>
-</section>
-<section id="project" class="level2">
-<h2 class="anchored" data-anchor-id="project">Project</h2>
-<p>WDFW Mussel Epigenetics</p>
-</section>
-<section id="purpose" class="level2">
-<h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
-<p>I’m going to run a gel to assess the integrity of gDNA extracted from my WDFW mussel samples. The first set of extractions were QC’d at the sequencer and there’s some serious degrading. To rule out human error, I have the gill tissue and the mantle tissue from my original 24 samples. I’m going to extract DNA from the gill and mantle of the samples that had the lowest QC scores and then run a gel to see if the DNA is degraded. 🤞🏽</p>
-</section>
-<section id="process" class="level2">
-<h2 class="anchored" data-anchor-id="process">Process</h2>
-<p>I pulled up a few gel protocols and wrote out a few questions in case I was really confused, but Sam went through everything easier than I thought it would be. We started with locating equipment, chemicals, and then started through the process from sample prep through gel imaging.</p>
-<section id="sample-prep" class="level3">
-<h3 class="anchored" data-anchor-id="sample-prep">Sample Prep</h3>
-<ol type="1">
-<li>Our dye is a 6x dye, so for simple math our smallest sample volume is 6 uL.</li>
-</ol>
-<ul>
-<li>1 uL dye</li>
-<li>1 uL sample</li>
-<li>4 uL DI water</li>
-</ul>
-</section>
-<section id="gel-prep" class="level3">
-<h3 class="anchored" data-anchor-id="gel-prep">Gel Prep</h3>
-<ol type="1">
-<li>A 0.8 - 1.0% agarose gel is standard for DNA. Let easy math win by making a 1% gel. Pick the correct tray size for your work and determine the volume with water. The percentage in the gel is signaling the agarose powder, so it should be 1% of your total volume. Put your volume of TAE buffer and the weight of your agarose into a flask at least double the volume needed - don’t swirl to mix.</li>
-<li>Microwave your mixture for 2-3 minutes, checking every 15 - 20 seconds. When your mixture bubbles, take it out of the microwave, swirl it facing away from you, and continue to heat and swirl until the mixture is clear.</li>
-<li>After you’ve removed the mixture from the microwave, add 1 uL of ethidium bromide for every 10 mL of mixture.</li>
-<li>Once the mixture has cooled enough to handle without the heat gloves, carefully pour your gel and let it set until it is cloudy (approximately 30 minutes).</li>
-<li>After the gel is set, place your tray in the case and cover the gel and fill the wells with TAE buffer. There should be a layer of buffer over the gel. Take the well combs out and ensure buffer enters the wells.</li>
-<li>Add 5 uL of ethidium bromide to the ‘red’ well and mix with the buffer.</li>
-</ol>
-</section>
-<section id="load-run-view" class="level3">
-<h3 class="anchored" data-anchor-id="load-run-view">Load, Run, View</h3>
-<ol type="1">
-<li>Load 5 uL of the ladder.</li>
-<li>Load the complete volume of each sample into their own wells.</li>
-<li>Connect your electrodes, put the lid on, set the power to 100v.</li>
-<li>Check you gel after 1 - 1.5 hours using the UV imager.</li>
-<li>If your samples haven’t moved down the gel, carefully place your gel back on the tray and run until you are satisfied.</li>
-</ol>
-</section>
-<section id="tips-to-remember" class="level3">
-<h3 class="anchored" data-anchor-id="tips-to-remember">Tips to Remember</h3>
-<ol type="1">
-<li>Know your sample concentrations before starting. DNA below 50 ng/ul will not work.</li>
-<li>To know the volume of your gel, set up your tray and fill it with water to ensure thickness and comb position are what you need. Note the volume and make your gel.</li>
-<li>You can prep both the gel and the samples the day prior as long as you seal and refrigerate everything.</li>
-<li>‘Run to the red’. Put your gel tray in the box with the well combs on the opposite of your red lead.</li>
-<li>Air is the enemy - don’t jam the tip of the pipette into the wells or expel all of your sample beyond the first stop.</li>
-</ol>
-</section>
-<section id="proper-protocol" class="level3">
-<h3 class="anchored" data-anchor-id="proper-protocol">Proper Protocol</h3>
-<p>I know that was willy-nilly, so here’s a <a href="https://github.com/ChrisMantegna/WDFWmussels_epigenetics/blob/main/protocols/Gel%20Protocol.pdf">real version</a> of how to run a gel.</p>
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>CM </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="august" class="level2">
+<h2 class="anchored" data-anchor-id="august">August</h2>
+<p>dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true</p>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="daily log,lab notebook,writing" data-listing-date-sort="1725001200000" data-listing-file-modified-sort="1725240744582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="body">
+<a href="./posts/test20240830.html">
+<h3 class="no-anchor listing-title">
+Testing The Setup
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('daily log'); return false;">
+daily log
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('lab notebook'); return false;">
+lab notebook
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('writing'); return false;">
+writing
+</div>
+</div>
+<a href="./posts/test20240830.html"> </a>
+</div>
+<div class="metadata">
+<a href="./posts/test20240830.html">
+<div class="listing-date">
+Aug 30, 2024
+</div>
+<div class="listing-author">
+CM
+</div>
+<div class="listing-reading-time">
+1 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="daily log,project progress,mussel epigenetics,benchwork" data-listing-date-sort="1724914800000" data-listing-file-modified-sort="1725255657786" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="body">
+<a href="./posts/test20240829.html">
+<h3 class="no-anchor listing-title">
+Extractions, Concentrations, No Degredation…Oh, My!
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('daily log'); return false;">
+daily log
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('project progress'); return false;">
+project progress
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mussel epigenetics'); return false;">
+mussel epigenetics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('benchwork'); return false;">
+benchwork
+</div>
+</div>
+<a href="./posts/test20240829.html"> </a>
+</div>
+<div class="metadata">
+<a href="./posts/test20240829.html">
+<div class="listing-date">
+Aug 29, 2024
+</div>
+<div class="listing-author">
+CM
+</div>
+<div class="listing-reading-time">
+2 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="daily log,project progress,mussel epigenetics,benchwork" data-listing-date-sort="1724828400000" data-listing-file-modified-sort="1727323680097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="body">
+<a href="./posts/test20240828.html">
+<h3 class="no-anchor listing-title">
+Settin’ Up Gels with Sam - A Tutorial
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('daily log'); return false;">
+daily log
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('project progress'); return false;">
+project progress
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mussel epigenetics'); return false;">
+mussel epigenetics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('benchwork'); return false;">
+benchwork
+</div>
+</div>
+<a href="./posts/test20240828.html"> </a>
+</div>
+<div class="metadata">
+<a href="./posts/test20240828.html">
+<div class="listing-date">
+Aug 28, 2024
+</div>
+<div class="listing-author">
+CM
+</div>
+<div class="listing-reading-time">
+4 min
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

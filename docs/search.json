@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Progress makes a PhD… My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n      \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n      \n      \n        \n        Intentional plan for progress"
+    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n       \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n       \n      \n        \n        Intentional plan for progress"
   },
   {
     "objectID": "about.html",
@@ -2370,7 +2370,7 @@
     "href": "index.html#updates",
     "title": "Progress makes a PhD… My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n      \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n      \n      \n        \n        Intentional plan for progress"
+    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n       \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n       \n      \n        \n        Intentional plan for progress"
   },
   {
     "objectID": "index.html#categories",
@@ -2672,5 +2672,138 @@
     "title": "Settin’ Up Gels with Sam - A Tutorial",
     "section": "Process",
     "text": "Process\nI pulled up a few gel protocols and wrote out a few questions in case I was really confused, but Sam went through everything easier than I thought it would be. We started with locating equipment, chemicals, and then started through the process from sample prep through gel imaging.\n\nSample Prep\n\nOur dye is a 6x dye, so for simple math our smallest sample volume is 6 uL.\n\n\n1 uL dye\n1 uL sample\n4 uL DI water\n\n\n\nGel Prep\n\nA 0.8 - 1.0% agarose gel is standard for DNA. Let easy math win by making a 1% gel. Pick the correct tray size for your work and determine the volume with water. The percentage in the gel is signaling the agarose powder, so it should be 1% of your total volume. Put your volume of TAE buffer and the weight of your agarose into a flask at least double the volume needed - don’t swirl to mix.\nMicrowave your mixture for 2-3 minutes, checking every 15 - 20 seconds. When your mixture bubbles, take it out of the microwave, swirl it facing away from you, and continue to heat and swirl until the mixture is clear.\nAfter you’ve removed the mixture from the microwave, add 1 uL of ethidium bromide for every 10 mL of mixture.\nOnce the mixture has cooled enough to handle without the heat gloves, carefully pour your gel and let it set until it is cloudy (approximately 30 minutes).\nAfter the gel is set, place your tray in the case and cover the gel and fill the wells with TAE buffer. There should be a layer of buffer over the gel. Take the well combs out and ensure buffer enters the wells.\nAdd 5 uL of ethidium bromide to the ‘red’ well and mix with the buffer.\n\n\n\nLoad, Run, View\n\nLoad 5 uL of the ladder.\nLoad the complete volume of each sample into their own wells.\nConnect your electrodes, put the lid on, set the power to 100v.\nCheck you gel after 1 - 1.5 hours using the UV imager.\nIf your samples haven’t moved down the gel, carefully place your gel back on the tray and run until you are satisfied.\n\n\n\nTips to Remember\n\nKnow your sample concentrations before starting. DNA below 50 ng/ul will not work.\nTo know the volume of your gel, set up your tray and fill it with water to ensure thickness and comb position are what you need. Note the volume and make your gel.\nYou can prep both the gel and the samples the day prior as long as you seal and refrigerate everything.\n‘Run to the red’. Put your gel tray in the box with the well combs on the opposite of your red lead.\nAir is the enemy - don’t jam the tip of the pipette into the wells or expel all of your sample beyond the first stop.\n\n\n\nProper Protocol\nI know that was willy-nilly, so here’s a real version of how to run a gel."
+  },
+  {
+    "objectID": "posts/test20240829.html",
+    "href": "posts/test20240829.html",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "",
+    "text": "Knock out my extractions and quantify the DNA concentrations."
+  },
+  {
+    "objectID": "posts/test20240829.html#goal",
+    "href": "posts/test20240829.html#goal",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "",
+    "text": "Knock out my extractions and quantify the DNA concentrations."
+  },
+  {
+    "objectID": "posts/test20240829.html#project",
+    "href": "posts/test20240829.html#project",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "Project",
+    "text": "Project\nWDFW Mussel Epigenetics"
+  },
+  {
+    "objectID": "posts/test20240829.html#purpose",
+    "href": "posts/test20240829.html#purpose",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "Purpose",
+    "text": "Purpose\nThere are two purposes in redoing this, first, to ensure the extraction kit didn’t contribute to the failing QC score in the previous samples, and second to compare the gill and mantle tissue."
+  },
+  {
+    "objectID": "posts/test20240829.html#process",
+    "href": "posts/test20240829.html#process",
+    "title": "Extractions, Concentrations, No Degredation…Oh, My!",
+    "section": "Process",
+    "text": "Process\n\nUsing the Omega kit protocol, I prepared all reagents and measured out the remaining volume of chloroform- isoamyl before determining how many samples could be processed. There was enough for 6 total samples, so I chose the 3 lowest DIN score samples and pulled their gill and mantle tissue packets.\n\nThe kit requires tissue samples between 30 and 50 mg. I dissected out tissue from the larger sample, recorded the dissected weight and returned the samples to the -80 freezer.\n\nI followed the kit protocol, noting any places where the outcome differed from the intended outcome.\nAll extracted DNA was then run through the Qubit for concentration values.\n\nEach of the samples was put in a 10x dilution (1uL of sample + 9uL of DEIC water) before testing.\n\nSolution and standards were prepared according to the Qubit instructions for HS DNA testing, and the samples were tested after the samples were accepted.\n\nAll samples except for one had ample DNA for assessment.\n\nEverything was recorded and samples were placed in the -20 until gel run tomorrow."
+  },
+  {
+    "objectID": "posts/test20240830.html",
+    "href": "posts/test20240830.html",
+    "title": "Testing The Setup",
+    "section": "",
+    "text": "To get this new notebook setup up and running with a few call-out blog entries that are longer documentations of the work than the daily posts"
+  },
+  {
+    "objectID": "posts/test20240830.html#goal",
+    "href": "posts/test20240830.html#goal",
+    "title": "Testing The Setup",
+    "section": "",
+    "text": "To get this new notebook setup up and running with a few call-out blog entries that are longer documentations of the work than the daily posts"
+  },
+  {
+    "objectID": "posts/test20240830.html#project",
+    "href": "posts/test20240830.html#project",
+    "title": "Testing The Setup",
+    "section": "Project",
+    "text": "Project\nLab Notebook Cleanup"
+  },
+  {
+    "objectID": "posts/test20240830.html#purpose",
+    "href": "posts/test20240830.html#purpose",
+    "title": "Testing The Setup",
+    "section": "Purpose",
+    "text": "Purpose\nTrying to simplify the entry process so that I can capture decisions, data, anything that influenced the outcomes of a project"
+  },
+  {
+    "objectID": "posts/test20240830.html#process",
+    "href": "posts/test20240830.html#process",
+    "title": "Testing The Setup",
+    "section": "Process",
+    "text": "Process\nWipe out all of the bells an whistles and get the basics right. Get consistent."
+  },
+  {
+    "objectID": "posts/test20240828.html",
+    "href": "posts/test20240828.html",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "",
+    "text": "Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see."
+  },
+  {
+    "objectID": "posts/test20240828.html#goal",
+    "href": "posts/test20240828.html#goal",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "",
+    "text": "Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got there. So Sam walked me through the process, some theory, and the reasons behind the handful of decisions you have to make to get rolling. Fortunately gels seem forgiving, so we’ll see."
+  },
+  {
+    "objectID": "posts/test20240828.html#project",
+    "href": "posts/test20240828.html#project",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Project",
+    "text": "Project\nWDFW Mussel Epigenetics"
+  },
+  {
+    "objectID": "posts/test20240828.html#purpose",
+    "href": "posts/test20240828.html#purpose",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Purpose",
+    "text": "Purpose\nI’m going to run a gel to assess the integrity of gDNA extracted from my WDFW mussel samples. The first set of extractions were QC’d at the sequencer and there’s some serious degrading. To rule out human error, I have the gill tissue and the mantle tissue from my original 24 samples. I’m going to extract DNA from the gill and mantle of the samples that had the lowest QC scores and then run a gel to see if the DNA is degraded. 🤞🏽"
+  },
+  {
+    "objectID": "posts/test20240828.html#process",
+    "href": "posts/test20240828.html#process",
+    "title": "Settin’ Up Gels with Sam - A Tutorial",
+    "section": "Process",
+    "text": "Process\nI pulled up a few gel protocols and wrote out a few questions in case I was really confused, but Sam went through everything easier than I thought it would be. We started with locating equipment, chemicals, and then started through the process from sample prep through gel imaging.\n\nSample Prep\n\nOur dye is a 6x dye, so for simple math our smallest sample volume is 6 uL.\n\n\n1 uL dye\n1 uL sample\n4 uL DI water\n\n\n\nGel Prep\n\nA 0.8 - 1.0% agarose gel is standard for DNA. Let easy math win by making a 1% gel. Pick the correct tray size for your work and determine the volume with water. The percentage in the gel is signaling the agarose powder, so it should be 1% of your total volume. Put your volume of TAE buffer and the weight of your agarose into a flask at least double the volume needed - don’t swirl to mix.\nMicrowave your mixture for 2-3 minutes, checking every 15 - 20 seconds. When your mixture bubbles, take it out of the microwave, swirl it facing away from you, and continue to heat and swirl until the mixture is clear.\nAfter you’ve removed the mixture from the microwave, add 1 uL of ethidium bromide for every 10 mL of mixture.\nOnce the mixture has cooled enough to handle without the heat gloves, carefully pour your gel and let it set until it is cloudy (approximately 30 minutes).\nAfter the gel is set, place your tray in the case and cover the gel and fill the wells with TAE buffer. There should be a layer of buffer over the gel. Take the well combs out and ensure buffer enters the wells.\nAdd 5 uL of ethidium bromide to the ‘red’ well and mix with the buffer.\n\n\n\nLoad, Run, View\n\nLoad 5 uL of the ladder.\nLoad the complete volume of each sample into their own wells.\nConnect your electrodes, put the lid on, set the power to 100v.\nCheck you gel after 1 - 1.5 hours using the UV imager.\nIf your samples haven’t moved down the gel, carefully place your gel back on the tray and run until you are satisfied.\n\n\n\nTips to Remember\n\nKnow your sample concentrations before starting. DNA below 50 ng/ul will not work.\nTo know the volume of your gel, set up your tray and fill it with water to ensure thickness and comb position are what you need. Note the volume and make your gel.\nYou can prep both the gel and the samples the day prior as long as you seal and refrigerate everything.\n‘Run to the red’. Put your gel tray in the box with the well combs on the opposite of your red lead.\nAir is the enemy - don’t jam the tip of the pipette into the wells or expel all of your sample beyond the first stop.\n\n\n\nProper Protocol\nI know that was willy-nilly, so here’s a real version of how to run a gel."
+  },
+  {
+    "objectID": "index.html#daily-notebook-entries",
+    "href": "index.html#daily-notebook-entries",
+    "title": "Progress makes a PhD… My work in the Roberts Lab, University of Washington",
+    "section": "Daily Notebook Entries",
+    "text": "Daily Notebook Entries"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Expanded Notebook Posts",
+    "section": "",
+    "text": "dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
+  },
+  {
+    "objectID": "posts.html#september",
+    "href": "posts.html#september",
+    "title": "Expanded Notebook Posts",
+    "section": "",
+    "text": "dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
+  },
+  {
+    "objectID": "posts.html#august",
+    "href": "posts.html#august",
+    "title": "Expanded Notebook Posts",
+    "section": "",
+    "text": "dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
   }
 ]
