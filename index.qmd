@@ -24,7 +24,7 @@ listing:
 <div class="card-grid" style="display: flex; gap: 1rem; flex-wrap: wrap;">
 
   <div class="card" style="flex: 1;">
-    <a href="posts/post20240828.qmd"> 
+    <a href="updates/post20240828.qmd"> 
       <img src="images/gel.png" alt="Post 1" style="width:100%"/>
       <div>
         <h4><b>Settin' Up Gels with Sam</b></h4>
@@ -34,7 +34,7 @@ listing:
   </div>
 
   <div class="card" style="flex: 1;">
-    <a href="posts/post20240829.qmd"> 
+    <a href="updates/post20240829.qmd"> 
       <img src="images/tubes.jpeg" alt="Post 2" style="width:100%"/>
       <div>
         <h4><b>Extractions & Concentrations</b></h4>
@@ -44,7 +44,7 @@ listing:
   </div>
 
   <div class="card" style="flex: 1;">
-    <a href="posts/post20240917.qmd"> 
+    <a href="updates/post20240917.qmd"> 
       <img src="images/chiton.png" alt="Post 3" style="width:100%"/>
       <div>
         <h4><b>September Goal Mid-Month Check-In</b></h4>
