@@ -1,0 +1,15 @@
+---
+title: "September  26, 2024"
+author: "CM"
+date: "2024-09-26"
+categories: [ "daily log", "lab notebook", "mussel biomarkers", "rua", "seminar", "planning", "writing"]
+format:
+  html:
+    toc: true
+---
+
+-   I started the day with a 2 hour writing accountability block with my FAB group. I worked on revising the Methods section for the biomarker paper. I tagged both Alison and Steven in the updated draft - meeting my first manuscript deadline of the task list. With the remainder of the time I cleaned out my email inbox and finally caught up on some pending responses.\
+
+-   I attended the quarterly GPx meeting with Chelsea and Sam. I met a few of the new grad students and reconnected with some of the grads further along than me. Fortunately, out of that I was able to chat about bypass proposal packages, and after a note on Slack, 6 people shared their packages with me. They are a bit overwhelming to look over, but exactly what I needed to help me understand what it really looks like.\
+
+-   I wrapped up the day working on RUA tasks. I am trying to get the daily, weekly and monthly tasks under me - there are a lot of priorities both internal and external to the program and I expect it will be a bit tedious to manage for the next few weeks.

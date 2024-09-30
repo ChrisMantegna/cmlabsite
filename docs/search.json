@@ -2475,7 +2475,7 @@
     "href": "notebook/20240918.html",
     "title": "September 18, 2024",
     "section": "",
-    "text": "Started creating the template for my Master’s and PhD proposal. I spent some time framing the questions I’m answering and how they’ll work together. I am struggling to identify the larger overarching question(s), but the individual questions are there.\nPrepared for my meeting with Kolisa to talk about using my graduate work as a platform for future experiential learning initiatives.\nReviewed BIMS contract for the BIMS Week Workshop, touched based with Symone to discuss how adding this to the Birch Museum Education Night differed from the standard workshop formula, what we could add that is directly from the students, and how we can creatively incorporate the collaborators."
+    "text": "Started creating the template for my Master’s and PhD proposal. I spent some time framing the questions I’m answering and how they’ll work together. I am struggling to identify the larger overarching question(s), but the individual questions are there.\n\nPrepared for my meeting with Kolisa to talk about using my graduate work as a platform for future experiential learning initiatives.\n\nReviewed BIMS contract for the BIMS Week Workshop, touched based with Symone to discuss how adding this to the Birch Museum Education Night differed from the standard workshop formula, what we could add that is directly from the students, and how we can creatively incorporate the collaborators."
   },
   {
     "objectID": "notebook/20240909.html",
@@ -2489,14 +2489,14 @@
     "href": "notebook/20240920.html",
     "title": "September 20, 2024",
     "section": "",
-    "text": "Attended Science Hour to touch base with Steven about IG grant stuff and confirm next steps for the mussel epigenetics work.\nConfirmed via email to Psomagen that the mantle tissue samples will move forward with sequencing and the initial set of samples can be discarded."
+    "text": "Attended Science Hour to touch base with Steven about IG grant stuff and confirm next steps for the mussel epigenetics work.\n\nConfirmed via email to Psomagen that the mantle tissue samples will move forward with sequencing and the initial set of samples can be discarded."
   },
   {
     "objectID": "notebook/20240919.html",
     "href": "notebook/20240919.html",
     "title": "September 19, 2024",
     "section": "",
-    "text": "Met with Kolisa to discuss experiential learning and plan for a follow-up meeting as I plan out how to develop and deliver the IG content.\nMet with previous RUA coordinator to go over accesses, workflows and tasks related to the role."
+    "text": "Met with Kolisa to discuss experiential learning and plan for a follow-up meeting as I plan out how to develop and deliver the IG content.\n\nMet with previous RUA coordinator to go over accesses, workflows and tasks related to the role."
   },
   {
     "objectID": "notebook/20240907.html",
@@ -2811,21 +2811,21 @@
     "href": "notebook/20240925.html",
     "title": "September 25, 2024",
     "section": "",
-    "text": "I attended the Ocean Nexus eDNA seminar via Zoom. The panel of presenters each discussed their areas of expertise and how they should be integrated into a comprehensive and inclusive plan for the use of eDNA technology to support the US government initiative on adding eDNA to the national aquatic strategy. Policy, social sciences and molecular science were represented in this conversation.\n\nRestarted my weekly writing accountability sessions. For our hour today, I worked on updating my CV and sketching out how to use my GitHub landing page as a personal website since I transitioned my quarto site to a lab notebook solely.\n\nI met with Julia for our weekly RUA meeting. We covered revamping the program to streamline access, communication and purpose of the exchange for grad students and postdocs. We set some benchmarks for next steps both internal and external. Jane and I also met to get up to speed for the current applicants and move along the 3 most recent applicants.\n\nI spent some time working on my lab notebook. I updated my daily entries, played around with format and added a page for my expanded lab posts to land once I rotate them off of the top of my daily entries page. For some reason my icons are not rendering. I thought I went through the proper workflow to add the bootstrap icons, and my twitter and github icons render, but none other."
+    "text": "I attended the Ocean Nexus eDNA seminar via Zoom. The panel of presenters each discussed their areas of expertise and how they should be integrated into a comprehensive and inclusive plan for the use of eDNA technology to support the US government initiative on adding eDNA to the national aquatic strategy. Policy, social sciences and molecular science were represented in this conversation.\n\nRestarted my weekly writing accountability sessions with my BGG friends. For our hour today, I worked on updating my CV and sketching out how to use my GitHub landing page as a personal website since I transitioned my quarto site to a lab notebook solely.\n\nI met with Julia for our weekly RUA meeting. We covered revamping the program to streamline access, communication and purpose of the exchange for grad students and postdocs. We set some benchmarks for next steps both internal and external. Jane and I also met to get up to speed for the current applicants and move along the 3 most recent applicants.\n\nI spent some time working on my lab notebook. I updated my daily entries, played around with format and added a page for my expanded lab posts to land once I rotate them off of the top of my daily entries page. For some reason my icons are not rendering. I thought I went through the proper workflow to add the bootstrap icons, and my twitter and github icons render, but no others."
   },
   {
     "objectID": "notebook/20240923.html",
     "href": "notebook/20240923.html",
     "title": "September 23, 2024",
     "section": "",
-    "text": "Working on the phyloseq pipeline based on the asv, tronko taxonomy tables, and metadata for the 18s primer today. The asv headache returned for a victory lap as I attempted to read in the rds files needed to make the table and found that R didn’t like that. I tinkered with that for far too long, so I remade the asv… I can confidently say that this part of the pipeline is crystal clear to me. I need to ask how to maintain files and the outputs of the larger projects so I don’t have to rerun this process each time I want to do work - it’s not feasible to run the entire pipeline and then the subsequent phyloseq pipeline based off of the file types in the first one - all in the same session.\nAttended a BWEEMS workshop called Next Level Tips for Winning Grants and Fellowships with ASU Professor Kiki Jenkins. We went over where to source grants and fellowships, how to prepare application pieces so that you stand out, and how to tailor your application package to align with the purpose and urgency of the funder.\nReviewed RUA processes and prepared my questions for Jane and Brandon about the status of the 7 current applicants and where I can support the process and what platforms I need to learn."
+    "text": "Working on the phyloseq pipeline based on the asv, tronko taxonomy tables, and metadata for the 18s primer today. The asv headache returned for a victory lap as I attempted to read in the rds files needed to make the table and found that R didn’t like that. I tinkered with that for far too long, so I remade the asv… I can confidently say that this part of the pipeline is crystal clear to me. I need to ask how to maintain files and the outputs of the larger projects so I don’t have to rerun this process each time I want to do work - it’s not feasible to run the entire pipeline and then the subsequent phyloseq pipeline based off of the file types in the first one - all in the same session.\n\nAttended a BWEEMS workshop called Next Level Tips for Winning Grants and Fellowships with ASU Professor Kiki Jenkins. We went over where to source grants and fellowships, how to prepare application pieces so that you stand out, and how to tailor your application package to align with the purpose and urgency of the funder.\n\nReviewed RUA processes and prepared my questions for Jane and Brandon about the status of the 7 current applicants and where I can support the process and what platforms I need to learn."
   },
   {
     "objectID": "notebook/20240921.html",
     "href": "notebook/20240921.html",
     "title": "September 21, 2024",
     "section": "",
-    "text": "Saturday\nUpdated my lab notebook.\nSpent the morning setting my schedule/ workflow for fall quarter. I know I need to block my time on my calendar to help me task switch and prevent ‘project bleed’ from one project into the time for another. I also pre-scheduled breaks and built out some workflows that will help me to identify where I need task support and where I need to decrease or increase the amount of time I have blocked for tasks.\nSpent the afternoon working on eDNA analysis workflow."
+    "text": "Saturday\nUpdated my lab notebook.\n\nSpent the morning setting my schedule/ workflow for fall quarter. I know I need to block my time on my calendar to help me task switch and prevent ‘project bleed’ from one project into the time for another. I also pre-scheduled breaks and built out some workflows that will help me to identify where I need task support and where I need to decrease or increase the amount of time I have blocked for tasks.\n\nSpent the afternoon working on eDNA analysis workflow."
   },
   {
     "objectID": "notebook/20240922.html",
@@ -2839,6 +2839,34 @@
     "href": "notebook/20240924.html",
     "title": "September 24, 2024",
     "section": "",
-    "text": "AG meeting. I met with Alison today to review biomarker manuscript progress, update a timeline for the work that gets a polished manuscript in the hands of our WDFW collaborators and chat about navigating outside-agency collaborator relationships.\nCG meeting. Camille and I met to realign our 2023 Yellow eDNA project goals, identify data files and any questions we had for CALeDNA and review the outputs of my dada2 work. After meeting with Alison I put together a shared list of tasks to complete for the manuscript draft including descriptions and deadlines. I also emailed the WDFW collaborators to remind them that we haven’t forgotten about them.\nCaroline Gibson from Salish Sea Sciences reached out and asked if I could give a presentation to 2 cohorts of area high school students about what I do and my path to grad school. I confirmed time on October 2nd for the first group and October 10th for the second.\nSet myself up in the RUA coordinator shared office, completed WordPress training, attended the academic team meeting, cleared the email inbox and prepared for my 9.25 meeting with Julia about my progress and next steps."
+    "text": "AG meeting. I met with Alison today to review biomarker manuscript progress, update a timeline for the work that gets a polished manuscript in the hands of our WDFW collaborators and chat about navigating outside-agency collaborator relationships.\n\nCG meeting. Camille and I met to realign our 2023 Yellow eDNA project goals, identify data files and any questions we had for CALeDNA and review the outputs of my dada2 work.\n\n\nAfter meeting with Alison I put together a shared list of tasks to complete for the manuscript draft including descriptions and deadlines. I also emailed the WDFW collaborators to remind them that we haven’t forgotten about them. - Caroline Gibson from Salish Sea Sciences reached out and asked if I could give a presentation to 2 cohorts of area high school students about what I do and my path to grad school. I confirmed time on October 2nd for the first group and October 10th for the second.\n\n\nSet myself up in the RUA coordinator shared office, completed WordPress training, attended the academic team meeting, cleared the email inbox and prepared for my 9.25 meeting with Julia about my progress and next steps."
+  },
+  {
+    "objectID": "notebook/20240929.html",
+    "href": "notebook/20240929.html",
+    "title": "September 29, 2024",
+    "section": "",
+    "text": "Sunday.\n\n\nToday is day two of organization and project management.\n\nBefore I jumped back in, I took some time in the morning to create my daily schedule for the week, add my task time blocks to my calendar and review my deliverables for the week.\n\n\nAfter that, I created the first pass of the all- Reporting Area figures for the biomarker paper. I am collapsing the sites into Reporting Ares and PAH Rankings to report each biomarker and each morphometric result. The base plots are ok, but a revisit to tweak them is time- blocked for Monday.\n\nI moved over to reviewing the Yellow Island crew’s DEI application letters for the ASLOMP conference due on October 1. All 4 that submitted them to me received feedback today.\n\nAfter cleaning up my digital workflow yesterday, I added my ongoing projects to Clickup. I’ve tried several platforms (Trello, Notion, Evernote, etc.) and the problem is I don’t want to reinvent the wheel, I want to maximize it. I’d like a tool that integrates my current platforms (Google drive, gmail, notes, etc.), allows for both task and project management, and can perform automated tasks based on actions within both categories. This reduces the task shuffle time suck, manual management of everything, risk of oversight and risk of over-scheduling as all projects and their tasks can be seen in a live-updated gantt chart as well one of several lists/ calendars/ whatever view you prefer.\n\n\nWe’ll see how this works in the free version of the platform, but for now I have transitioned all of my grad work projects over to see if it lives up to the hype. Additionally, there are time- tracking plug-ins that will help me clarify where I am spending my time each day."
+  },
+  {
+    "objectID": "notebook/20240927.html",
+    "href": "notebook/20240927.html",
+    "title": "September 27, 2024",
+    "section": "",
+    "text": "Attended Science Hour - twice - to touch base with Steven about an Innovation Grant expense and talk about upcoming lab meeting/ department community building opportunities.\n\nI started pulling together my presentation for the Salish Sea Sciences group coming on October 2nd.\n\nI built a daily and weekly workflow for my RUA tasks, and I built an applicant tracker that is coordinator- facing. The master lists for the data collection and overall program are not useful for task management, so I put one together to keep track of where folks are in the pipeline."
+  },
+  {
+    "objectID": "notebook/20240926.html",
+    "href": "notebook/20240926.html",
+    "title": "September 26, 2024",
+    "section": "",
+    "text": "I started the day with a 2 hour writing accountability block with my FAB group. I worked on revising the Methods section for the biomarker paper. I tagged both Alison and Steven in the updated draft - meeting my first manuscript deadline of the task list. With the remainder of the time I cleaned out my email inbox and finally caught up on some pending responses.\n\nI attended the quarterly GPx meeting with Chelsea and Sam. I met a few of the new grad students and reconnected with some of the grads further along than me. Fortunately, out of that I was able to chat about bypass proposal packages, and after a note on Slack, 6 people shared their packages with me. They are a bit overwhelming to look over, but exactly what I needed to help me understand what it really looks like.\n\nI wrapped up the day working on RUA tasks. I am trying to get the daily, weekly and monthly tasks under me - there are a lot of priorities both internal and external to the program and I expect it will be a bit tedious to manage for the next few weeks."
+  },
+  {
+    "objectID": "notebook/20240928.html",
+    "href": "notebook/20240928.html",
+    "title": "September 28, 2024",
+    "section": "",
+    "text": "Saturday.\n\n\nToday is dedicated to organization and project management. My goal this weekend is to finally finish standardizing the workflows for the platforms I work in regularly, identify and remove redundancies and time sucks, and clean up my inbox.\n\nToday I cleaned up my Notes platform by identifying project category tags, creating templates for my most frequently created notes (daily to-do list, weekly brain dump, and meeting agenda creation and debrief notes), and fixing the file structure and naming convention on my computer to reduce my search time and confusion. I also matched my notes tags to the tags in my inboxes to make content sharing/ transfer more efficient."
   }
 ]

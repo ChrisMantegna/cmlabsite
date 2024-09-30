@@ -1,0 +1,15 @@
+---
+title: "September  27, 2024"
+author: "CM"
+date: "2024-09-27"
+categories: [ "daily log", "lab notebook",  "innovation grant", "rua", "outreach", "writing"]
+format:
+  html:
+    toc: true
+---
+
+-   Attended Science Hour - twice - to touch base with Steven about an Innovation Grant expense and talk about upcoming lab meeting/ department community building opportunities.\
+
+-   I started pulling together my presentation for the Salish Sea Sciences group coming on October 2nd.\
+
+-   I built a daily and weekly workflow for my RUA tasks, and I built an applicant tracker that is coordinator- facing. The master lists for the data collection and overall program are not useful for task management, so I put one together to keep track of where folks are in the pipeline.

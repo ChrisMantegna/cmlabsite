@@ -1,0 +1,10 @@
+---
+title: "September  30, 2024"
+author: "CM"
+date: "2024-09-30"
+categories: [ "daily log", "lab notebook", "rua", "seminar", "writing"]
+format:
+  html:
+    toc: true
+---
+

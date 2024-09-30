@@ -1,0 +1,15 @@
+---
+title: "September  28, 2024"
+author: "CM"
+date: "2024-09-28"
+categories: [ "daily log", "project management"]
+format:
+  html:
+    toc: true
+---
+
+-   Saturday.\
+
+Today is dedicated to organization and project management. My goal this weekend is to finally finish standardizing the workflows for the platforms I work in regularly, identify and remove redundancies and time sucks, and clean up my inbox.\
+
+Today I cleaned up my Notes platform by identifying project category tags, creating templates for my most frequently created notes (daily to-do list, weekly brain dump, and meeting agenda creation and debrief notes), and fixing the file structure and naming convention on my computer to reduce my search time and confusion. I also matched my notes tags to the tags in my inboxes to make content sharing/ transfer more efficient.
