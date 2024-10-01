@@ -2,9 +2,16 @@
 title: "September  30, 2024"
 author: "CM"
 date: "2024-09-30"
-categories: [ "daily log", "lab notebook", "rua", "seminar", "writing"]
+categories: [ "daily log", "project progress", "lab notebook", "rua", "mussel biomarkers", "coding", "writing", "outreach"]
 format:
   html:
     toc: true
 ---
 
+- First task was to knock out my bio and photo for the Caroline Gibson newsletter and BIMS Week presenter profile. \
+
+- Second task was to explore options for illustrating significant pairwise comparisons for my base biomarker plots. I went with box plots by reporting area and box plots by PAH ranking for the biomarkers and morphometrics. I really like the clarity of the ANOVA plots that assign a letter to values that have a statistically significant difference, but that doesn't fit for comparisons. I chose to add significance bars with asterisk indicators of significance. After a little playing with where the bars were located, I feel good about the base plots.\
+
+- I worked on my presentation for the Salish Sea Sciences students. I think I'm pretty close to a solid talk that won't bore them to death!\
+
+- I wrapped up my science work by reviewing my September goals and reflecting on what could help be for October.
