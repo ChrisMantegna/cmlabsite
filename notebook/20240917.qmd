@@ -2,7 +2,7 @@
 title: "September  17, 2024"
 author: "CM"
 date: "2024-09-17"
-categories: [ "daily log", "lab notebook", "RUA", "sicb", "yellow island eDNA", "analysis", "mentoring"]
+categories: [ "daily log", "lab notebook", "rua", "sicb", "yellow island edna", "analysis", "mentoring"]
 format:
   html:
     toc: true

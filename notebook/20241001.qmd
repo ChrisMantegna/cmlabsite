@@ -2,14 +2,32 @@
 title: "October  1, 2024"
 author: "CM"
 date: "2024-10-01"
-categories: [ "daily log", "project progress", "lab notebook", "rua", "mussel biomarkers", "coding", "writing", "outreach"]
+categories:
+  - Project Progress
+  - Personal Growth
+  
+work:
+  - project: "Yellow Island Program"
+    tasks: 
+      - Writing
+      - Brainstorming
+      - Scheduling
+  - project: "Personal Growth"
+    tasks: 
+      - Task Tracking
+      - Data Management
+hours_spent:
+  - project: "Yellow Island Program"
+    time: 2
+  - project: "Personal Growth"
+    time: 4
 format:
   html:
     toc: true
 ---
 
- - Matt and I met to frame out or TNC post and to talk about meeting with the YNC science team at the end of this month. We also spent some time checking- in on the relationship building we've been doing over the past few weeks to support a quiet Yellow year.\
+ - Matt and I met to frame out or TNC post and to talk about meeting with the TNC science team at the end of this month. We also spent some time checking- in on the relationship building we've been doing over the past few weeks to support a quiet Yellow year.\
  
  - I decided against submitting an application to the ASLO MP program. Even though the application outlines the student levels they accept for submission - including graduate students, it felt like the program was more geared to undergraduates and new grad students.\
  
- - I completed my end of the month stats to see where I spent my time in September. 
+ - I completed my end of the month stats to see where I spent my time in September and learned a few things about myself. First, in my search for simplicity I oversimplified. Just tagging project, task, and general topic of work only gives me an overview of what I did in general but not for each specific project. Second, the number of category tags just keeps growing. I need to streamline the way I am using them. Finally, correcting for multiple tags per entry and then taking a proportion of the whole is not accurate or helpful when I want to look at the projects and steps within each project to track. I will find a solution in the next few days and update my 'tagging' to set October off on the right foot.

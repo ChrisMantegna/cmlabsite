@@ -2,7 +2,7 @@
 title: "September  19, 2024"
 author: "CM"
 date: "2024-09-19"
-categories: [ "daily log", "lab notebook", "degree progress", "sa-rua", "experiential learning", "rua", "writing"]
+categories: [ "daily log", "lab notebook", "degree progress", "rua", "experiential learning", "rua", "writing"]
 format:
   html:
     toc: true
