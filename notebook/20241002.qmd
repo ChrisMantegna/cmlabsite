@@ -1,0 +1,19 @@
+---
+title: "October  2, 2024"
+author: "CM"
+date: "2024-10-02"
+categories:
+  - Mentorship & Outreach
+work:
+  - project: "Yellow Island Program"
+    tasks: 
+      - Presentation 
+hours_spent:
+  - project: "Yellow Island Program"
+    time: 3
+format:
+  html:
+    toc: true
+---
+
+- I gave my first of two presentations on 'real world science' to a group from a Summit HS and Salish Sea Sciences experiential learning program. It was awesome! I created a 'Choose your own adventure" style presentation - just like I saw Shirel do at FHL in 2023 and it went over like gangbusters. Turns out if you don't just yap at students, they're more likely to engage with you. As was expected, Yellow Island garnered the most interest and the most 'volunteers' to come work. Cool day.
