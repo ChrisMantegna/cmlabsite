@@ -1,0 +1,15 @@
+---
+title: "October  1, 2024"
+author: "CM"
+date: "2024-10-01"
+categories: [ "daily log", "project progress", "lab notebook", "rua", "mussel biomarkers", "coding", "writing", "outreach"]
+format:
+  html:
+    toc: true
+---
+
+ - Matt and I met to frame out or TNC post and to talk about meeting with the YNC science team at the end of this month. We also spent some time checking- in on the relationship building we've been doing over the past few weeks to support a quiet Yellow year.\
+ 
+ - I decided against submitting an application to the ASLO MP program. Even though the application outlines the student levels they accept for submission - including graduate students, it felt like the program was more geared to undergraduates and new grad students.\
+ 
+ - I completed my end of the month stats to see where I spent my time in September. 
