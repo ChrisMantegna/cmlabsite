@@ -27,20 +27,20 @@ listing:
 
   <div class="card" style="flex: 1; max-width: 300px; min-height: 400px; display: flex; flex-direction: column; justify-content: space-between;">
     <a href="updates/post20240828.qmd"> 
-      <img src="images/gel.png" alt="Post 1" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
+      <img src="images/mussels.jpg" alt="Post 1" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
       <div>
-        <h4><b>Settin' Up Gels with Sam</b></h4>
-        <p>Re-learning Gels</p>
+        <h4><b>October Goals</b></h4>
+        <p>Biomakers, Biomarkers, Biomarkers!</p>
       </div>
     </a>
   </div>
 
   <div class="card" style="flex: 1; max-width: 300px; min-height: 400px; display: flex; flex-direction: column; justify-content: space-between;">
-    <a href="updates/post20240829.qmd"> 
-      <img src="images/tubes.jpeg" alt="Post 2" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
+    <a href="updates/post20240930.qmd"> 
+      <img src="images/bloodStar.png" alt="Post 2" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
       <div>
-        <h4><b>Extractions & Concentrations</b></h4>
-        <p>These mussels are making me work for it!</p>
+        <h4><b>September Goals Reflection</b></h4>
+        <p>End of Month Wrap-up</p>
       </div>
     </a>
   </div>
@@ -49,7 +49,7 @@ listing:
     <a href="updates/post20240917.qmd"> 
       <img src="images/chiton.png" alt="Post 3" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
       <div>
-        <h4><b>September Goal Mid-Month Check-In</b></h4>
+        <h4><b>September Goals Mid-Month Check-In</b></h4>
         <p>Intentional plan for progress</p>
       </div>
     </a>

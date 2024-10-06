@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Progress makes a PhD… My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n       \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n       \n      \n        \n        Intentional plan for progress"
+    "text": "Biomakers, Biomarkers, Biomarkers!\n      \n    \n  \n\n  \n     \n       \n      \n        \n        End of Month Wrap-up\n      \n    \n  \n\n  \n     \n       \n      \n        \n        Intentional plan for progress"
   },
   {
     "objectID": "about.html",
@@ -2370,7 +2370,7 @@
     "href": "index.html#updates",
     "title": "Progress makes a PhD… My work in the Roberts Lab, University of Washington",
     "section": "",
-    "text": "Re-learning Gels\n      \n    \n  \n\n  \n     \n       \n      \n        \n        These mussels are making me work for it!\n      \n    \n  \n\n  \n     \n       \n      \n        \n        Intentional plan for progress"
+    "text": "Biomakers, Biomarkers, Biomarkers!\n      \n    \n  \n\n  \n     \n       \n      \n        \n        End of Month Wrap-up\n      \n    \n  \n\n  \n     \n       \n      \n        \n        Intentional plan for progress"
   },
   {
     "objectID": "index.html#categories",
@@ -2917,5 +2917,47 @@
     "title": "October 5, 2024",
     "section": "",
     "text": "Saturday. Spent the day knocking out other obligations."
+  },
+  {
+    "objectID": "updates/post20241001.html",
+    "href": "updates/post20241001.html",
+    "title": "October Goals",
+    "section": "",
+    "text": "Noting my struggles in September, I want to focus on appropriately blocking time for each task and creating a task list that is reflective of all of the steps needed to accomplish each goal. My goals are listed in priority for completion in the month. Flexibility exists with Goal 3 based on communication from collaborators.\n\n\n[ ] Correlation plot refinement and revised Methods section. 10/9\n[ ] Update Results and make maps to go with reporting area and PAH ranking. 10/12\n[ ] Draft Introduction section outline, get feedback from Alison and Steven on it. 10/15\n[ ] Continue to manage revisions, draft Introduction section and draft Discussion section 10/20\n\n\n\n\n[ ] Frame the story for the presentation and create slide outline. 10/8\n[ ] Add visualizations to ‘results’ slides. 10/11\n[ ] Revisit introduction slides to me & the work - what moves the story forward? Fill those slides in. 10/12\n[ ] Add speaker notes and conclusion slides. 10/13\n\n\n\n\n\n\n[ ] Re-familiarize myself with the existing curriculum pieces as well as where I left off building the K-12 curriculum. 10/18\n[ ] Outline necessary milestones to complete K-12 package as well as the BIMS packet for distribution. 10/19\n[ ] Re-familiarize myself with the EJ and Human-Connection resources and build the resource- list for future facilitators. 10/23\n[ ] Outline workshop interactive pieces for participants to engage with the work. 10/27"
+  },
+  {
+    "objectID": "updates/post20241001.html#goals",
+    "href": "updates/post20241001.html#goals",
+    "title": "October Goals",
+    "section": "",
+    "text": "Noting my struggles in September, I want to focus on appropriately blocking time for each task and creating a task list that is reflective of all of the steps needed to accomplish each goal. My goals are listed in priority for completion in the month. Flexibility exists with Goal 3 based on communication from collaborators.\n\n\n[ ] Correlation plot refinement and revised Methods section. 10/9\n[ ] Update Results and make maps to go with reporting area and PAH ranking. 10/12\n[ ] Draft Introduction section outline, get feedback from Alison and Steven on it. 10/15\n[ ] Continue to manage revisions, draft Introduction section and draft Discussion section 10/20\n\n\n\n\n[ ] Frame the story for the presentation and create slide outline. 10/8\n[ ] Add visualizations to ‘results’ slides. 10/11\n[ ] Revisit introduction slides to me & the work - what moves the story forward? Fill those slides in. 10/12\n[ ] Add speaker notes and conclusion slides. 10/13\n\n\n\n\n\n\n[ ] Re-familiarize myself with the existing curriculum pieces as well as where I left off building the K-12 curriculum. 10/18\n[ ] Outline necessary milestones to complete K-12 package as well as the BIMS packet for distribution. 10/19\n[ ] Re-familiarize myself with the EJ and Human-Connection resources and build the resource- list for future facilitators. 10/23\n[ ] Outline workshop interactive pieces for participants to engage with the work. 10/27"
+  },
+  {
+    "objectID": "updates/post20241001.html#this-goal-doesnt-have-a-set-date-due-to-the-pending-collaboration-and-workshop-pieces-that-havent-been-confirmed-as-of-october-6th.",
+    "href": "updates/post20241001.html#this-goal-doesnt-have-a-set-date-due-to-the-pending-collaboration-and-workshop-pieces-that-havent-been-confirmed-as-of-october-6th.",
+    "title": "October Goals",
+    "section": "This goal doesn’t have a set date due to the pending collaboration and workshop pieces that haven’t been confirmed as of October 6th.",
+    "text": "This goal doesn’t have a set date due to the pending collaboration and workshop pieces that haven’t been confirmed as of October 6th.\n[ ] Re-familiarize myself with the existing curriculum pieces as well as where I left off building the K-12 curriculum. 10/18\n[ ] Outline necessary milestones to complete K-12 package as well as the BIMS packet for distribution. 10/19\n[ ] Re-familiarize myself with the EJ and Human-Connection resources and build the resource- list for future facilitators. 10/23\n[ ] Outline workshop interactive pieces for participants to engage with the work. 10/27"
+  },
+  {
+    "objectID": "updates/post20240930.html",
+    "href": "updates/post20240930.html",
+    "title": "September Goal End-of-Month Wrap-up",
+    "section": "",
+    "text": "[X] Draft figures and revise Methods 9/5\n[ ] Update Results and draft Introduction 9/13 NEW Deadline: 9/26\n[ ] Revise existing sections and draft Discussion 9/20 NEW Deadline9/30\n[ NA] Continue to edit until draft and figures are cohesive, send to WDFW collaborators 9/30 NEW Deadline: 10/15\n\n\n\n\n[X] Refamiliarize myself with the workflow and where I left off 9/16\n[X] Merge Fastq files and ASVs 9/16 NEW Deadline: 9/22\n[ ] Work through Phyloseq pipeline 9/24\n[X] Prepare agenda for meeting with Camille 9/23\n\n\n\n\n[X] Check coding scheduler to build fall schedule 9/10\n[ ] Verify student’s academic timeline’s and back schedule check-ins and working time 9/25\n[ ] Schedule test- run at lab meeting for presentations and posters 9/30\n[ ] Build the initial framework for my own presentation 9/30"
+  },
+  {
+    "objectID": "updates/post20240930.html#september-goals---progress-as-of-september-30th",
+    "href": "updates/post20240930.html#september-goals---progress-as-of-september-30th",
+    "title": "September Goal End-of-Month Wrap-up",
+    "section": "",
+    "text": "[X] Draft figures and revise Methods 9/5\n[ ] Update Results and draft Introduction 9/13 NEW Deadline: 9/26\n[ ] Revise existing sections and draft Discussion 9/20 NEW Deadline9/30\n[ NA] Continue to edit until draft and figures are cohesive, send to WDFW collaborators 9/30 NEW Deadline: 10/15\n\n\n\n\n[X] Refamiliarize myself with the workflow and where I left off 9/16\n[X] Merge Fastq files and ASVs 9/16 NEW Deadline: 9/22\n[ ] Work through Phyloseq pipeline 9/24\n[X] Prepare agenda for meeting with Camille 9/23\n\n\n\n\n[X] Check coding scheduler to build fall schedule 9/10\n[ ] Verify student’s academic timeline’s and back schedule check-ins and working time 9/25\n[ ] Schedule test- run at lab meeting for presentations and posters 9/30\n[ ] Build the initial framework for my own presentation 9/30"
+  },
+  {
+    "objectID": "updates/post20240930.html#goal-progress-reflection",
+    "href": "updates/post20240930.html#goal-progress-reflection",
+    "title": "September Goal End-of-Month Wrap-up",
+    "section": "Goal Progress Reflection",
+    "text": "Goal Progress Reflection\nIt is hard to say I was unsuccessful knowing how hard I worked on many projects over the month, but looking at the specific goals, I cannot say I met my revised plan, not even 50% of it… This is a reminder lesson that (1) everything takes longer than I think it does, (2) I haven’t quite gotten my task breakdown where it needs to be, and (3) I need to identify my priorities clearer so that I’m not wasting time switching back and forth between tasks and making mistakes. In October I will spend the month task tracking per project (my tracking plan for this month was not useful as I didn’t like tasks with projects nor approximate time spent on each) by using my daily notebook post meta-data (reworked) to assess where I’m working."
   }
 ]

@@ -1,0 +1,33 @@
+---
+title: September Goal End-of-Month Wrap-up
+author: CM
+date: September 30, 2024
+categories: ["monthly goals", "end of month wrap-up"]
+---
+
+## September Goals - Progress as of September 30th
+
+### Goal 1: Biomarker Manuscript
+
+\[X\] Draft figures and revise Methods 9/5\
+\[ \] Update Results and draft Introduction ~~9/13~~ NEW Deadline: 9/26\
+\[ \] Revise existing sections and draft Discussion ~~9/20~~ NEW Deadline9/30\
+\[ NA\] Continue to edit until draft and figures are cohesive, send to WDFW collaborators ~~9/30~~ NEW Deadline: 10/15\
+
+### Goal 2: eDNA Analysis
+
+\[X\] Refamiliarize myself with the workflow and where I left off 9/16\
+\[X\] Merge Fastq files and ASVs ~~9/16~~ NEW Deadline: 9/22\
+\[ \] Work through Phyloseq pipeline 9/24\
+\[X\] Prepare agenda for meeting with Camille 9/23\
+
+### Goal 3: SICB Preparation - ON HOLD 9/17/24
+
+\[X\] Check coding scheduler to build fall schedule 9/10\
+\[ \] Verify student's academic timeline's and back schedule check-ins and working time 9/25\
+\[ \] Schedule test- run at lab meeting for presentations and posters 9/30\
+\[ \] Build the initial framework for my own presentation 9/30\
+
+## Goal Progress Reflection
+
+It is hard to say I was unsuccessful knowing how hard I worked on many projects over the month, but looking at the specific goals, I cannot say I met my revised plan, not even 50% of it... This is a reminder lesson that (1) everything takes longer than I think it does, (2) I haven't quite gotten my task breakdown where it needs to be, and (3) I need to identify my priorities clearer so that I'm not wasting time switching back and forth between tasks and making mistakes. In October I will spend the month task tracking per project (my tracking plan for this month was not useful as I didn't like tasks with projects nor approximate time spent on each) by using my daily notebook post meta-data (reworked) to assess where I'm working.

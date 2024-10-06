@@ -2,7 +2,7 @@
 title: September Goal Mid-Month Check-In
 author: CM
 date: September 17, 2024
-categories: [ "daily log", "monthly goals", "project progress"]
+categories: ["monthly goals", "mid-month check-in"]
 ---
 
 ## September Goals - Progress to date

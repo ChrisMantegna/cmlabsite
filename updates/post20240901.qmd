@@ -2,7 +2,7 @@
 title: September Goals
 author: CM
 date: September 1, 2024
-categories: [ "daily log", "monthly goals"]
+categories: ["monthly goals"]
 ---
 
 ## Goals
