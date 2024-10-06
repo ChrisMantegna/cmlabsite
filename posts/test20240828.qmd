@@ -3,6 +3,7 @@ title: Settin' Up Gels with Sam - A Tutorial
 author: CM
 date: August 28, 2024
 categories: [ "daily log", "project progress", "mussel epigenetics", "benchwork"]
+image: "../images/gel.png"
 ---
 
 ## Goal

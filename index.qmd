@@ -18,6 +18,7 @@ listing:
     - author
     - categories
     - reading-time
+editor: source
 ---
 
 ## Updates

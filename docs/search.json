@@ -2790,7 +2790,7 @@
     "href": "posts.html",
     "title": "Expanded Notebook Posts",
     "section": "",
-    "text": "```{list}\ndir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
+    "text": "Testing The Setup\n\n\n1 min\n\n\n\ndaily log\n\n\nlab notebook\n\n\nwriting\n\n\n\n\n\n\n\nCM\n\n\nAug 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nExtractions, Concentrations, No Degredation…Oh, My!\n\n\n2 min\n\n\n\ndaily log\n\n\nproject progress\n\n\nmussel epigenetics\n\n\nbenchwork\n\n\n\n\n\n\n\nCM\n\n\nAug 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSettin’ Up Gels with Sam - A Tutorial\n\n\n4 min\n\n\n\ndaily log\n\n\nproject progress\n\n\nmussel epigenetics\n\n\nbenchwork\n\n\n\n\n\n\n\nCM\n\n\nAug 28, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts.html#september",

@@ -10,18 +10,17 @@ format:
   html:
     css: styles.css
 listing:
-    contents: posts
-    sort: "date desc"
-    fields:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields:
+    - image
     - date
     - title
     - author
     - categories
-    - reading-time 
+    - reading-time
+    - description
+editor: source
 ---
-
-## August
-
-\`\`\`{list}
-
-dir: posts filter: date date-format: "MMMM yyyy" \# Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true

@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-categories','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -141,13 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#august" id="toc-august" class="nav-link active" data-scroll-target="#august">August</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -175,27 +169,23 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="august" class="level2">
-<h2 class="anchored" data-anchor-id="august">August</h2>
-<p>```{list}</p>
-<p>dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true</p>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="daily log,lab notebook,writing" data-listing-date-sort="1725001200000" data-listing-file-modified-sort="1725240744582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="body">
-<a href="./posts/test20240830.html">
-<h3 class="no-anchor listing-title">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="daily log,lab notebook,writing" data-listing-date-sort="1725001200000" data-listing-file-modified-sort="1725240744582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/test20240830.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Testing The Setup
-</h3>
-<div class="listing-subtitle">
-
+</h5>
+<div class="listing-reading-time card-text text-muted">
+1 min
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('daily log'); return false;">
 daily log
@@ -207,32 +197,32 @@ lab notebook
 writing
 </div>
 </div>
-<a href="./posts/test20240830.html"> </a>
+<div class="card-text listing-description">
+To get this new notebook setup up and running with a few call-out blog entries that are longer documentations of the work than the daily posts
 </div>
-<div class="metadata">
-<a href="./posts/test20240830.html">
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+CM
+</div>
 <div class="listing-date">
 Aug 30, 2024
 </div>
-<div class="listing-author">
-CM
 </div>
-<div class="listing-reading-time">
-1 min
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="daily log,project progress,mussel epigenetics,benchwork" data-listing-date-sort="1724914800000" data-listing-file-modified-sort="1725255657786" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<div class="body">
-<a href="./posts/test20240829.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="1" data-categories="daily log,project progress,mussel epigenetics,benchwork" data-listing-date-sort="1724914800000" data-listing-file-modified-sort="1728245609766" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/test20240829.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Extractions, Concentrations, No Degredation…Oh, My!
-</h3>
-<div class="listing-subtitle">
-
+</h5>
+<div class="listing-reading-time card-text text-muted">
+2 min
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('daily log'); return false;">
 daily log
@@ -247,32 +237,34 @@ mussel epigenetics
 benchwork
 </div>
 </div>
-<a href="./posts/test20240829.html"> </a>
+<div class="card-text listing-description">
+Knock out my extractions and quantify the DNA concentrations.
 </div>
-<div class="metadata">
-<a href="./posts/test20240829.html">
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+CM
+</div>
 <div class="listing-date">
 Aug 29, 2024
 </div>
-<div class="listing-author">
-CM
 </div>
-<div class="listing-reading-time">
-2 min
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="daily log,project progress,mussel epigenetics,benchwork" data-listing-date-sort="1724828400000" data-listing-file-modified-sort="1727323680097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
-<div class="body">
-<a href="./posts/test20240828.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="2" data-categories="daily log,project progress,mussel epigenetics,benchwork" data-listing-date-sort="1724828400000" data-listing-file-modified-sort="1728249056164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./posts/test20240828.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/gel.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Settin’ Up Gels with Sam - A Tutorial
-</h3>
-<div class="listing-subtitle">
-
+</h5>
+<div class="listing-reading-time card-text text-muted">
+4 min
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('daily log'); return false;">
 daily log
@@ -287,21 +279,20 @@ mussel epigenetics
 benchwork
 </div>
 </div>
-<a href="./posts/test20240828.html"> </a>
+<div class="card-text listing-description">
+Today’s goal was to learn how to run a gel solo. I’m not sure I’ve done it unaccompanied since undergrad, and honestly… I’m certain most of that was prepped before we got…
 </div>
-<div class="metadata">
-<a href="./posts/test20240828.html">
-<div class="listing-date">
-Aug 28, 2024
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 CM
 </div>
-<div class="listing-reading-time">
-4 min
+<div class="listing-date">
+Aug 28, 2024
+</div>
+</div>
+</div>
 </div>
 </a>
-</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
