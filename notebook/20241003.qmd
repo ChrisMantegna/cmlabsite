@@ -1,0 +1,28 @@
+---
+title: "October  3, 2024"
+author: "CM"
+date: "2024-10-03"
+categories:
+  - Project Progress
+  - Personal Development
+work:
+  - project: "Mussel Biomarkers"
+    tasks: 
+      - Writing
+      - Visualizations
+  - project: "Learning"
+    tasks: 
+      - Seminar Attendance
+hours_spent:
+  - project: "Mussel Biomarkers"
+    time: 2
+  - project: "Learning"
+    time: 1.5
+format:
+  html:
+    toc: true
+---
+
+-   Attended the FAB writing accountability session where I worked on the edits to the methods section of the biomarker paper and got back to adjusting the correlation plots for the same paper.\
+
+-   Attended a book talk given by Dr. Ayanna Elizabeth Johnson at Elliot Bay Books. She discussed some of the process of writing *What if We Get it Right?* with her fact- checker, James Gaines. It was awesome. I really appreciated the conversation about how we use language, how we tell stories and how to re-frame climate action for our communities.

@@ -1,0 +1,19 @@
+---
+title: "October  5, 2024"
+author: "CM"
+date: "2024-10-05"
+categories:
+  - Non- Science Work
+work:
+  - project: "Personal"
+    tasks: 
+      - Personal
+hours_spent:
+  - project: "Personal"
+    time: 8
+format:
+  html:
+    toc: true
+---
+
+- Saturday. Spent the day knocking out other obligations.

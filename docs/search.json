@@ -2790,7 +2790,7 @@
     "href": "posts.html",
     "title": "Expanded Notebook Posts",
     "section": "",
-    "text": "dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
+    "text": "```{list}\ndir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
   },
   {
     "objectID": "posts.html#september",
@@ -2804,7 +2804,7 @@
     "href": "posts.html#august",
     "title": "Expanded Notebook Posts",
     "section": "",
-    "text": "dir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
+    "text": "```{list}\ndir: posts filter: date date-format: “MMMM yyyy” # Group by month type: grid columns: 3 fields: - image - title - date - categories - reading-time image: true link: true"
   },
   {
     "objectID": "notebook/20240925.html",
@@ -2889,5 +2889,33 @@
     "title": "October 2, 2024",
     "section": "",
     "text": "I gave my first of two presentations on ‘real world science’ to a group from a Summit HS and Salish Sea Sciences experiential learning program. It was awesome! I created a ‘Choose your own adventure” style presentation - just like I saw Shirel do at FHL in 2023 and it went over like gangbusters. Turns out if you don’t just yap at students, they’re more likely to engage with you. As was expected, Yellow Island garnered the most interest and the most ’volunteers’ to come work. Cool day."
+  },
+  {
+    "objectID": "notebook/20241003.html",
+    "href": "notebook/20241003.html",
+    "title": "October 3, 2024",
+    "section": "",
+    "text": "Attended the FAB writing accountability session where I worked on the edits to the methods section of the biomarker paper and got back to adjusting the correlation plots for the same paper.\n\nAttended a book talk given by Dr. Ayanna Elizabeth Johnson at Elliot Bay Books. She discussed some of the process of writing What if We Get it Right? with her fact- checker, James Gaines. It was awesome. I really appreciated the conversation about how we use language, how we tell stories and how to re-frame climate action for our communities."
+  },
+  {
+    "objectID": "notebook/20241006.html",
+    "href": "notebook/20241006.html",
+    "title": "October 6, 2024",
+    "section": "",
+    "text": "Sunday. I caught up on my weekend daily lab notebook entries, spent some time setting my October goals - one of which is not to punish myself for not being ready to go on the first- and scheduling out my quarter goals with task and output deadlines.\n\nI worked on my 3 slides for Monday’s lab meeting by clarifying my goals, thinking about all of the things I would like to remind myself (as well as others in the lab), and working on my schedule to clarify my support needs for the quarter.\n\nI realized I added my biomarker tasks to my schedule incorrectly, so I missed the mark on adding maps to the plots (10/4 due date). I was solidly thinking through the correlation plots and forgot about the maps. I will send Alison and Steven the correlation plots today, add the maps back after the Results section re-write and then update my calender to reflect the manuscript timeline with these adjustments.\n\nI spent time annotating 3 papers for the introduction of the biomarker manuscript. I have revisited these papers frequently and as I gather my notes for the introduction draft, I want to be clear about what facts came from which papers."
+  },
+  {
+    "objectID": "notebook/20241004.html",
+    "href": "notebook/20241004.html",
+    "title": "October 4, 2024",
+    "section": "",
+    "text": "No science project progress made today as I spent the day knocking out some of my other obligations.\n\nI updated my category, project and task tags and document yaml format to better be able to reflect on where my time is spent. On my daily posts, only the categories of work tags will be present, but each daily post has a space for each project and their associated tasks that is visible to me. My efforts last month showed me that I worked in 4 major projects but didn’t show me what tasks were being represented per project or how much time was spent in each. I’m trying to think about the complete processes I work though, and in an effort to survey what I’m doing to create a usable tracking system- I created some standard tags I will work from this month. My task list of tags is a bit lengthy so I won’t add it here, but I believe by the end of the month I’ll be able to streamline it. I’m sticking with the same ones, not making up new tasks each day, but the list is still about 25 - 30 tasks.\n\n\nCategories (The ‘umbrella’ I am working under for the day -8)\n- Degree Progress\n- Lab\n- Mentorship & Outreach\n- Non-Science Work\n- Personal Development\n- Professional Development\n- Project Progress\n- Teaching\n\nProjects (Specific project I’m working on -13 including 3 SICB 2025 projects)\n- Gray Whale Feeding\n- Learning\n- Innovation Grant\n- Innovation Grant Workshop\n- Lab Notebook\n- Mussel Biomarkers\n- Mussel Epigenetics\n- Personal Growth\n- PhD Bypass Package\n- Yellow eDNA\n- Yellow Island Program\n- Yellow Quadrats 2023\n- Yellow Quadrats 2024"
+  },
+  {
+    "objectID": "notebook/20241005.html",
+    "href": "notebook/20241005.html",
+    "title": "October 5, 2024",
+    "section": "",
+    "text": "Saturday. Spent the day knocking out other obligations."
   }
 ]

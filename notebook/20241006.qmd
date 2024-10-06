@@ -1,0 +1,34 @@
+---
+title: "October  6, 2024"
+author: "CM"
+date: "2024-10-06"
+categories:
+  - Lab
+  - Project Progress
+work:
+  - project: "Lab Notebook"
+    tasks: 
+      - Daily Notebook Entry
+      - Monthly Goal Setting
+      - Lab Meeting Preparation
+  - project: "Mussel Biomarkers"
+    tasks: 
+      - Visualizations
+      - Literature Management
+hours_spent:
+  - project: "Lab Notebook"
+    time: 4
+  - project: "Mussel Biomarkers"
+    time: 4
+format:
+  html:
+    toc: true
+---
+
+-   Sunday. I caught up on my weekend daily lab notebook entries, spent some time setting my October goals - one of which is not to punish myself for not being ready to go on the first- and scheduling out my quarter goals with task and output deadlines.\
+
+-   I worked on my 3 slides for Monday's lab meeting by clarifying my goals, thinking about all of the things I would like to remind myself (as well as others in the lab), and working on my schedule to clarify my support needs for the quarter.\
+
+-   I realized I added my biomarker tasks to my schedule incorrectly, so I missed the mark on adding maps to the plots (10/4 due date). I was solidly thinking through the correlation plots and forgot about the maps. I will send Alison and Steven the correlation plots today, add the maps back after the Results section re-write and then update my calender to reflect the manuscript timeline with these adjustments.\
+
+-   I spent time annotating 3 papers for the introduction of the biomarker manuscript. I have revisited these papers frequently and as I gather my notes for the introduction draft, I want to be clear about what facts came from which papers.

@@ -10,14 +10,14 @@ categories: [ "daily log", "monthly goals", "project progress"]
 ### Goal 1: Biomarker Manuscript
 
 \[X\] Draft figures and revise Methods 9/5\
-\[ \] Update Results and draft Introduction ~9/13~ NEW Deadline: 9/26\
-\[ \] Revise existing sections and draft Discussion ~9/20~ NEW Deadline9/30\
-\[ NA\] Continue to edit until draft and figures are cohesive, send to WDFW collaborators ~9/30~ NEW Deadline: 10/15\
+\[ \] Update Results and draft Introduction ~~9/13~~ NEW Deadline: 9/26\
+\[ \] Revise existing sections and draft Discussion ~~9/20~~ NEW Deadline9/30\
+\[ NA\] Continue to edit until draft and figures are cohesive, send to WDFW collaborators ~~9/30~~ NEW Deadline: 10/15\
 
 ### Goal 2: eDNA Analysis
 
 \[X\] Refamiliarize myself with the workflow and where I left off 9/16\
-\[ \] Merge Fastq files and ASVs ~9/16~ NEW Deadline: 9/22\
+\[ \] Merge Fastq files and ASVs ~~9/16~~ NEW Deadline: 9/22\
 \[ \] Work through Phyloseq pipeline 9/24\
 \[ \] Prepare agenda for meeting with Camille 9/23\
 
