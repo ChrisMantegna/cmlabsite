@@ -1,0 +1,26 @@
+---
+title: "October  7, 2024"
+author: "CM"
+date: "2024-10-07"
+categories:
+  - 
+  - 
+work:
+  - project: ""
+    tasks: 
+      - 
+      - 
+      - 
+  - project: ""
+    tasks: 
+      - 
+      - 
+hours_spent:
+  - project: ""
+    time: 
+  - project: ""
+    time: 
+format:
+  html:
+    toc: true
+---
