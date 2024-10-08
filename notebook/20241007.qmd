@@ -3,24 +3,39 @@ title: "October  7, 2024"
 author: "CM"
 date: "2024-10-07"
 categories:
-  - 
-  - 
+  - Lab
+  - Personal Development
 work:
-  - project: ""
+  - project: "Lab Meeting"
     tasks: 
-      - 
-      - 
-      - 
-  - project: ""
+      - Lab Meeting Topics and Ideas
+      - Lab Needs
+  - project: "Personal Growth"
     tasks: 
-      - 
-      - 
+      - Writing
 hours_spent:
-  - project: ""
-    time: 
-  - project: ""
-    time: 
+  - project: "Lab Meeting"
+    time: 1.5
+  - project: "Personal Growth"
+    time: 5
 format:
   html:
     toc: true
 ---
+
+-   Attended the first lab meeting of the quarter. It was great to meet new folks working with the lab, get a refresher on the work being done and get to know a bit about each other. The 'five knowledge nuggets' slides that everyone created were awesome! Some of the things that stuck with me\
+    -   Aspen: Access free legal assistance from law students through the law school on campus.
+    -   Ariana: Create a link tree as a way to network during conferences (among other things).
+    -   Grace: Adding large to-do's to your daily list is a recipe for failure. Make your tasks manageable so that you can see your progress!
+    -   Zach: Find current TA positions in the biology department on Handshake.
+    -   Kathleen: Get to know Gradescope. It's a better platform for summarizing grading and assessment outcomes.
+    -   Celeste: Go back to using Voice Memos... to add on, grab a free transcription app to transcribe your memo and then you don't have to make adding a notebook post as another task.
+    -   Sarah: add footnotes and margin notes in quarto to enhance the posts you're creating and easily reference more information related to your topic.
+    -   So many more!\
+        \
+-   Additionally, in lab meeting we came to agreement that our standard meetings will be on Mondays with the following format: Standard lab meeting, DEI lab meeting, Standard lab meeting and then Pubathon.
+    -   10.14.21 will be a Pubathon meeting
+    -   10.21.21 will be a standard lab meeting
+    -   10.28.24 will be a DEI lab meeting\
+        \
+-   I spent my afternoon/ evening in community with folks impacted by the genocide in Palestine as today marks the anniversary of the most recent escalation of conflict. It forced me to interrogate my position, privilege and power. What is the bigger purpose for my work and myself? I don't mean that in an existentially searching way, but in an applied way. While I obviously cannot solve the world's problems, I do have power and can use it to create positive change. Change takes all lanes and mine is science, so how am I leveraging my work and building my future career to align with the drive to make positive change?

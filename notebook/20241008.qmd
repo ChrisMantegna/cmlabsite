@@ -1,0 +1,38 @@
+---
+title: "October  8, 2024"
+author: "CM"
+date: "2024-10-08"
+categories:
+  - Organization
+  - Mentorship & Outreach
+  - Project Progress
+work:
+  - project: "Schedule Management"
+    tasks: 
+      - Task Completion
+      - Daily Notebook Post
+      - Email
+  - project: "Yellow Island Program"
+    tasks: 
+      - Editing
+  - project: "Mussel Biomarkers"
+    tasks: 
+      - Visualizations
+      - Seminar Preparation
+hours_spent:
+  - project: "Schedule Management"
+    time: 4
+  - project: "Yellow Island Program"
+    time: 1
+  - project: "Mussel Biomarkers"
+    time: 4
+format:
+  html:
+    toc: true
+---
+
+- I started the day by knocking out the 'little' tasks that pile up. I checked in with my SICB 2025 folks to get an update on travel funding for each. I cleaned out my meeting notes and added the appropriate action items to my schedule and task manager.I cleaned out my pending emails, and I caught up with the eFAST folks to try to push my reimbursements along.\
+
+- I edited/ provided feedback on Luis' statements for his SICB Broadening Participation application and returned them to him. I also touched base with Ben re: his REU paper and his next steps.\
+
+- I finally knocked out the biomarker correlation plots and am working on trying to figure out how to breakdown the large correlation plots for shell thickness.
