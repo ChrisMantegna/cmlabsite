@@ -1,0 +1,22 @@
+---
+title: "October  12, 2024"
+author: "CM"
+date: "2024-10-012"
+categories:
+  - Organization
+work:
+  - project: "Task Management"
+    tasks: 
+      - Email
+      - Planning
+      - Project Management
+      - Time Management
+hours_spent:
+  - project: "Task Management"
+    time: 4
+format:
+  html:
+    toc: true
+---
+
+- Saturday. Today was all about task management and household chores. I worked on getting my Clickup dashboard and projects built as well as organizing my calendars in one place. I also set up my time blocks and priorities for the next month.

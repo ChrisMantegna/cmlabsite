@@ -1,0 +1,19 @@
+---
+title: "October  13, 2024"
+author: "CM"
+date: "2024-10-13"
+categories:
+  - Lab
+work:
+  - project: "Presentation"
+    tasks: 
+      - Seminar Preparation
+hours_spent:
+  - project: "Presentation"
+    time: 4
+format:
+  html:
+    toc: true
+---
+
+- Sunday. I worked on my presentation for FHL on Wednesday. 

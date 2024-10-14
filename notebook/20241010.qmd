@@ -1,0 +1,35 @@
+---
+title: "October  10, 2024"
+author: "CM"
+date: "2024-10-10"
+categories:
+  - Mentorship & Outreach
+  - Organization
+  - Project Progress
+work:
+  - project: "Yellow Island Program"
+    tasks: 
+      - Meeting
+  - project: "Task Management"
+    tasks: 
+      - Presenting
+  - project: "Presentation"
+    tasks: 
+      - Presenting
+hours_spent:
+  - project: "Yellow Island Project"
+    time: 1
+  - project: "Task Management"
+    time: 2
+  - project: "Presentation"
+    time: 2
+format:
+  html:
+    toc: true
+---
+
+- I met with Camille to get some clarity around how I could use the remaining Yellow Island 2024 budget (~$750) to top off the student’s who received funding but it wasn’t enough. She’d prefer we don’t use the balance for that and didn’t have any other suggestions for finding funding. BIMS will not be providing any funding beyond what is in the budget. We also discussed upcoming BIMS Week and the eDNA work.\
+
+- I presented to the Salish Sea Sciences student group, toured them through FISH and held an impromptu session on community college transfer to UW.\
+
+- I spent the remainder of my day cleaning up small tasks so that I could enjoy the evening at a concert with the kid.

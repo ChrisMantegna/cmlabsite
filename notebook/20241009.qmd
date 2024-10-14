@@ -1,0 +1,40 @@
+---
+title: "October  9, 2024"
+author: "CM"
+date: "2024-10-09"
+categories:
+  - Mentorship & Outreach
+  - Project Progress
+work:
+  - project: "Mentoring"
+    tasks: 
+      - Meeting
+      - Seminar Preparation
+  - project: "Mussel Biomarkers"
+    tasks: 
+      - Visualizations
+  - project: "Yellow Island Program"
+    tasks: 
+      - Brainstorming
+      - Meeting Preparation
+hours_spent:
+  - project: "Mentoring"
+    time: 1.5
+  - project: "Mussel Biomarkers"
+    time: 3
+  - project: "Yellow Island Program"
+    time: 2.5
+format:
+  html:
+    toc: true
+---
+
+- I met with mentee Kristina Canonizado and supported her through clarifying her internship questions and providing some mock interview questions. She is interviewing for her POE capstone today.\
+
+- I worked on adjusting my presentation for the second of two presentations to the Salish Sea Sciences students doing an experiential learning experience in marine science. Based on the last group, I adjusted the ‘choose your own adventure’ slides and made sure to add a bit more information about applying to college and how to find resources since most of the students in the group are juniors and seniors.\
+
+- I met with Angel and chatted through some options for Yellow this upcoming spring. Since it will be a quieter year with students, I wanted to ensure the trimmed down program can still provide some of the broader context and connection that makes Yellow Island special.\
+
+- I completed the correlation plots for the biomarker paper and tagged Steven and Alison in them. They aren’t showing what we want them to show, so I think we need to adjust our visualization tactic.\
+
+- I completed my agenda notes for my 10.10 meeting with Camille re: funding for SICB.

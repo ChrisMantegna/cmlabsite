@@ -1,0 +1,27 @@
+---
+title: "October  14, 2024"
+author: "CM"
+date: "2024-10-14"
+categories:
+  - Lab
+  - Project Progress
+work:
+  - project: "Lab Notebook"
+    tasks: 
+      - Daily Notebook Entry
+  - project: "Mussel Biomarkers"
+    tasks: 
+      - Writing
+hours_spent:
+  - project: "Lab Notebook"
+    time: 4
+  - project: "Mussel Biomarkers"
+    time: 4
+format:
+  html:
+    toc: true
+---
+
+- I added all of my daily notes from my notes app to my lab notebook for Wednesday - Sunday of this past week.\
+
+- I worked on the introduction to the biomarker paper and made the correlation table as an alternative to the correlation plots.\

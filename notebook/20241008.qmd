@@ -6,6 +6,7 @@ categories:
   - Organization
   - Mentorship & Outreach
   - Project Progress
+  - Degree Progress
 work:
   - project: "Schedule Management"
     tasks: 
@@ -19,13 +20,19 @@ work:
     tasks: 
       - Visualizations
       - Seminar Preparation
+  - project: "PhD Bypass Package"
+    tasks: 
+      - Reading
+      - Writing
 hours_spent:
   - project: "Schedule Management"
-    time: 4
+    time: 2
   - project: "Yellow Island Program"
     time: 1
   - project: "Mussel Biomarkers"
-    time: 4
+    time: 3
+  - project: "PhD Bypass Package"
+    time: 2
 format:
   html:
     toc: true
@@ -35,4 +42,6 @@ format:
 
 - I edited/ provided feedback on Luis' statements for his SICB Broadening Participation application and returned them to him. I also touched base with Ben re: his REU paper and his next steps.\
 
-- I finally knocked out the biomarker correlation plots and am working on trying to figure out how to breakdown the large correlation plots for shell thickness.
+- I finally knocked out the biomarker correlation plots and am working on trying to figure out how to breakdown the large correlation plots for shell thickness. I'll have that one done tomorrow.\
+
+- I spent time reading through the bypass applications the SAFS grad students sent to me and framing my master’s work for the application. I will need to make better progress with the eDNA work before I can really have that portion of the application together. Additionally, I spent some time working on my overarching questions. It’s at the point where I know (and am answering) my individual study questions, but how they work together to inform my transition to PhD is less clear.

@@ -1,0 +1,51 @@
+---
+title: "October  11, 2024"
+author: "CM"
+date: "2024-10-11"
+categories:
+  - Personal Development
+  - Mentorship & Outreach
+  - Lab
+work:
+  - project: "Task Management"
+    tasks: 
+      - Planning
+      - Brainstorming
+      - Troubleshooting
+  - project: "Learning"
+    tasks: 
+      - Webinar Attendance
+  - project: "Mentoring"
+    tasks: 
+      - Editing
+      - Planning
+  - project: "PhD Bypass Package"
+    tasks: 
+      - Brainstorming
+      - Learning
+      - Planning
+hours_spent:
+  - project: "Task Management"
+    time: 2.5
+  - project: "Learning"
+    time: 2
+  - project: "Mentoring"
+    time: 2.5
+  - project: "PhD Bypass Package"
+    time: 1.5
+format:
+  html:
+    toc: true
+---
+
+ - I started my day with a meeting with Della. We talked through progress updates re: task management, project management, and how to bring along a social scientist to document and evaluate the Yellow Island Program.\
+ 
+- I met with Mollie to review her GRFP pieces and provide some support as she’s navigating through application season and a full quarter of courses.\
+
+- I jumped into science hour and chatted with Steven about my biomarker visualizations, task management, goal setting and lab culture. We will adjust the lab meeting schedule to accommodate some of the strategies we discussed.\
+
+- I attended the quant seminar - it was about modeling fisheries with different management goals and sociological implications. I was a bit out of my depth in understanding some of the technical work behind the models, but the management output was interesting.\
+
+- I met with Yaamini and talked through bypass application and applying for jobs in academia. It’s always fun to catch up with her!\
+
+- I meet with Riley and Luke (the high school students) who want to work on a nudibranch project for their senior capstone project. We will meet next month to go over some research basics like reference managers, accessing scientific papers and how to frame foundational literature searches.
