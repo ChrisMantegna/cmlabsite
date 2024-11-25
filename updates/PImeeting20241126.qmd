@@ -1,7 +1,7 @@
 ---
 title: "11/26/25 Biweekly Check-In"
 author: CM
-date: October 06, 2024
+date: November 25, 2024
 categories: [ "PI meeting", "progress"]
 image: "../images/michaelscott.jpg"
 ---
@@ -59,26 +59,28 @@ The last 2 weeks were vacation with individual task management including managin
 - Discussion is still an outline\
 
 ## Priorities (next 2 weeks)
-- Biomarker paper (overdue)
-- BIMS Workshop website (deadline 12/4)
-- Data analysis with Kai and Noah (in progress)
+
+-   Biomarker paper (overdue)
+-   BIMS Workshop website (deadline 12/4)
+-   Data analysis with Kai and Noah (in progress)
 
 ## Long term priorities (within the next 2 months)
+
 **Ecotox Course design**\
 - When is the deadline for 2025 spring course add?\
 - Can we set aside a course design working session for December after 12/10?\
-**Bypass Package**\ 
-- Deadline 2/15/25\
-- Master’s proposal based on biomarkers and eDNA results\
+**Bypass Package**  - Deadline 2/15/25\
+- Master's proposal based on biomarkers and eDNA results\
 - Deliver nlt 12.31.24\
 - PhD proposal\
 - Need to set late Dec or early Jan weekly meetings to work through\
 
 ## Questions for SR
-- Do you have the science hour recording from Nov 1 - I’d like to rewatch how Sam moved our files so I can get my eDNA sequences over to our servers from my Google Drive.\
 
-## Other news/ For your awareness…
-- Taking SMEA 550 Qualitative Methods in winter quarter\
-- Applied to the summer BIOL 200 Lecturer role\
-- Looking at the NOAA NCCOS funding call - this does tie to my PhD proposal work and could cover other lab work\
+-   Do you have the science hour recording from Nov 1 - I'd like to rewatch how Sam moved our files so I can get my eDNA sequences over to our servers from my Google Drive.\
 
+## Other news/ For your awareness...
+
+-   Taking SMEA 550 Qualitative Methods in winter quarter\
+-   Applied to the summer BIOL 200 Lecturer role\
+-   Looking at the NOAA NCCOS funding call - this does tie to my PhD proposal work and could cover other lab work\
