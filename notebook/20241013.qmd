@@ -4,16 +4,23 @@ author: "CM"
 date: "2024-10-13"
 categories:
   - Lab
+  - Personal Development
 work:
   - project: "Presentation"
     tasks: 
       - Seminar Preparation
+  - project: "Growth"
+    tasks: 
+      - Administrative
 hours_spent:
   - project: "Presentation"
     time: 4
+  - project: "Growth"
+    time: 1
 format:
   html:
     toc: true
 ---
 
 - Sunday. I worked on my presentation for FHL on Wednesday. 
+- I also set up my time blocks and priorities for November since I will be gone half of next month.

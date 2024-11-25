@@ -3,25 +3,36 @@ title: "October  14, 2024"
 author: "CM"
 date: "2024-10-14"
 categories:
+  - Daily Log
   - Lab
   - Project Progress
 work:
+  - project: "Lab Meeting"
+    tasks: 
+      - Brainstorming
+      - Meeting Preparation
+      - Note Taking
   - project: "Lab Notebook"
     tasks: 
       - Daily Notebook Entry
   - project: "Mussel Biomarkers"
     tasks: 
       - Writing
+      - Visualizations
 hours_spent:
   - project: "Lab Notebook"
-    time: 4
+    time: 2
+  - project: "Lab Meeting"
+    time: 3
   - project: "Mussel Biomarkers"
-    time: 4
+    time: 3
 format:
   html:
     toc: true
 ---
 
-- I added all of my daily notes from my notes app to my lab notebook for Wednesday - Sunday of this past week.\
+-   I added all of my daily notes from my notes app to my lab notebook for Wednesday - Sunday of this past week.\
 
-- I worked on the introduction to the biomarker paper and made the correlation table as an alternative to the correlation plots.\
+-   I worked on the introduction to the biomarker paper and made the correlation table as an alternative to the correlation plots.\
+
+-   Led the lab meeting where we reframed Pubathon. Most notably, we will have a monthly co-writing session over the lab meeting time slot, Pubathon proper won't start until spring quarter, and we would love to have some snacks, stickers, caffeinated beverage options to help us move forward.

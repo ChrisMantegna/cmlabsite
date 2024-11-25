@@ -1,0 +1,26 @@
+---
+title: "October  17, 2024"
+author: "CM"
+date: "2024-10-75"
+categories:
+  - Project Progress
+  - Mentorship & Outreach
+work:
+  - project: "Mussel Biomarker"
+    tasks: 
+      - Seminar Preparation
+  - project: "Mentorship & Outreach"
+    tasks: 
+      - Editing
+      - Meeting Preparation
+      - Meeting Attendance
+hours_spent:
+  - project: "Mussel Biomarker"
+    time: 5
+  - project: "Mentorship & Outreach"
+    time: 2
+format:
+  html:
+    toc: true
+---
+
