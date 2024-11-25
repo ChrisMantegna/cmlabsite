@@ -27,11 +27,11 @@ editor: source
 <div class="card-grid" style="display: flex; gap: 1rem; flex-wrap: wrap;">
 
   <div class="card" style="flex: 1; max-width: 300px; min-height: 400px; display: flex; flex-direction: column; justify-content: space-between;">
-    <a href="updates/post20241001.qmd"> 
-      <img src="images/mussels.jpg" alt="Post 1" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
+    <a href="updates/PImeeting20241126.qmd"> 
+      <img src="images/michaelscott.jpg" alt="Post 1" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
       <div>
-        <h4><b>October Goals</b></h4>
-        <p>Biomakers, Biomarkers, Biomarkers!</p>
+        <h4><b>PI Meeting</b></h4>
+        <p>11/26/24 Biweekly Check In</p>
       </div>
     </a>
   </div>
