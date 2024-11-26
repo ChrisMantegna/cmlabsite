@@ -1,25 +1,45 @@
 ---
-title: "October  21, 2024"
+title: "October  24, 2024"
 author: "CM"
-date: "2024-10-21"
+date: "2024-10-24"
 categories:
-  - Professional Development
+  - Personal Development
+  - Project Progress
 work:
-  - project: "Yellow Island Program"
+  - project: "Growth"
+    tasks: 
+      - Accountability
+      - Writing
+  - project: "Yellow Island ecology"
+    tasks: 
+      - Data entry
+      - Data cleaning
+  - project: "Innovation Grant"
     tasks: 
       - Meeting Attendance
-      - Networking
+      - Meeting preparation
+      - Planning
   - project: "Mentorship & Outreach"
     tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Accountability
+      - Mentoring
+      - Brainstorming
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
+  - project: "Yellow Island ecology"
+    time: 1.5
+  - project: "Growth"
+    time: 3
+  - project: "Innovation Grant"
+    time: 1.5
   - project: "Mentorship & Outreach"
     time: 2
 format:
   html:
     toc: true
 ---
+
+-   Attended FAB writing accountability group all morning. I worked on my teaching application for the first hour so that I could get some feedback from KPJ while we were in the same space. The second hour was all data cleaning of the quadrat data from Yellow for 2024. This was frustrating, but it did help me identify that there are still missing data from the spreadsheet. I will be reviewing and fixing while I'm away this weekend.\
+
+-   Co-led the BIMS x UW Innovation Grant Meeting where we could discuss the status of the funding they haven't invoiced properly. Symone, Steven and myself are on the same page and will move forward with the plan to spend the funds prior to the end of the extension.\
+
+-   Met with Victoria deJong, a second year GEODUC student, to chat about managing opportunities, realistic workload framing, and future goals and how to plan towards them. It was a very fun meeting as we share similar interests and pitfalls!

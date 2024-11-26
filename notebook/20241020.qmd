@@ -17,4 +17,4 @@ format:
     toc: true
 ---
 
-* Sunday. Prepared for my Monday TNC science team meeting by putting together a brief Yellow Island presentation, a primer on our impact and products, and did some research on who I would be meeting.
+-   Sunday. Prepared for my Monday TNC science team meeting by putting together a brief Yellow Island presentation, a primer on our impact and products, and did some research on who I would be meeting.

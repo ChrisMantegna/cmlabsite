@@ -1,1 +1,20 @@
+---
+title: "October  27, 2024"
+author: "CM"
+date: "2024-10-27"
+categories:
+  - Mentorship & Outreach
+work:
+  - project: "Mentorship & Outreach"
+    tasks: 
+      - Volunteered
+      - Networked
+hours_spent:
+  - project: "Mentorship & Outreach"
+    time: 5
+format:
+  html:
+    toc: true
+---
 
+* Sunday. Volunteered as a naturalist for the Hama Hama Haunted Shellpile all day and then traveled home.

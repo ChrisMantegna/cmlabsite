@@ -16,4 +16,4 @@ format:
     toc: true
 ---
 
-* Traveled home from FHL and focused on RUA work for the day.
+-   Traveled home from FHL and focused on RUA work for the day.

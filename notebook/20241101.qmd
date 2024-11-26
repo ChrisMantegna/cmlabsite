@@ -1,0 +1,35 @@
+---
+title: "November  01, 2024"
+author: "CM"
+date: "2024-11-01"
+categories:
+  - Non-science work 
+  - Professional Development
+  - Mentorship & Outreach
+  - Lab
+work:
+  - project: "SICB"
+    tasks: 
+      - Funding
+      - Presentation Planning
+  - project: "Lab Meeting"
+    tasks: 
+      - Learning
+      - Coaching
+      - Data Entry
+   - project: "Growth"
+    tasks: 
+      - Seminar Attendance
+      - Note Taking
+      - Accountability
+hours_spent:
+  - project: "Growth"
+    time: 1
+  - project: "Lab Meeting"
+    time: 2
+   - project: "SICB"
+    time: 2
+format:
+  html:
+    toc: true
+---

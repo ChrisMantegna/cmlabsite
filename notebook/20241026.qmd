@@ -1,25 +1,28 @@
 ---
-title: "October  21, 2024"
+title: "October  26, 2024"
 author: "CM"
-date: "2024-10-21"
+date: "2024-10-26"
 categories:
-  - Professional Development
+  - Mentorship & Outreach
+  - Project Progress
 work:
-  - project: "Yellow Island Program"
+  - project: "Yellow Island ecology"
     tasks: 
-      - Meeting Attendance
-      - Networking
+      - Data entry
   - project: "Mentorship & Outreach"
     tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Volunteered
+      - Networked
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
+  - project: "Yellow Island ecology"
     time: 2
+  - project: "Mentorship & Outreach"
+    time: 5
 format:
   html:
     toc: true
 ---
+
+* Saturday. Volunteered as a naturalist for the Hama Hama Haunted Shellpile all day.\
+
+* Continued data entry for the  2024 yellow island quadrat data.

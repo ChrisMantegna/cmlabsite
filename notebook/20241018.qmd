@@ -24,6 +24,6 @@ format:
     toc: true
 ---
 
-* Worked on the data cleaning for the quadrat SICB projects (Noah and Kai). The quadrat data from 2023 and 2024 are slightly different and if they are going to compare we may have to get creative.\
+-   Worked on the data cleaning for the quadrat SICB projects (Noah and Kai). The quadrat data from 2023 and 2024 are slightly different and if they are going to compare we may have to get creative.\
 
-* Attended FAB accountability session and planning meeting. We compared our current task/ project management platforms and how we use them, did our weekly retros, and talked about our goals for the end of the quarter.
+-   Attended FAB accountability session and planning meeting. We compared our current task/ project management platforms and how we use them, did our weekly retros, and talked about our goals for the end of the quarter.

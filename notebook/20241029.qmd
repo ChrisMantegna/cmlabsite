@@ -1,1 +1,33 @@
+---
+title: "October  29, 2024"
+author: "CM"
+date: "2024-10-29"
+categories:
+  - Non-science work 
+  - Personal Development
+  - Mentorship & Outreach
+work:
+  - project: "Growth"
+    tasks: 
+      - Task Management
+      - Time Management
+  - project: "Mentorship & Outreach"
+    tasks: 
+      - Coaching
+      - Brainstorming
+      - Mentoring
+hours_spent:
+  - project: "Growth"
+    time: 1
+  - project: "Mentorship & Outreach"
+    time: 2
+format:
+  html:
+    toc: true
+---
 
+-   Started today with my 1v1 coaching session with Della. We worked on building out my Notion platform to help me manage projects and tasks. We also revisited time blocking and the flexibility necessary to test and adjust the "ideal" day.\
+
+-   I met with Kristina Canonizado to discuss PoE capstone project interviews, how to navigate financial aid and balance her courses for the remainder of the academic year.\
+
+-   The remainder of the day was spent completing RUA tasks.

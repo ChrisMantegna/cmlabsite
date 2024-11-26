@@ -1,1 +1,38 @@
+---
+title: "October  30, 2024"
+author: "CM"
+date: "2024-10-30"
+categories:
+  - Professional Development
+  - Mentorship & Outreach
+work:
+  - project: "Growth"
+    tasks: 
+      - Seminar Attendance
+      - Brainstorming
+      - Planning
+      - Coaching
+      - Digital presence creation
+      - Digital presence updating
+  - project: "Mentorship & Outreach"
+    tasks: 
+      - Brainstorming
+      - Planning
+      - Resource Sharing
+hours_spent:
+  - project: "Growth"
+    time: 7.5
+  - project: "Mentorship & Outreach"
+    time: 1
+format:
+  html:
+    toc: true
+---
 
+* First meeting of the day was with Kolisa to discuss branding and marketing. This was extremely helpful as the marketing team at UW asked me to review my social media presence prior to some work being released. In this meeting we discussed my science brand and how to streamline my digital presence to maximize opportunities. After our meeting I was able to make my handles on all platforms but LinkedIn the same (MarineMantegna) and secure that handle on platforms I’m not yet using. My LinkedIn has my full name, but I did remove non-pertinent work history.\
+
+* I met with Gabriel to discuss the FHL Postdoc position, some faculty to connect with, and which research areas would be aligned with his work and what is needed at FHL. Fingers crossed he lands it!\
+
+* Attended weekly BGG meeting.\
+
+* Ended the day with the Finding Common Ground movie presented by the Collaborative Leadership Initiative housed at Puget Sound Institute. This film followed the events that precipitated the Boldt decision and how tribal and local governance collided and eventually collaborated for a first in the nation style of collaborative management of natural resources. At the end of the film there was a panel that discussed their perspectives or roles in creating the model for this type of management. I was only able to stay through the panel introductions and then had to leave to meet another obligation.

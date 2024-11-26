@@ -1,25 +1,33 @@
 ---
-title: "October  21, 2024"
+title: "October  25, 2024"
 author: "CM"
-date: "2024-10-21"
+date: "2024-10-25"
 categories:
+  - Non-science work
   - Professional Development
+  - Project progress
 work:
-  - project: "Yellow Island Program"
+  - project: "SICB"
     tasks: 
-      - Meeting Attendance
-      - Networking
-  - project: "Mentorship & Outreach"
+      - Writing 
+      - Application
+  - project: "Mussel Biomarkers"
     tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Brainstorming
 hours_spent:
   - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
+    time: 2
+  - project: "SICB"
     time: 2
 format:
   html:
     toc: true
 ---
+
+* Completed and submitted my Broadening Participation application. This is an award from SICB that provides up to $500 in professional development funds to the recipient.\
+
+* Attended science hour and discussed writing the discussion section of the biomarker paper as well as conducting a time series trial where we can pinpoint the maximum threshold of the enzyme production. This wouldn’t be a part of the paper, but something that I think is necessary to investigate if I am going to continue doing mussel work.\
+
+* Met with Brandon to discuss RUA website stuff.\
+
+* Left for Hama Hama.

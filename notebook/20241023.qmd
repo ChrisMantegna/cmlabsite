@@ -1,25 +1,34 @@
 ---
-title: "October  21, 2024"
+title: "October  23, 2024"
 author: "CM"
-date: "2024-10-21"
+date: "2024-10-23"
 categories:
-  - Professional Development
+  - Non-science Work
+  - Project Progress
+  - Personal Development
 work:
-  - project: "Yellow Island Program"
+  - project: "Yellow Island ecology"
     tasks: 
-      - Meeting Attendance
-      - Networking
-  - project: "Mentorship & Outreach"
+      - Data entry
+      - Analysis
+      - Data cleaning
+  - project: "Growth"
     tasks: 
-      - Editing
+      - Writing
       - Meeting Preparation
       - Meeting Attendance
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "Yellow Island ecology"
+    time: 3
+  - project: "Growth"
+    time: 3
 format:
   html:
     toc: true
 ---
+
+-   First half of the day was spent working on RUA tasks.\
+
+-   I moved on to troubleshoot the Yellow Island 2024 quadrat data. I identified one of the sections missing data and began entering where the summer students left off. It appears that there is at least one more section that is short, and I will tackle that once I knock this one out.\
+
+-   Attended the weekly BGG meeting. We worked on balancing professional milestones and workload with personal management.

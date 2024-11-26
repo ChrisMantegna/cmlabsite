@@ -1,1 +1,24 @@
+---
+title: "October  28, 2024"
+author: "CM"
+date: "2024-10-28"
+categories:
+  - Lab
+  - Non-science work
+work:
+  - project: "Lab Meeting"
+    tasks: 
+      - Preparation
+      - Note taking
+      - Brainstorming
+hours_spent:
+  - project: "Lab Meeting"
+    time: 2.5
+format:
+  html:
+    toc: true
+---
 
+* Led DEI lab meeting assessing our current lab culture and brainstorming ideas for creating the lab we want to be a part of. I think it gave us a lot to think about re: considering our own role in creating lab culture.\
+
+* I took care of some life administration tasks that took up the remainder of the day.

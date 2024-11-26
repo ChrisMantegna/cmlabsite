@@ -1,25 +1,35 @@
 ---
-title: "October  15, 2024"
+title: "October  31, 2024"
 author: "CM"
-date: "2024-10-15"
+date: "2024-10-31"
 categories:
-  - Project Progress
+  - Non-science Work
   - Mentorship & Outreach
+  - Professional Development
 work:
-  - project: "Mussel Biomarker"
+  - project: "Growth"
     tasks: 
-      - Seminar Preparation
+      - Seminar Attendance
+      - Writing
+      - Planning
+      - Coaching
   - project: "Mentorship & Outreach"
     tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Reccomendation Writing
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
+  - project: "Growth"
+    time: 3
   - project: "Mentorship & Outreach"
     time: 2
 format:
   html:
     toc: true
 ---
+
+* Participated in the FAB writing accountability weekly session. I spent the entire time refining my teaching statement and diversity statement. I spent some time working on my CV, but most was refining both statements and drafting the cover letter.\
+
+* Held a lunch information session for senior graduate students and postdocs interested in RUA.\
+
+* Completed and submitted Logan’s letters of recommendation for the Women Divers HOF training award.\
+
+* Attended the SAFS Seminar given by Jessica Gephardt. Her work centers around sustainability in aquaculture products. The way food is imported and exported, the labeling/ quality parameters, and the inconsistent reporting metrics make this a difficult conversation to have. Not surprisingly, the only invertebrate on the list was shrimp… would be interested to see how other shellfish fair in these market analyses.

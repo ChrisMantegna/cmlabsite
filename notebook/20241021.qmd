@@ -17,4 +17,4 @@ format:
     toc: true
 ---
 
-* I spent the day at the Seattle TNC offices meeting their science team, showcasing what we’ve been able to do on Yellow for the last three years, and then meeting one on one with Maia (lead scientist) to discuss future collaborations. It was an awesome day where we learned a ton about each other. I feel optimistic that we’ll be able to move forward collaboratively.
+-   I spent the day at the Seattle TNC offices meeting their science team, showcasing what we've been able to do on Yellow for the last three years, and then meeting one on one with Maia (lead scientist) to discuss future collaborations. It was an awesome day where we learned a ton about each other. I feel optimistic that we'll be able to move forward collaboratively.
