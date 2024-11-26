@@ -6,21 +6,22 @@ categories:
   - Project Progress
   - Mentorship & Outreach
 work:
-  - project: "Mussel Biomarker"
+  - project: "SICB"
     tasks: 
-      - Seminar Preparation
-  - project: "Mentorship & Outreach"
+      - Brainstorming
+      - Planning
+  - project: "Whale Museum"
     tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Analysis
+      - Data cleaning
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "SICB"
+    time: 1
+  - project: "Whale Museum"
+    time: 3
 format:
   html:
     toc: true
 ---
 
+* Saturday. Darian and I met to go over potential funding for SICB, some data cleaning best practices, and did some initial data exploration of the whale sightings data. Next steps are to do some more research on funding opportunities and continue to move forward with the data cleaning.

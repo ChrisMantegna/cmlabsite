@@ -3,24 +3,18 @@ title: "October  21, 2024"
 author: "CM"
 date: "2024-10-21"
 categories:
-  - Project Progress
-  - Mentorship & Outreach
+  - Professional Development
 work:
-  - project: "Mussel Biomarker"
+  - project: "Yellow Island Program"
     tasks: 
-      - Seminar Preparation
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Editing
-      - Meeting Preparation
       - Meeting Attendance
+      - Networking
 hours_spent:
-  - project: "Mussel Biomarker"
+  - project: "Yellow Island Program"
     time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
 format:
   html:
     toc: true
 ---
 
+* I spent the day at the Seattle TNC offices meeting their science team, showcasing what we’ve been able to do on Yellow for the last three years, and then meeting one on one with Maia (lead scientist) to discuss future collaborations. It was an awesome day where we learned a ton about each other. I feel optimistic that we’ll be able to move forward collaboratively.

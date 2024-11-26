@@ -1,26 +1,19 @@
 ---
 title: "October  17, 2024"
 author: "CM"
-date: "2024-10-75"
+date: "2024-10-17"
 categories:
-  - Project Progress
-  - Mentorship & Outreach
+  - Non-Science Work
 work:
-  - project: "Mussel Biomarker"
+  - project: "Non-science"
     tasks: 
-      - Seminar Preparation
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Traveling
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "Non-science"
+    time: 8
 format:
   html:
     toc: true
 ---
 
+* Traveled home from FHL and focused on RUA work for the day.

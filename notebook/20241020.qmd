@@ -3,24 +3,18 @@ title: "October  20, 2024"
 author: "CM"
 date: "2024-10-20"
 categories:
-  - Project Progress
-  - Mentorship & Outreach
+  - Professional Development
 work:
-  - project: "Mussel Biomarker"
+  - project: "Yellow Island Program"
     tasks: 
-      - Seminar Preparation
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Editing
       - Meeting Preparation
-      - Meeting Attendance
+      - Presentation Preparation
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "Yellow Island Program"
+    time: 6
 format:
   html:
     toc: true
 ---
 
+* Sunday. Prepared for my Monday TNC science team meeting by putting together a brief Yellow Island presentation, a primer on our impact and products, and did some research on who I would be meeting.

@@ -6,21 +6,24 @@ categories:
   - Project Progress
   - Mentorship & Outreach
 work:
-  - project: "Mussel Biomarker"
+  - project: "Growth"
     tasks: 
-      - Seminar Preparation
-  - project: "Mentorship & Outreach"
+      - Planning
+      - Task management
+      - Time management
+  - project: "Yellow Island ecology"
     tasks: 
-      - Editing
-      - Meeting Preparation
-      - Meeting Attendance
+      - Analysis
 hours_spent:
-  - project: "Mussel Biomarker"
-    time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "Growth"
+    time: 3
+  - project: "Yellow Island ecology"
+    time: 4
 format:
   html:
     toc: true
 ---
 
+* Worked on the data cleaning for the quadrat SICB projects (Noah and Kai). The quadrat data from 2023 and 2024 are slightly different and if they are going to compare we may have to get creative.\
+
+* Attended FAB accountability session and planning meeting. We compared our current task/ project management platforms and how we use them, did our weekly retros, and talked about our goals for the end of the quarter.

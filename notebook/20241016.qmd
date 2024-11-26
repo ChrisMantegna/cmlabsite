@@ -4,23 +4,26 @@ author: "CM"
 date: "2024-10-16"
 categories:
   - Project Progress
-  - Mentorship & Outreach
+  - Professional Development
 work:
   - project: "Mussel Biomarker"
     tasks: 
       - Seminar Preparation
-  - project: "Mentorship & Outreach"
+      - Seminar Delivery
+  - project: "Learning"
     tasks: 
-      - Editing
-      - Meeting Preparation
+      - Networking
       - Meeting Attendance
 hours_spent:
   - project: "Mussel Biomarker"
+    time: 4
+  - project: "Learning"
     time: 5
-  - project: "Mentorship & Outreach"
-    time: 2
 format:
   html:
     toc: true
 ---
 
+-   Headed up to FHL to give the weekly seminar. Delivered the 1 hour seminar on the mussel biomarker work to mostly students and some of the faculty on campus. The Q&A afterward was really interactive - the students had great questions and benefitted from hearing work that didn't produce 'rockstar' results.\
+
+-   Met with Becca Maher, Olivia Graham and Marjorie Wonham about current projects and the upcoming NWStraits Commission conference.

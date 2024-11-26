@@ -1,1 +1,25 @@
-
+---
+title: "October  21, 2024"
+author: "CM"
+date: "2024-10-21"
+categories:
+  - Professional Development
+work:
+  - project: "Yellow Island Program"
+    tasks: 
+      - Meeting Attendance
+      - Networking
+  - project: "Mentorship & Outreach"
+    tasks: 
+      - Editing
+      - Meeting Preparation
+      - Meeting Attendance
+hours_spent:
+  - project: "Mussel Biomarker"
+    time: 5
+  - project: "Mentorship & Outreach"
+    time: 2
+format:
+  html:
+    toc: true
+---

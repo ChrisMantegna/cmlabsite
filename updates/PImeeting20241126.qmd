@@ -15,7 +15,7 @@ Since this is our first 1v1 in a while, this agenda is a bit longer than what wi
 I have 11 current projects at varying stages of progress. They are below organized by delivery timeline.
 
 | Project                                                      | Current Status                                                                                                       | Projected start &/ or delivery dates                                               |
-|------------------------|------------------------|------------------------|
+|------------------|--------------------------------|-----------------------|
 | Mussel Biomarkers                                            | Manuscript writing and visualization in progress                                                                     | Overdue                                                                            |
 | BIMS Week IG Workshop                                        | All content created and website build in progress                                                                    | Delivery date: 12/4/24                                                             |
 | SICB - Travel coordination for 6 students and myself         | 3 of 6 students completely funded; 2 pending award announcements and 1 pending budget approval from SR               | Ideal delivery date: 12/6/24 Final delivery date: 1/3/25                           |
