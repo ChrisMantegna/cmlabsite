@@ -1,27 +1,22 @@
 ---
-title: "November  01, 2024"
+title: "November  02, 2024"
 author: "CM"
-date: "2024-11-01"
+date: "2024-11-02"
 categories:
   - Non-science work 
   - Personal Development
-  - Mentorship & Outreach
 work:
   - project: "Growth"
     tasks: 
-      - Task Management
-      - Time Management
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Coaching
-      - Brainstorming
-      - Mentoring
+      - Presentation Preparation
 hours_spent:
   - project: "Growth"
-    time: 1
-  - project: "Mentorship & Outreach"
-    time: 2
+    time: 4
 format:
   html:
     toc: true
 ---
+
+-   Saturday. Put together my presentation for the NWStraits Scholar reception.\
+
+-   Knocked out personal and household tasks today.

@@ -1,27 +1,22 @@
 ---
-title: "November  01, 2024"
+title: "November  16, 2024"
 author: "CM"
-date: "2024-11-01"
+date: "2024-11-16"
 categories:
-  - Non-science work 
-  - Personal Development
-  - Mentorship & Outreach
+  - Professional Development
 work:
   - project: "Growth"
     tasks: 
-      - Task Management
-      - Time Management
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Coaching
-      - Brainstorming
-      - Mentoring
+      - Conference Attendance
+      - Learning
+      - Networking
 hours_spent:
   - project: "Growth"
-    time: 1
-  - project: "Mentorship & Outreach"
-    time: 2
+    time: 6
 format:
   html:
     toc: true
 ---
+
+* Saturday. I attended day 2 of the NWStraits Conference where I sat in on talks about climate change, local initiatives to fortify habitat restoration, and general conversations about how we increase the impact of work being done around the region. 
+

@@ -1,0 +1,28 @@
+---
+title: "November  16, 2024"
+author: "CM"
+date: "2024-11-16"
+categories:
+  - Non-science work 
+  - Personal Development
+  - Mentorship & Outreach
+work:
+  - project: "Growth"
+    tasks: 
+      - Task Management
+      - Time Management
+  - project: "Mentorship & Outreach"
+    tasks: 
+      - Coaching
+      - Brainstorming
+      - Mentoring
+hours_spent:
+  - project: "Growth"
+    time: 1
+  - project: "Mentorship & Outreach"
+    time: 2
+format:
+  html:
+    toc: true
+---
+

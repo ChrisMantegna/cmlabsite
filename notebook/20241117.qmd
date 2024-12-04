@@ -1,0 +1,21 @@
+---
+title: "November  17, 2024"
+author: "CM"
+date: "2024-11-17"
+categories:
+  - Personal Development
+work:
+  - project: "Administrative"
+    tasks: 
+      - Planning
+      - Scheduling
+      - Meeting Preparation
+hours_spent:
+  - project: "Administrative"
+    time: 4
+format:
+  html:
+    toc: true
+---
+
+* Sunday. I spent the day getting my house in order and planning for the week ahead.

@@ -1,27 +1,25 @@
 ---
-title: "November  01, 2024"
+title: "November  05, 2024"
 author: "CM"
-date: "2024-11-01"
+date: "2024-11-05"
 categories:
   - Non-science work 
   - Personal Development
-  - Mentorship & Outreach
 work:
-  - project: "Growth"
+  - project: "Administrative"
     tasks: 
-      - Task Management
-      - Time Management
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Coaching
-      - Brainstorming
-      - Mentoring
+      - Emails
+      - Meeting Setting
+      - Following Up
 hours_spent:
-  - project: "Growth"
-    time: 1
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "Admnistraive"
+    time: 3
 format:
   html:
     toc: true
 ---
+
+* Wrapping up any loose end tasks that cannot wait until I return from Germany.\
+
+* My Be Boundless campaign dropped today. It is very cool to see my Yellow Island work on the university’s web page.
+

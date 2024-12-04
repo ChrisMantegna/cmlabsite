@@ -1,0 +1,13 @@
+---
+title: "November  20, 2024"
+author: "CM"
+date: "2024-11-20"
+categories:
+  - Non-science work 
+format:
+  html:
+    toc: true
+---
+
+* Today was spent on RUA tasks and meetings.
+

@@ -1,27 +1,22 @@
 ---
-title: "November  01, 2024"
+title: "November  03, 2024"
 author: "CM"
-date: "2024-11-01"
+date: "2024-11-03"
 categories:
   - Non-science work 
-  - Personal Development
-  - Mentorship & Outreach
+  - Professional Development
 work:
   - project: "Growth"
     tasks: 
-      - Task Management
-      - Time Management
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Coaching
-      - Brainstorming
-      - Mentoring
+      - Presenting
+      - Networking
+      - Recognition
 hours_spent:
   - project: "Growth"
-    time: 1
-  - project: "Mentorship & Outreach"
-    time: 2
+    time: 5
 format:
   html:
     toc: true
 ---
+
+* Sunday. I attended the scholar reception where each of us presented a bit about our work and spent the remainder of the time on a panel in discussion with the board or networking with the other attendees.

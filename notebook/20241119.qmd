@@ -1,0 +1,40 @@
+---
+title: "November  19, 2024"
+author: "CM"
+date: "2024-11-19"
+categories:
+  - Personal Development 
+  - Project Progress
+work:
+  - project: "Growth"
+    tasks: 
+      - Coaching
+      - Brainstorming
+      - Planning
+      - Accountability
+  - project: "BIMS Week Workshop"
+    tasks: 
+      - Resource Sharing
+      - Meeting Attendance
+      - Planning
+hours_spent:
+  - project: "Growth"
+    time: 1.5
+  - project: "BIMS Week Workshop"
+    time: 3
+format:
+  html:
+    toc: true
+---
+
+19 Project Progress, Non-science work  
+PROJECTS & TASKS: BIMS workshop “resource sharing” “meeting attendance” “planning” “accountability”
+
+* Coaching session with Della. We spent some time working on logistics and reframing of the Yellow program and who else needs to join our team so that it is something that can stand on its own once I leave.\
+
+* Angela and I met to review our progress since our last meeting, review our needs from BIMS, and iron out any details that will prevent a seamless transition between our workshops.\
+
+* Symone and I met after my meeting with Angela. She took a quick look at what I put together and then we discussed logistics and supplies. I put together the list and a tentative schedule in our shared Google doc and will be ordering supplies to the hotel for my workshop.\
+
+* The remainder of the day was spent on RUA tasks and meetings.
+

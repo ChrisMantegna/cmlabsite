@@ -24,12 +24,22 @@ work:
       - Accountability
 hours_spent:
   - project: "Growth"
-    time: 1
+    time: 2
   - project: "Lab Meeting"
-    time: 2
+    time: 1
    - project: "SICB"
-    time: 2
+    time: 1.5
 format:
   html:
     toc: true
 ---
+
+* Met with Luis to discuss expanding his SICB presentation or leaving it as is. We also checked in on funding sources and unmet needs to get to the conference in January.\
+
+* I attended Science Hour and worked with Sam to get my mussel sequences from the Psomagen server to our own resources. He explained the process he uses, the purposes of the checks, and next steps once you transfer data.\
+
+* Attend the Quantitative Seminar given by Jack Buckner. He was presenting his work exploring ecological dynamics in complex systems using machine learning, modeling, and standard ecological data collection. Ultimately, his work can help untangle the nonlinear biological interactions that produce complex behaviors like regime shifts in an ecosystem. \
+
+* Participated in weekly FAB retros. I am still a bit overwhelmed by the amount of work I want to complete before leaving and it is wrecking my time blocking and task management.\
+
+* My goals for this month are just to meet my existing deadlines for deliverables. There will be no separate post for goals as I will spend half of the month away.

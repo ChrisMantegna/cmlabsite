@@ -1,0 +1,31 @@
+---
+title: "November  22, 2024"
+author: "CM"
+date: "2024-11-22"
+categories:
+  - Non-science work 
+  - Project Progress
+work:
+  - project: "SICB"
+    tasks: 
+      - Task Management
+      - Administrative
+  - project: "Mussel Epigenetics"
+    tasks: 
+      - Meeting Attendance
+      - Learning
+hours_spent:
+  - project: "SICB"
+    time: 3
+  - project: "Mussel Epigenetics"
+    time: 1.5
+format:
+  html:
+    toc: true
+---
+
+* Spent the morning updating my task tracker and reaching out for status on the SICB projects. I’ve not heard much in the way of task updates from Kai and Noah, so I will follow up with them on Monday if I don’t hear from them over the weekend.\
+
+* Attended Science Hour and walked through FastQC and MultiQC with Steven and Sam. It was super helpful to me to understand the data that was returned to us by Psomagen.\
+
+* The remainder of the dat was spent completing RUA tasks.

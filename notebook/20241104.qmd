@@ -4,24 +4,35 @@ author: "CM"
 date: "2024-11-01"
 categories:
   - Non-science work 
-  - Personal Development
-  - Mentorship & Outreach
+  - Lab
+  - Project Progress
 work:
-  - project: "Growth"
+  - project: "Lab Meeting"
     tasks: 
-      - Task Management
-      - Time Management
-  - project: "Mentorship & Outreach"
-    tasks: 
-      - Coaching
+      - Meeting Preparation
+      - Note Taking
       - Brainstorming
-      - Mentoring
+      - Planning
+  - project: "Yellow Island Ecology"
+    tasks: 
+      - Data Entry
+      - Data Cleaning
 hours_spent:
-  - project: "Growth"
-    time: 1
-  - project: "Mentorship & Outreach"
-    time: 2
+  - project: "Lab Meeting"
+    time: 2.5
+  - project: "Yellow Island Ecology"
+    time: 3
 format:
   html:
     toc: true
 ---
+
+* Attended lab meeting where we discussed creating a visual lab presence in FTR, future field opportunities with Ariana, and Klone training Steven will conduct and record for the lab.\
+
+* Attended the joint lab meeting with the Tornabene lab and enjoyed everyone sharing their research and personal interests.\
+
+* I finished the data entry for the yellow island quadrat data.\
+
+* The remainder of the day was spent on RUA tasks.
+
+
