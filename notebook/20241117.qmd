@@ -18,4 +18,4 @@ format:
     toc: true
 ---
 
-* Sunday. I spent the day getting my house in order and planning for the week ahead.
+-   Sunday. I spent the day getting my house in order and planning for the week ahead.

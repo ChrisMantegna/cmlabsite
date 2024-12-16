@@ -2,6 +2,22 @@
   {
     "listing": "/index.html",
     "items": [
+      "/notebook/20241125.html",
+      "/notebook/20241124.html",
+      "/notebook/20241123.html",
+      "/notebook/20241122.html",
+      "/notebook/20241121.html",
+      "/notebook/20241120.html",
+      "/notebook/20241119.html",
+      "/notebook/20241118.html",
+      "/notebook/20241117.html",
+      "/notebook/20241116.html",
+      "/notebook/20241106.html",
+      "/notebook/20241105.html",
+      "/notebook/20241104.html",
+      "/notebook/20241103.html",
+      "/notebook/20241102.html",
+      "/notebook/20241101.html",
       "/notebook/20241031.html",
       "/notebook/20241030.html",
       "/notebook/20241029.html",
@@ -107,7 +123,6 @@
     "listing": "/posts.html",
     "items": [
       "/posts/goal20241006.html",
-      "/posts/PImeeting20241126.html",
       "/posts/test20240830.html",
       "/posts/test20240829.html",
       "/posts/test20240828.html"

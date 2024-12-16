@@ -1,7 +1,7 @@
 ---
-title: "November  01, 2024"
+title: "November  04, 2024"
 author: "CM"
-date: "2024-11-01"
+date: "2024-11-04"
 categories:
   - Non-science work 
   - Lab
@@ -27,12 +27,10 @@ format:
     toc: true
 ---
 
-* Attended lab meeting where we discussed creating a visual lab presence in FTR, future field opportunities with Ariana, and Klone training Steven will conduct and record for the lab.\
+-   Attended lab meeting where we discussed creating a visual lab presence in FTR, future field opportunities with Ariana, and Klone training Steven will conduct and record for the lab.\
 
-* Attended the joint lab meeting with the Tornabene lab and enjoyed everyone sharing their research and personal interests.\
+-   Attended the joint lab meeting with the Tornabene lab and enjoyed everyone sharing their research and personal interests.\
 
-* I finished the data entry for the yellow island quadrat data.\
+-   I finished the data entry for the yellow island quadrat data.\
 
-* The remainder of the day was spent on RUA tasks.
-
-
+-   The remainder of the day was spent on RUA tasks.

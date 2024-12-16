@@ -25,8 +25,8 @@ format:
     toc: true
 ---
 
-*  The morning was focused on pulling together all of the pieces of the BIMS workshop together and launch the preliminary webpage for the content delivery. I have the core curricula, expanded curricula, resources, community builders, and a tentative schedule for delivering the content in a two-week window.\
+-   The morning was focused on pulling together all of the pieces of the BIMS workshop together and launch the preliminary webpage for the content delivery. I have the core curricula, expanded curricula, resources, community builders, and a tentative schedule for delivering the content in a two-week window.\
 
-* Attended lab meeting where we did check-ins and covered pressing lab issues. I also scheduled my biweekly meetings with Steven and registered for the SMEA 550- Qualitative Research Methods course for winter quarter.\
+-   Attended lab meeting where we did check-ins and covered pressing lab issues. I also scheduled my biweekly meetings with Steven and registered for the SMEA 550- Qualitative Research Methods course for winter quarter.\
 
-* The afternoon was spent on RUA tasks.
+-   The afternoon was spent on RUA tasks.

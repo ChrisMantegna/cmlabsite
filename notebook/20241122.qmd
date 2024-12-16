@@ -24,8 +24,8 @@ format:
     toc: true
 ---
 
-* Spent the morning updating my task tracker and reaching out for status on the SICB projects. I’ve not heard much in the way of task updates from Kai and Noah, so I will follow up with them on Monday if I don’t hear from them over the weekend.\
+-   Spent the morning updating my task tracker and reaching out for status on the SICB projects. I’ve not heard much in the way of task updates from Kai and Noah, so I will follow up with them on Monday if I don’t hear from them over the weekend.\
 
-* Attended Science Hour and walked through FastQC and MultiQC with Steven and Sam. It was super helpful to me to understand the data that was returned to us by Psomagen.\
+-   Attended Science Hour and walked through FastQC and MultiQC with Steven and Sam. It was super helpful to me to understand the data that was returned to us by Psomagen.\
 
-* The remainder of the dat was spent completing RUA tasks.
+-   The remainder of the dat was spent completing RUA tasks.

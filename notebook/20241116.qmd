@@ -18,5 +18,4 @@ format:
     toc: true
 ---
 
-* Saturday. I attended day 2 of the NWStraits Conference where I sat in on talks about climate change, local initiatives to fortify habitat restoration, and general conversations about how we increase the impact of work being done around the region. 
-
+-   Saturday. I attended day 2 of the NWStraits Conference where I sat in on talks about climate change, local initiatives to fortify habitat restoration, and general conversations about how we increase the impact of work being done around the region.

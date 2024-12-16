@@ -9,5 +9,4 @@ format:
     toc: true
 ---
 
-* Today was spent on RUA tasks and meetings.
-
+-   Today was spent on RUA tasks and meetings.
