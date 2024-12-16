@@ -27,21 +27,21 @@ editor: source
 <div class="card-grid" style="display: flex; gap: 1rem; flex-wrap: wrap;">
 
   <div class="card" style="flex: 1; max-width: 300px; min-height: 400px; display: flex; flex-direction: column; justify-content: space-between;">
-    <a href="updates/PImeeting20241126.qmd"> 
-      <img src="images/michaelscott.jpg" alt="Post 1" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
+    <a href="updates/PImeeting20241216.qmd"> 
+      <img src="images/advisorsign.jpeg" alt="Post 1" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
       <div>
         <h4><b>PI Meeting</b></h4>
-        <p>11/26/24 Biweekly Check In</p>
+        <p>12/17/24</p>
       </div>
     </a>
   </div>
 
   <div class="card" style="flex: 1; max-width: 300px; min-height: 400px; display: flex; flex-direction: column; justify-content: space-between;">
-    <a href="updates/post20240930.qmd"> 
-      <img src="images/bloodStar.png" alt="Post 2" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
+    <a href="updates/PImeeting20241126.qmd"> 
+      <img src="images/michaelscott.jpg" alt="Post 2" style="width: 100%; height: 200px; object-fit: cover;"/> <!-- Image scaled to fit -->
       <div>
-        <h4><b>September Goals Reflection</b></h4>
-        <p>End of Month Wrap-up</p>
+        <h4><b>PI Meeting</b></h4>
+        <p>11/26/24</p>
       </div>
     </a>
   </div>
