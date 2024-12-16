@@ -14,20 +14,20 @@ Since this is our first 1v1 in a while, this agenda is a bit longer than what wi
 
 I have 11 current projects at varying stages of progress. They are below organized by delivery timeline.
 
-| Project                                                      | Current Status                                                                                                       | Projected start &/ or delivery dates                                               |
-|------------------|--------------------------------|-----------------------|
-| Mussel Biomarkers                                            | Manuscript writing and visualization in progress                                                                     | Overdue                                                                            |
-| BIMS Week IG Workshop                                        | All content created and website build in progress                                                                    | Delivery date: 12/4/24                                                             |
-| SICB - Travel coordination for 6 students and myself         | 3 of 6 students completely funded; 2 pending award announcements and 1 pending budget approval from SR               | Ideal delivery date: 12/6/24 Final delivery date: 1/3/25                           |
-| SICB - Mussel biomarkers (Me)                                | Base presentation done, need to adjust for a 'hook' message and clean up maps                                        | Delivery date: 1/3/25                                                              |
-| SICB - Gray whale feeding (Darian)                           | Data analysis of sightings over last 10 years                                                                        | Delivery date: 1/3/25 Draft presentation by 12/20/24                               |
-| SICB - 2023 Yellow quadrat/ community characterization (Kai) | 11/26 meeting to review data cleaning status and kick-off analysis.                                                  | Delivery date: 1/3/25 Draft presentation by 12/20/24                               |
-| SICB - 2023 & '24 Yellow quadrat comparison (Noah)           | 12/2 meeting to review data cleaning status and kick-off analysis.                                                   | Delivery date: 1/3/25 Draft presentation by 12/20/24                               |
-| Innovation Grant                                             | Core curricula is created and WA State level lesson plans are in progress                                            | Deliverables completed: 2/25 Reporting date: 3/ 2025                               |
-| Mussel Epigenetics                                           | Received sequences & Sam completed initial QC                                                                        | Start (in earnest): 2/25                                                           |
-| eDNA - Yellow 2023                                           | Work stalled in phyloseq pipeline. Stalled based on the mismatch of delivered tax tables, meta data, and ASV formats | Delivery goal: 2/25 ***Note:*** *analysis needs to be complete for bypass package* |
-| PhD Bypass package                                           | Stalled while biomarker and eDNA analysis/ writing continues                                                         | Delivery goal: 2/1/25 Department submission: 2/15/25                               |
-| Ecotoxicology Course Development                             | Collecting content ideas. Stalled.                                                                                   | No assigned timeline                                                               |
+| Project | Current Status | Projected start &/ or delivery dates |
+|------------------|-------------------------------|-----------------------|
+| Mussel Biomarkers | Manuscript writing and visualization in progress | Overdue |
+| BIMS Week IG Workshop | All content created and website build in progress | Delivery date: 12/4/24 |
+| SICB - Travel coordination for 6 students and myself | 3 of 6 students completely funded; 2 pending award announcements and 1 pending budget approval from SR | Ideal delivery date: 12/6/24 Final delivery date: 1/3/25 |
+| SICB - Mussel biomarkers (Me) | Base presentation done, need to adjust for a 'hook' message and clean up maps | Delivery date: 1/3/25 |
+| SICB - Gray whale feeding (Darian) | Data analysis of sightings over last 10 years | Delivery date: 1/3/25 Draft presentation by 12/20/24 |
+| SICB - 2023 Yellow quadrat/ community characterization (Kai) | 11/26 meeting to review data cleaning status and kick-off analysis. | Delivery date: 1/3/25 Draft presentation by 12/20/24 |
+| SICB - 2023 & '24 Yellow quadrat comparison (Noah) | 12/2 meeting to review data cleaning status and kick-off analysis. | Delivery date: 1/3/25 Draft presentation by 12/20/24 |
+| Innovation Grant | Core curricula is created and WA State level lesson plans are in progress | Deliverables completed: 2/25 Reporting date: 3/ 2025 |
+| Mussel Epigenetics | Received sequences & Sam completed initial QC | Start (in earnest): 2/25 |
+| eDNA - Yellow 2023 | Work stalled in phyloseq pipeline. Stalled based on the mismatch of delivered tax tables, meta data, and ASV formats | Delivery goal: 2/25 ***Note:*** *analysis needs to be complete for bypass package* |
+| PhD Bypass package | Stalled while biomarker and eDNA analysis/ writing continues | Delivery goal: 2/1/25 Department submission: 2/15/25 |
+| Ecotoxicology Course Development | Collecting content ideas. Stalled. | No assigned timeline |
 
 ## Previous 2 Week Progress
 
