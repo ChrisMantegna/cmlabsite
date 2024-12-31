@@ -1,7 +1,7 @@
 ---
 title: "12/31/24 Biweekly Check-In"
 author: CM
-date: December 30, 2024
+date: December 31, 2024
 categories: [ "PI meeting", "progress"]
 image: "../images/advisorsign.jpeg"
 ---
@@ -9,17 +9,36 @@ image: "../images/advisorsign.jpeg"
 # Performance Assessment
 
 ## Previous 2 weeks
+- SICB project co-working sessions with Kai, Darian and Noah\
+- Declined Summer 2025 REU mentor spot\
+- NOVA HS Outreach\
+- Brainstorming WSG proposal that can align with PhD work\
+- Great convo and resource sharing w/ Emma on 12.30 during lab meeting\
 
-# Priorities/ Action Items
+# Current Priorities/ Action Items
+- Completing my own presentation for SICB & networking at SICB\
+- Creating a weekly accountability structure with you\
+- Biomarkers...again\
+
+## Questions
+- Mussel methylation for SICB presentation?
+- Did we respond to Amy re: being part of the Carnegie certification?\
+- Do you need an invoice from Rosalind or was it enough to submit the request?\
+- Any movement on Althea & Umut's one-time payment?\
 
 ## Next 2 weeks
+- Biomarkers
 
 ## Long term priorities (within the next 2 months)
+- Ecotox course\
+- WSG proposal - based on our convo\
+- eDNA analysis\
 
 # Other news/ For your awareness...
 
 *New*\
 - Nothing as of 12.31.34\
+
 *Previous*\
 - Taking FISH 549 Best Practices in Environmental Data Science. Mostly as a way to force me into better habits and project progress throughout the quarter\
 - Taking SMEA 550 Qualitative Methods in winter quarter\
