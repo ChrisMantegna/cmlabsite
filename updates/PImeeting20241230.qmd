@@ -1,0 +1,26 @@
+---
+title: "12/31/24 Biweekly Check-In"
+author: CM
+date: December 30, 2024
+categories: [ "PI meeting", "progress"]
+image: "../images/advisorsign.jpeg"
+---
+
+# Performance Assessment
+
+## Previous 2 weeks
+
+# Priorities/ Action Items
+
+## Next 2 weeks
+
+## Long term priorities (within the next 2 months)
+
+# Other news/ For your awareness...
+
+*New*\
+- Nothing as of 12.31.34\
+*Previous*\
+- Taking FISH 549 Best Practices in Environmental Data Science. Mostly as a way to force me into better habits and project progress throughout the quarter\
+- Taking SMEA 550 Qualitative Methods in winter quarter\
+- Applied to the summer BIOL 200 Lecturer role\

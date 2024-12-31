@@ -1,5 +1,5 @@
 ---
-title: "12/16/25 Biweekly Check-In"
+title: "12/16/24 Biweekly Check-In"
 author: CM
 date: December 16, 2024
 categories: [ "PI meeting", "progress"]
