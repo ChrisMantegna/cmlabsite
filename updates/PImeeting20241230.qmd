@@ -25,6 +25,7 @@ image: "../images/advisorsign.jpeg"
 - Did we respond to Amy re: being part of the Carnegie certification?\
 - Do you need an invoice from Rosalind or was it enough to submit the request?\
 - Any movement on Althea & Umut's one-time payment?\
+- [Shellfish Growers Conference](https://secure.touchnet.net/C20410_ustores/web/product_detail.jsp?PRODUCTID=6386)\
 
 ## Next 2 weeks
 - Biomarkers
